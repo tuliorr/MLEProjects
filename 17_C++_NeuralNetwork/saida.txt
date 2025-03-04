@@ -1,0 +1,10008 @@
+
+Step1: Input : 1 0 
+Output: 0.926279 
+Target: 0 
+Erro da Rede: 0.00917108
+
+Step2: Input : 1 1 
+Output: 0.952448 
+Target: 1 
+Erro da Rede: 0.00955109
+
+Step3: Input : 1 0 
+Output: 0.908538 
+Target: 0 
+Erro da Rede: 0.0184519
+
+Step4: Input : 0 1 
+Output: 0.931816 
+Target: 0 
+Erro da Rede: 0.0274952
+
+Step5: Input : 0 1 
+Output: 0.916061 
+Target: 0 
+Erro da Rede: 0.0362928
+
+Step6: Input : 0 1 
+Output: 0.892872 
+Target: 0 
+Erro da Rede: 0.0447738
+
+Step7: Input : 0 1 
+Output: 0.856883 
+Target: 0 
+Erro da Rede: 0.0528145
+
+Step8: Input : 1 1 
+Output: 0.792693 
+Target: 1 
+Erro da Rede: 0.0543441
+
+Step9: Input : 1 1 
+Output: 0.771222 
+Target: 1 
+Erro da Rede: 0.0560712
+
+Step10: Input : 0 1 
+Output: 0.785794 
+Target: 0 
+Erro da Rede: 0.0632962
+
+Step11: Input : 0 0 
+Output: 0.584411 
+Target: 0 
+Erro da Rede: 0.0684557
+
+Step12: Input : 0 1 
+Output: 0.605677 
+Target: 0 
+Erro da Rede: 0.0737748
+
+Step13: Input : 0 0 
+Output: 0.225016 
+Target: 0 
+Erro da Rede: 0.0752722
+
+Step14: Input : 0 0 
+Output: 0.0335894 
+Target: 0 
+Erro da Rede: 0.0748595
+
+Step15: Input : 1 0 
+Output: -0.154481 
+Target: 0 
+Erro da Rede: 0.0756478
+
+Step16: Input : 1 1 
+Output: -0.0278274 
+Target: 1 
+Erro da Rede: 0.0850754
+
+Step17: Input : 1 0 
+Output: 0.385386 
+Target: 0 
+Erro da Rede: 0.0880487
+
+Step18: Input : 1 1 
+Output: 0.618745 
+Target: 1 
+Erro da Rede: 0.0909518
+
+Step19: Input : 0 1 
+Output: 0.708382 
+Target: 0 
+Erro da Rede: 0.0970649
+
+Step20: Input : 0 1 
+Output: 0.666388 
+Target: 0 
+Erro da Rede: 0.102702
+
+Step21: Input : 1 1 
+Output: 0.549274 
+Target: 1 
+Erro da Rede: 0.106148
+
+Step22: Input : 0 1 
+Output: 0.565897 
+Target: 0 
+Erro da Rede: 0.1107
+
+Step23: Input : 0 0 
+Output: 0.251902 
+Target: 0 
+Erro da Rede: 0.112098
+
+Step24: Input : 1 1 
+Output: 0.335524 
+Target: 1 
+Erro da Rede: 0.117567
+
+Step25: Input : 0 1 
+Output: 0.49165 
+Target: 0 
+Erro da Rede: 0.12127
+
+Step26: Input : 1 0 
+Output: 0.350728 
+Target: 0 
+Erro da Rede: 0.123542
+
+Step27: Input : 0 1 
+Output: 0.294353 
+Target: 0 
+Erro da Rede: 0.125234
+
+Step28: Input : 1 0 
+Output: -0.0164689 
+Target: 0 
+Erro da Rede: 0.124157
+
+Step29: Input : 0 0 
+Output: -0.162462 
+Target: 0 
+Erro da Rede: 0.124536
+
+Step30: Input : 0 0 
+Output: -0.150867 
+Target: 0 
+Erro da Rede: 0.124797
+
+Step31: Input : 0 1 
+Output: 0.065918 
+Target: 0 
+Erro da Rede: 0.124214
+
+Step32: Input : 1 1 
+Output: 0.088099 
+Target: 1 
+Erro da Rede: 0.132013
+
+Step33: Input : 0 1 
+Output: 0.473611 
+Target: 0 
+Erro da Rede: 0.135395
+
+Step34: Input : 0 1 
+Output: 0.515044 
+Target: 0 
+Erro da Rede: 0.139154
+
+Step35: Input : 1 1 
+Output: 0.491979 
+Target: 1 
+Erro da Rede: 0.142806
+
+Step36: Input : 1 0 
+Output: 0.465201 
+Target: 0 
+Erro da Rede: 0.145998
+
+Step37: Input : 0 1 
+Output: 0.4136 
+Target: 0 
+Erro da Rede: 0.148647
+
+Step38: Input : 1 1 
+Output: 0.332845 
+Target: 1 
+Erro da Rede: 0.153781
+
+Step39: Input : 0 1 
+Output: 0.398776 
+Target: 0 
+Erro da Rede: 0.156207
+
+Step40: Input : 1 0 
+Output: 0.33444 
+Target: 0 
+Erro da Rede: 0.157971
+
+Step41: Input : 1 0 
+Output: 0.181916 
+Target: 0 
+Erro da Rede: 0.158209
+
+Step42: Input : 0 1 
+Output: 0.0600731 
+Target: 0 
+Erro da Rede: 0.157237
+
+Step43: Input : 1 0 
+Output: -0.0860127 
+Target: 0 
+Erro da Rede: 0.156532
+
+Step44: Input : 0 1 
+Output: -0.0553584 
+Target: 0 
+Erro da Rede: 0.15553
+
+Step45: Input : 0 1 
+Output: -0.0393209 
+Target: 0 
+Erro da Rede: 0.154379
+
+Step46: Input : 1 1 
+Output: 0.0846205 
+Target: 1 
+Erro da Rede: 0.161914
+
+Step47: Input : 1 1 
+Output: 0.54547 
+Target: 1 
+Erro da Rede: 0.164811
+
+Step48: Input : 0 1 
+Output: 0.671574 
+Target: 0 
+Erro da Rede: 0.169829
+
+Step49: Input : 0 1 
+Output: 0.679581 
+Target: 0 
+Erro da Rede: 0.174876
+
+Step50: Input : 1 1 
+Output: 0.735175 
+Target: 1 
+Erro da Rede: 0.175766
+
+Step51: Input : 0 0 
+Output: 0.299194 
+Target: 0 
+Erro da Rede: 0.176988
+
+Step52: Input : 1 1 
+Output: 0.675361 
+Target: 1 
+Erro da Rede: 0.17845
+
+Step53: Input : 0 1 
+Output: 0.501911 
+Target: 0 
+Erro da Rede: 0.181653
+
+Step54: Input : 1 0 
+Output: 0.460674 
+Target: 0 
+Erro da Rede: 0.184415
+
+Step55: Input : 1 0 
+Output: 0.250468 
+Target: 0 
+Erro da Rede: 0.185069
+
+Step56: Input : 1 0 
+Output: 0.0268445 
+Target: 0 
+Erro da Rede: 0.183503
+
+Step57: Input : 0 0 
+Output: -0.350061 
+Target: 0 
+Erro da Rede: 0.185152
+
+Step58: Input : 0 0 
+Output: -0.30797 
+Target: 0 
+Erro da Rede: 0.186368
+
+Step59: Input : 1 0 
+Output: 0.0496953 
+Target: 0 
+Erro da Rede: 0.185015
+
+Step60: Input : 0 1 
+Output: 0.0509622 
+Target: 0 
+Erro da Rede: 0.183688
+
+Step61: Input : 0 0 
+Output: -0.167712 
+Target: 0 
+Erro da Rede: 0.183529
+
+Step62: Input : 0 1 
+Output: 0.0996684 
+Target: 0 
+Erro da Rede: 0.182699
+
+Step63: Input : 1 1 
+Output: 0.280749 
+Target: 1 
+Erro da Rede: 0.188011
+
+Step64: Input : 1 0 
+Output: 0.406278 
+Target: 0 
+Erro da Rede: 0.190172
+
+Step65: Input : 1 0 
+Output: 0.402593 
+Target: 0 
+Erro da Rede: 0.192276
+
+Step66: Input : 0 0 
+Output: -0.0156032 
+Target: 0 
+Erro da Rede: 0.190526
+
+Step67: Input : 1 0 
+Output: 0.187673 
+Target: 0 
+Erro da Rede: 0.190498
+
+Step68: Input : 0 1 
+Output: 0.114522 
+Target: 0 
+Erro da Rede: 0.189746
+
+Step69: Input : 0 1 
+Output: 0.0200656 
+Target: 0 
+Erro da Rede: 0.188066
+
+Step70: Input : 0 1 
+Output: -0.0354621 
+Target: 0 
+Erro da Rede: 0.186555
+
+Step71: Input : 0 1 
+Output: -0.0485111 
+Target: 0 
+Erro da Rede: 0.185188
+
+Step72: Input : 0 1 
+Output: -0.0351134 
+Target: 0 
+Erro da Rede: 0.183702
+
+Step73: Input : 0 0 
+Output: -0.261497 
+Target: 0 
+Erro da Rede: 0.184473
+
+Step74: Input : 1 1 
+Output: 0.23022 
+Target: 1 
+Erro da Rede: 0.190268
+
+Step75: Input : 1 1 
+Output: 0.587888 
+Target: 1 
+Erro da Rede: 0.192464
+
+Step76: Input : 1 1 
+Output: 0.780744 
+Target: 1 
+Erro da Rede: 0.192729
+
+Step77: Input : 0 0 
+Output: 0.471111 
+Target: 0 
+Erro da Rede: 0.195486
+
+Step78: Input : 1 0 
+Output: 0.71593 
+Target: 0 
+Erro da Rede: 0.200639
+
+Step79: Input : 0 0 
+Output: 0.287794 
+Target: 0 
+Erro da Rede: 0.201502
+
+Step80: Input : 0 1 
+Output: 0.532553 
+Target: 0 
+Erro da Rede: 0.204779
+
+Step81: Input : 1 1 
+Output: 0.550243 
+Target: 1 
+Erro da Rede: 0.207205
+
+Step82: Input : 0 0 
+Output: -0.0901916 
+Target: 0 
+Erro da Rede: 0.206046
+
+Step83: Input : 1 0 
+Output: 0.324151 
+Target: 0 
+Erro da Rede: 0.207216
+
+Step84: Input : 1 0 
+Output: 0.21263 
+Target: 0 
+Erro da Rede: 0.207269
+
+Step85: Input : 1 0 
+Output: 0.0573212 
+Target: 0 
+Erro da Rede: 0.205785
+
+Step86: Input : 1 0 
+Output: -0.04864 
+Target: 0 
+Erro da Rede: 0.204229
+
+Step87: Input : 0 1 
+Output: 0.0745894 
+Target: 0 
+Erro da Rede: 0.202945
+
+Step88: Input : 1 0 
+Output: -0.118107 
+Target: 0 
+Erro da Rede: 0.202105
+
+Step89: Input : 0 0 
+Output: -0.348103 
+Target: 0 
+Erro da Rede: 0.203551
+
+Step90: Input : 1 1 
+Output: 0.379609 
+Target: 1 
+Erro da Rede: 0.207678
+
+Step91: Input : 0 1 
+Output: 0.417693 
+Target: 0 
+Erro da Rede: 0.209757
+
+Step92: Input : 1 0 
+Output: 0.352592 
+Target: 0 
+Erro da Rede: 0.211171
+
+Step93: Input : 1 0 
+Output: 0.226287 
+Target: 0 
+Erro da Rede: 0.211321
+
+Step94: Input : 1 1 
+Output: 0.422496 
+Target: 1 
+Erro da Rede: 0.214947
+
+Step95: Input : 0 1 
+Output: 0.313519 
+Target: 0 
+Erro da Rede: 0.215923
+
+Step96: Input : 1 1 
+Output: 0.524988 
+Target: 1 
+Erro da Rede: 0.218488
+
+Step97: Input : 1 1 
+Output: 0.637141 
+Target: 1 
+Erro da Rede: 0.219917
+
+Step98: Input : 0 1 
+Output: 0.508407 
+Target: 0 
+Erro da Rede: 0.222774
+
+Step99: Input : 1 1 
+Output: 0.709323 
+Target: 1 
+Erro da Rede: 0.223446
+
+Step100: Input : 1 1 
+Output: 0.730777 
+Target: 1 
+Erro da Rede: 0.223899
+
+Step101: Input : 1 1 
+Output: 0.771803 
+Target: 1 
+Erro da Rede: 0.223942
+
+Step102: Input : 1 1 
+Output: 0.809523 
+Target: 1 
+Erro da Rede: 0.22361
+
+Step103: Input : 1 0 
+Output: 0.618644 
+Target: 0 
+Erro da Rede: 0.227522
+
+Step104: Input : 0 1 
+Output: 0.521368 
+Target: 0 
+Erro da Rede: 0.230431
+
+Step105: Input : 1 0 
+Output: 0.308058 
+Target: 0 
+Erro da Rede: 0.2312
+
+Step106: Input : 1 0 
+Output: 0.0583172 
+Target: 0 
+Erro da Rede: 0.229488
+
+Step107: Input : 1 0 
+Output: -0.0988634 
+Target: 0 
+Erro da Rede: 0.228195
+
+Step108: Input : 1 0 
+Output: -0.126717 
+Target: 0 
+Erro da Rede: 0.22719
+
+Step109: Input : 0 0 
+Output: -0.480329 
+Target: 0 
+Erro da Rede: 0.229696
+
+Step110: Input : 0 1 
+Output: 0.101577 
+Target: 0 
+Erro da Rede: 0.228428
+
+Step111: Input : 0 1 
+Output: 0.120467 
+Target: 0 
+Erro da Rede: 0.227359
+
+Step112: Input : 1 1 
+Output: 0.461241 
+Target: 1 
+Erro da Rede: 0.230442
+
+Step113: Input : 0 1 
+Output: 0.236145 
+Target: 0 
+Erro da Rede: 0.230498
+
+Step114: Input : 1 0 
+Output: 0.287218 
+Target: 0 
+Erro da Rede: 0.23106
+
+Step115: Input : 0 1 
+Output: 0.111254 
+Target: 0 
+Erro da Rede: 0.229874
+
+Step116: Input : 1 0 
+Output: 0.071097 
+Target: 0 
+Erro da Rede: 0.228302
+
+Step117: Input : 0 1 
+Output: -0.0681283 
+Target: 0 
+Erro da Rede: 0.226716
+
+Step118: Input : 0 0 
+Output: -0.464425 
+Target: 0 
+Erro da Rede: 0.229069
+
+Step119: Input : 0 1 
+Output: 0.0437693 
+Target: 0 
+Erro da Rede: 0.227235
+
+Step120: Input : 1 0 
+Output: 0.118602 
+Target: 0 
+Erro da Rede: 0.226159
+
+Step121: Input : 1 0 
+Output: 0.0824433 
+Target: 0 
+Erro da Rede: 0.224736
+
+Step122: Input : 0 0 
+Output: -0.366311 
+Target: 0 
+Erro da Rede: 0.226138
+
+Step123: Input : 1 0 
+Output: 0.100119 
+Target: 0 
+Erro da Rede: 0.22489
+
+Step124: Input : 1 0 
+Output: 0.0903563 
+Target: 0 
+Erro da Rede: 0.223558
+
+Step125: Input : 0 1 
+Output: 0.096859 
+Target: 0 
+Erro da Rede: 0.222304
+
+Step126: Input : 1 1 
+Output: 0.365432 
+Target: 1 
+Erro da Rede: 0.226386
+
+Step127: Input : 0 0 
+Output: -0.191951 
+Target: 0 
+Erro da Rede: 0.226045
+
+Step128: Input : 1 1 
+Output: 0.683956 
+Target: 1 
+Erro da Rede: 0.226936
+
+Step129: Input : 1 0 
+Output: 0.499818 
+Target: 0 
+Erro da Rede: 0.229638
+
+Step130: Input : 1 0 
+Output: 0.41064 
+Target: 0 
+Erro da Rede: 0.23143
+
+Step131: Input : 1 1 
+Output: 0.627051 
+Target: 1 
+Erro da Rede: 0.232831
+
+Step132: Input : 1 0 
+Output: 0.185754 
+Target: 0 
+Erro da Rede: 0.232365
+
+Step133: Input : 1 0 
+Output: 0.0852868 
+Target: 0 
+Erro da Rede: 0.230908
+
+Step134: Input : 0 1 
+Output: 0.314689 
+Target: 0 
+Erro da Rede: 0.231738
+
+Step135: Input : 1 0 
+Output: -0.149105 
+Target: 0 
+Erro da Rede: 0.23092
+
+Step136: Input : 0 0 
+Output: -0.393265 
+Target: 0 
+Erro da Rede: 0.232527
+
+Step137: Input : 1 1 
+Output: 0.478981 
+Target: 1 
+Erro da Rede: 0.235384
+
+Step138: Input : 1 0 
+Output: 0.216629 
+Target: 0 
+Erro da Rede: 0.235198
+
+Step139: Input : 1 0 
+Output: 0.230614 
+Target: 0 
+Erro da Rede: 0.235153
+
+Step140: Input : 0 0 
+Output: -0.163185 
+Target: 0 
+Erro da Rede: 0.23444
+
+Step141: Input : 1 0 
+Output: 0.125945 
+Target: 0 
+Erro da Rede: 0.233366
+
+Step142: Input : 1 0 
+Output: 0.0606741 
+Target: 0 
+Erro da Rede: 0.231656
+
+Step143: Input : 0 0 
+Output: -0.208893 
+Target: 0 
+Erro da Rede: 0.231431
+
+Step144: Input : 1 1 
+Output: 0.596179 
+Target: 1 
+Erro da Rede: 0.233137
+
+Step145: Input : 1 1 
+Output: 0.693845 
+Target: 1 
+Erro da Rede: 0.23386
+
+Step146: Input : 0 1 
+Output: 0.633386 
+Target: 0 
+Erro da Rede: 0.237816
+
+Step147: Input : 0 1 
+Output: 0.562057 
+Target: 0 
+Erro da Rede: 0.241026
+
+Step148: Input : 1 1 
+Output: 0.61658 
+Target: 1 
+Erro da Rede: 0.242436
+
+Step149: Input : 1 0 
+Output: 0.157856 
+Target: 0 
+Erro da Rede: 0.241599
+
+Step150: Input : 1 1 
+Output: 0.592836 
+Target: 1 
+Erro da Rede: 0.243238
+
+Step151: Input : 0 1 
+Output: 0.395165 
+Target: 0 
+Erro da Rede: 0.244742
+
+Step152: Input : 1 1 
+Output: 0.609634 
+Target: 1 
+Erro da Rede: 0.246184
+
+Step153: Input : 0 1 
+Output: 0.338464 
+Target: 0 
+Erro da Rede: 0.247098
+
+Step154: Input : 0 0 
+Output: -0.290586 
+Target: 0 
+Erro da Rede: 0.247528
+
+Step155: Input : 1 0 
+Output: 0.217076 
+Target: 0 
+Erro da Rede: 0.247227
+
+Step156: Input : 0 1 
+Output: 0.200992 
+Target: 0 
+Erro da Rede: 0.246769
+
+Step157: Input : 0 0 
+Output: -0.354303 
+Target: 0 
+Erro da Rede: 0.247834
+
+Step158: Input : 0 1 
+Output: 0.12526 
+Target: 0 
+Erro da Rede: 0.24662
+
+Step159: Input : 1 0 
+Output: 0.0990615 
+Target: 0 
+Erro da Rede: 0.245159
+
+Step160: Input : 1 0 
+Output: 0.0473847 
+Target: 0 
+Erro da Rede: 0.243201
+
+Step161: Input : 1 1 
+Output: 0.408764 
+Target: 1 
+Erro da Rede: 0.246647
+
+Step162: Input : 0 0 
+Output: -0.232092 
+Target: 0 
+Erro da Rede: 0.246503
+
+Step163: Input : 0 0 
+Output: -0.0836918 
+Target: 0 
+Erro da Rede: 0.244891
+
+Step164: Input : 0 0 
+Output: 0.0244495 
+Target: 0 
+Erro da Rede: 0.242708
+
+Step165: Input : 0 1 
+Output: 0.490587 
+Target: 0 
+Erro da Rede: 0.245162
+
+Step166: Input : 1 1 
+Output: 0.717283 
+Target: 1 
+Erro da Rede: 0.245534
+
+Step167: Input : 1 1 
+Output: 0.719261 
+Target: 1 
+Erro da Rede: 0.245883
+
+Step168: Input : 0 0 
+Output: -0.00470621 
+Target: 0 
+Erro da Rede: 0.243495
+
+Step169: Input : 0 1 
+Output: 0.404233 
+Target: 0 
+Erro da Rede: 0.245086
+
+Step170: Input : 1 0 
+Output: 0.438976 
+Target: 0 
+Erro da Rede: 0.247006
+
+Step171: Input : 0 0 
+Output: -0.259203 
+Target: 0 
+Erro da Rede: 0.247127
+
+Step172: Input : 0 1 
+Output: 0.0628748 
+Target: 0 
+Erro da Rede: 0.245303
+
+Step173: Input : 0 0 
+Output: -0.274333 
+Target: 0 
+Erro da Rede: 0.24559
+
+Step174: Input : 0 0 
+Output: -0.197569 
+Target: 0 
+Erro da Rede: 0.245115
+
+Step175: Input : 0 1 
+Output: 0.186555 
+Target: 0 
+Erro da Rede: 0.244535
+
+Step176: Input : 1 0 
+Output: 0.334531 
+Target: 0 
+Erro da Rede: 0.245426
+
+Step177: Input : 1 1 
+Output: 0.495066 
+Target: 1 
+Erro da Rede: 0.247995
+
+Step178: Input : 0 0 
+Output: -0.124847 
+Target: 0 
+Erro da Rede: 0.246776
+
+Step179: Input : 1 1 
+Output: 0.652201 
+Target: 1 
+Erro da Rede: 0.247776
+
+Step180: Input : 1 0 
+Output: 0.474979 
+Target: 0 
+Erro da Rede: 0.250026
+
+Step181: Input : 1 0 
+Output: 0.379568 
+Target: 0 
+Erro da Rede: 0.251308
+
+Step182: Input : 1 0 
+Output: 0.176511 
+Target: 0 
+Erro da Rede: 0.250568
+
+Step183: Input : 0 0 
+Output: -0.282197 
+Target: 0 
+Erro da Rede: 0.250881
+
+Step184: Input : 1 1 
+Output: 0.458372 
+Target: 1 
+Erro da Rede: 0.25376
+
+Step185: Input : 1 0 
+Output: 0.154739 
+Target: 0 
+Erro da Rede: 0.252779
+
+Step186: Input : 1 0 
+Output: 0.16905 
+Target: 0 
+Erro da Rede: 0.25195
+
+Step187: Input : 0 0 
+Output: -0.133411 
+Target: 0 
+Erro da Rede: 0.250776
+
+Step188: Input : 1 1 
+Output: 0.631074 
+Target: 1 
+Erro da Rede: 0.251946
+
+Step189: Input : 0 0 
+Output: -0.0226421 
+Target: 0 
+Erro da Rede: 0.249676
+
+Step190: Input : 1 1 
+Output: 0.740904 
+Target: 1 
+Erro da Rede: 0.249769
+
+Step191: Input : 0 0 
+Output: 0.0955737 
+Target: 0 
+Erro da Rede: 0.248243
+
+Step192: Input : 1 1 
+Output: 0.792023 
+Target: 1 
+Erro da Rede: 0.247844
+
+Step193: Input : 0 0 
+Output: 0.116338 
+Target: 0 
+Erro da Rede: 0.246542
+
+Step194: Input : 1 0 
+Output: 0.357999 
+Target: 0 
+Erro da Rede: 0.247645
+
+Step195: Input : 0 0 
+Output: -0.0529505 
+Target: 0 
+Erro da Rede: 0.245718
+
+Step196: Input : 0 1 
+Output: 0.520118 
+Target: 0 
+Erro da Rede: 0.248435
+
+Step197: Input : 1 0 
+Output: -0.0436585 
+Target: 0 
+Erro da Rede: 0.246407
+
+Step198: Input : 0 0 
+Output: -0.296504 
+Target: 0 
+Erro da Rede: 0.246903
+
+Step199: Input : 0 1 
+Output: 0.314598 
+Target: 0 
+Erro da Rede: 0.247573
+
+Step200: Input : 1 0 
+Output: -0.0579523 
+Target: 0 
+Erro da Rede: 0.245696
+
+Step201: Input : 0 1 
+Output: 0.167777 
+Target: 0 
+Erro da Rede: 0.244924
+
+Step202: Input : 1 1 
+Output: 0.428263 
+Target: 1 
+Erro da Rede: 0.24816
+
+Step203: Input : 1 0 
+Output: 0.0991124 
+Target: 0 
+Erro da Rede: 0.246684
+
+Step204: Input : 0 1 
+Output: 0.263032 
+Target: 0 
+Erro da Rede: 0.246846
+
+Step205: Input : 0 0 
+Output: -0.258819 
+Target: 0 
+Erro da Rede: 0.246965
+
+Step206: Input : 1 1 
+Output: 0.609341 
+Target: 1 
+Erro da Rede: 0.248388
+
+Step207: Input : 1 1 
+Output: 0.699283 
+Target: 1 
+Erro da Rede: 0.248906
+
+Step208: Input : 0 1 
+Output: 0.427755 
+Target: 0 
+Erro da Rede: 0.250676
+
+Step209: Input : 0 0 
+Output: -0.0596966 
+Target: 0 
+Erro da Rede: 0.248786
+
+Step210: Input : 1 0 
+Output: 0.392703 
+Target: 0 
+Erro da Rede: 0.25021
+
+Step211: Input : 0 0 
+Output: -0.190126 
+Target: 0 
+Erro da Rede: 0.249616
+
+Step212: Input : 1 0 
+Output: 0.220892 
+Target: 0 
+Erro da Rede: 0.249331
+
+Step213: Input : 0 1 
+Output: 0.13838 
+Target: 0 
+Erro da Rede: 0.248233
+
+Step214: Input : 0 1 
+Output: 0.0448203 
+Target: 0 
+Erro da Rede: 0.246219
+
+Step215: Input : 1 0 
+Output: -0.0457799 
+Target: 0 
+Erro da Rede: 0.244234
+
+Step216: Input : 0 1 
+Output: -0.0471786 
+Target: 0 
+Erro da Rede: 0.242283
+
+Step217: Input : 1 1 
+Output: 0.432644 
+Target: 1 
+Erro da Rede: 0.245502
+
+Step218: Input : 0 0 
+Output: -0.223883 
+Target: 0 
+Erro da Rede: 0.245288
+
+Step219: Input : 0 1 
+Output: 0.334498 
+Target: 0 
+Erro da Rede: 0.246171
+
+Step220: Input : 0 1 
+Output: 0.2731 
+Target: 0 
+Erro da Rede: 0.246437
+
+Step221: Input : 1 1 
+Output: 0.645498 
+Target: 1 
+Erro da Rede: 0.247507
+
+Step222: Input : 0 0 
+Output: -0.162815 
+Target: 0 
+Erro da Rede: 0.246669
+
+Step223: Input : 0 0 
+Output: -0.0920244 
+Target: 0 
+Erro da Rede: 0.245138
+
+Step224: Input : 0 0 
+Output: -0.0199444 
+Target: 0 
+Erro da Rede: 0.242908
+
+Step225: Input : 1 0 
+Output: 0.498274 
+Target: 0 
+Erro da Rede: 0.245437
+
+Step226: Input : 1 0 
+Output: 0.362068 
+Target: 0 
+Erro da Rede: 0.246591
+
+Step227: Input : 0 0 
+Output: -0.239559 
+Target: 0 
+Erro da Rede: 0.246522
+
+Step228: Input : 0 1 
+Output: 0.0884756 
+Target: 0 
+Erro da Rede: 0.244957
+
+Step229: Input : 0 1 
+Output: 0.051699 
+Target: 0 
+Erro da Rede: 0.243043
+
+Step230: Input : 1 1 
+Output: 0.476117 
+Target: 1 
+Erro da Rede: 0.245824
+
+Step231: Input : 1 1 
+Output: 0.615585 
+Target: 1 
+Erro da Rede: 0.247196
+
+Step232: Input : 1 0 
+Output: 0.342014 
+Target: 0 
+Erro da Rede: 0.248135
+
+Step233: Input : 1 0 
+Output: 0.281159 
+Target: 0 
+Erro da Rede: 0.248462
+
+Step234: Input : 1 1 
+Output: 0.669243 
+Target: 1 
+Erro da Rede: 0.249277
+
+Step235: Input : 1 1 
+Output: 0.691751 
+Target: 1 
+Erro da Rede: 0.249861
+
+Step236: Input : 1 0 
+Output: 0.176782 
+Target: 0 
+Erro da Rede: 0.249137
+
+Step237: Input : 0 1 
+Output: 0.411769 
+Target: 0 
+Erro da Rede: 0.250747
+
+Step238: Input : 1 1 
+Output: 0.651731 
+Target: 1 
+Erro da Rede: 0.251713
+
+Step239: Input : 0 0 
+Output: -0.288666 
+Target: 0 
+Erro da Rede: 0.252079
+
+Step240: Input : 0 1 
+Output: 0.333744 
+Target: 0 
+Erro da Rede: 0.252887
+
+Step241: Input : 0 1 
+Output: 0.226785 
+Target: 0 
+Erro da Rede: 0.252629
+
+Step242: Input : 1 1 
+Output: 0.606606 
+Target: 1 
+Erro da Rede: 0.254023
+
+Step243: Input : 0 0 
+Output: -0.288598 
+Target: 0 
+Erro da Rede: 0.254365
+
+Step244: Input : 0 0 
+Output: -0.167356 
+Target: 0 
+Erro da Rede: 0.253503
+
+Step245: Input : 1 1 
+Output: 0.772617 
+Target: 1 
+Erro da Rede: 0.253245
+
+Step246: Input : 0 0 
+Output: 0.0615088 
+Target: 0 
+Erro da Rede: 0.251346
+
+Step247: Input : 1 1 
+Output: 0.825033 
+Target: 1 
+Erro da Rede: 0.25059
+
+Step248: Input : 1 0 
+Output: 0.521867 
+Target: 0 
+Erro da Rede: 0.253276
+
+Step249: Input : 1 0 
+Output: 0.369256 
+Target: 0 
+Erro da Rede: 0.254424
+
+Step250: Input : 0 1 
+Output: 0.249133 
+Target: 0 
+Erro da Rede: 0.254372
+
+Step251: Input : 1 1 
+Output: 0.560107 
+Target: 1 
+Erro da Rede: 0.256209
+
+Step252: Input : 1 0 
+Output: -0.0367575 
+Target: 0 
+Erro da Rede: 0.254036
+
+Step253: Input : 0 1 
+Output: 0.135303 
+Target: 0 
+Erro da Rede: 0.25286
+
+Step254: Input : 1 1 
+Output: 0.61968 
+Target: 1 
+Erro da Rede: 0.254122
+
+Step255: Input : 1 1 
+Output: 0.691207 
+Target: 1 
+Erro da Rede: 0.254664
+
+Step256: Input : 0 1 
+Output: 0.260169 
+Target: 0 
+Erro da Rede: 0.254718
+
+Step257: Input : 1 1 
+Output: 0.75274 
+Target: 1 
+Erro da Rede: 0.254644
+
+Step258: Input : 0 1 
+Output: 0.185529 
+Target: 0 
+Erro da Rede: 0.25396
+
+Step259: Input : 1 1 
+Output: 0.747907 
+Target: 1 
+Erro da Rede: 0.253942
+
+Step260: Input : 1 1 
+Output: 0.764469 
+Target: 1 
+Erro da Rede: 0.253759
+
+Step261: Input : 1 1 
+Output: 0.796051 
+Target: 1 
+Erro da Rede: 0.253266
+
+Step262: Input : 1 0 
+Output: 0.40829 
+Target: 0 
+Erro da Rede: 0.254801
+
+Step263: Input : 1 1 
+Output: 0.785008 
+Target: 1 
+Erro da Rede: 0.254407
+
+Step264: Input : 1 1 
+Output: 0.782253 
+Target: 1 
+Erro da Rede: 0.254044
+
+Step265: Input : 1 1 
+Output: 0.801143 
+Target: 1 
+Erro da Rede: 0.253498
+
+Step266: Input : 0 1 
+Output: 0.2441 
+Target: 0 
+Erro da Rede: 0.253404
+
+Step267: Input : 0 0 
+Output: -0.33901 
+Target: 0 
+Erro da Rede: 0.254252
+
+Step268: Input : 1 1 
+Output: 0.821613 
+Target: 1 
+Erro da Rede: 0.253501
+
+Step269: Input : 1 1 
+Output: 0.842952 
+Target: 1 
+Erro da Rede: 0.252546
+
+Step270: Input : 0 1 
+Output: 0.288522 
+Target: 0 
+Erro da Rede: 0.252902
+
+Step271: Input : 1 1 
+Output: 0.83237 
+Target: 1 
+Erro da Rede: 0.252058
+
+Step272: Input : 1 0 
+Output: 0.420319 
+Target: 0 
+Erro da Rede: 0.253724
+
+Step273: Input : 1 0 
+Output: 0.240404 
+Target: 0 
+Erro da Rede: 0.253592
+
+Step274: Input : 1 1 
+Output: 0.668259 
+Target: 1 
+Erro da Rede: 0.254366
+
+Step275: Input : 1 1 
+Output: 0.680658 
+Target: 1 
+Erro da Rede: 0.255009
+
+Step276: Input : 0 0 
+Output: -0.441748 
+Target: 0 
+Erro da Rede: 0.256858
+
+Step277: Input : 1 0 
+Output: 0.218943 
+Target: 0 
+Erro da Rede: 0.256483
+
+Step278: Input : 1 0 
+Output: 0.177962 
+Target: 0 
+Erro da Rede: 0.255705
+
+Step279: Input : 1 0 
+Output: 0.0497342 
+Target: 0 
+Erro da Rede: 0.253666
+
+Step280: Input : 0 0 
+Output: -0.352058 
+Target: 0 
+Erro da Rede: 0.25464
+
+Step281: Input : 0 0 
+Output: -0.23957 
+Target: 0 
+Erro da Rede: 0.254491
+
+Step282: Input : 0 1 
+Output: 0.424012 
+Target: 0 
+Erro da Rede: 0.256169
+
+Step283: Input : 1 1 
+Output: 0.791222 
+Target: 1 
+Erro da Rede: 0.2557
+
+Step284: Input : 1 0 
+Output: 0.17569 
+Target: 0 
+Erro da Rede: 0.254908
+
+Step285: Input : 0 1 
+Output: 0.211813 
+Target: 0 
+Erro da Rede: 0.254481
+
+Step286: Input : 0 0 
+Output: -0.277265 
+Target: 0 
+Erro da Rede: 0.254707
+
+Step287: Input : 1 1 
+Output: 0.707624 
+Target: 1 
+Erro da Rede: 0.25508
+
+Step288: Input : 0 0 
+Output: -0.130573 
+Target: 0 
+Erro da Rede: 0.253847
+
+Step289: Input : 1 1 
+Output: 0.795727 
+Target: 1 
+Erro da Rede: 0.253356
+
+Step290: Input : 1 0 
+Output: 0.322761 
+Target: 0 
+Erro da Rede: 0.254043
+
+Step291: Input : 0 1 
+Output: 0.291348 
+Target: 0 
+Erro da Rede: 0.254413
+
+Step292: Input : 1 1 
+Output: 0.730644 
+Target: 1 
+Erro da Rede: 0.254561
+
+Step293: Input : 1 1 
+Output: 0.728505 
+Target: 1 
+Erro da Rede: 0.254728
+
+Step294: Input : 0 1 
+Output: 0.138309 
+Target: 0 
+Erro da Rede: 0.253576
+
+Step295: Input : 0 0 
+Output: -0.172104 
+Target: 0 
+Erro da Rede: 0.252769
+
+Step296: Input : 1 0 
+Output: 0.19826 
+Target: 0 
+Erro da Rede: 0.252229
+
+Step297: Input : 1 1 
+Output: 0.74854 
+Target: 1 
+Erro da Rede: 0.252222
+
+Step298: Input : 0 0 
+Output: -0.131384 
+Target: 0 
+Erro da Rede: 0.251025
+
+Step299: Input : 1 1 
+Output: 0.792241 
+Target: 1 
+Erro da Rede: 0.250597
+
+Step300: Input : 1 0 
+Output: 0.246329 
+Target: 0 
+Erro da Rede: 0.250555
+
+Step301: Input : 1 1 
+Output: 0.798173 
+Target: 1 
+Erro da Rede: 0.250072
+
+Step302: Input : 0 0 
+Output: -0.0564125 
+Target: 0 
+Erro da Rede: 0.248155
+
+Step303: Input : 1 1 
+Output: 0.812471 
+Target: 1 
+Erro da Rede: 0.247554
+
+Step304: Input : 1 0 
+Output: 0.167276 
+Target: 0 
+Erro da Rede: 0.24676
+
+Step305: Input : 0 0 
+Output: -0.0411894 
+Target: 0 
+Erro da Rede: 0.244724
+
+Step306: Input : 1 1 
+Output: 0.810617 
+Target: 1 
+Erro da Rede: 0.244176
+
+Step307: Input : 0 1 
+Output: 0.373944 
+Target: 0 
+Erro da Rede: 0.245461
+
+Step308: Input : 1 0 
+Output: 0.0189974 
+Target: 0 
+Erro da Rede: 0.243219
+
+Step309: Input : 0 0 
+Output: -0.192861 
+Target: 0 
+Erro da Rede: 0.24272
+
+Step310: Input : 1 1 
+Output: 0.758523 
+Target: 1 
+Erro da Rede: 0.242708
+
+Step311: Input : 1 1 
+Output: 0.792062 
+Target: 1 
+Erro da Rede: 0.242364
+
+Step312: Input : 0 1 
+Output: 0.252425 
+Target: 0 
+Erro da Rede: 0.242463
+
+Step313: Input : 1 0 
+Output: 0.173959 
+Target: 0 
+Erro da Rede: 0.241785
+
+Step314: Input : 0 0 
+Output: -0.152952 
+Target: 0 
+Erro da Rede: 0.240906
+
+Step315: Input : 0 1 
+Output: 0.0573132 
+Target: 0 
+Erro da Rede: 0.239088
+
+Step316: Input : 1 1 
+Output: 0.747862 
+Target: 1 
+Erro da Rede: 0.239217
+
+Step317: Input : 1 1 
+Output: 0.773416 
+Target: 1 
+Erro da Rede: 0.239092
+
+Step318: Input : 0 0 
+Output: -0.0404229 
+Target: 0 
+Erro da Rede: 0.237125
+
+Step319: Input : 0 1 
+Output: 0.170013 
+Target: 0 
+Erro da Rede: 0.23646
+
+Step320: Input : 1 1 
+Output: 0.811603 
+Target: 1 
+Erro da Rede: 0.235985
+
+Step321: Input : 0 0 
+Output: -0.026826 
+Target: 0 
+Erro da Rede: 0.233914
+
+Step322: Input : 1 0 
+Output: 0.265005 
+Target: 0 
+Erro da Rede: 0.234222
+
+Step323: Input : 1 1 
+Output: 0.786948 
+Target: 1 
+Erro da Rede: 0.234012
+
+Step324: Input : 0 0 
+Output: -0.11663 
+Target: 0 
+Erro da Rede: 0.23285
+
+Step325: Input : 1 0 
+Output: 0.125538 
+Target: 0 
+Erro da Rede: 0.231787
+
+Step326: Input : 1 1 
+Output: 0.79108 
+Target: 1 
+Erro da Rede: 0.231561
+
+Step327: Input : 1 1 
+Output: 0.803629 
+Target: 1 
+Erro da Rede: 0.231212
+
+Step328: Input : 0 0 
+Output: -0.0329218 
+Target: 0 
+Erro da Rede: 0.229249
+
+Step329: Input : 0 0 
+Output: 0.00343546 
+Target: 0 
+Erro da Rede: 0.227013
+
+Step330: Input : 1 0 
+Output: 0.150273 
+Target: 0 
+Erro da Rede: 0.226254
+
+Step331: Input : 0 0 
+Output: -0.0350473 
+Target: 0 
+Erro da Rede: 0.22436
+
+Step332: Input : 1 0 
+Output: 0.0320132 
+Target: 0 
+Erro da Rede: 0.222456
+
+Step333: Input : 0 0 
+Output: -0.0624273 
+Target: 0 
+Erro da Rede: 0.220872
+
+Step334: Input : 0 1 
+Output: 0.249853 
+Target: 0 
+Erro da Rede: 0.221159
+
+Step335: Input : 1 0 
+Output: -0.0354003 
+Target: 0 
+Erro da Rede: 0.219319
+
+Step336: Input : 1 0 
+Output: -0.0326504 
+Target: 0 
+Erro da Rede: 0.217471
+
+Step337: Input : 0 0 
+Output: -0.141157 
+Target: 0 
+Erro da Rede: 0.216716
+
+Step338: Input : 0 0 
+Output: -0.0686572 
+Target: 0 
+Erro da Rede: 0.21525
+
+Step339: Input : 0 1 
+Output: 0.10906 
+Target: 0 
+Erro da Rede: 0.214198
+
+Step340: Input : 1 0 
+Output: 0.132806 
+Target: 0 
+Erro da Rede: 0.213392
+
+Step341: Input : 0 0 
+Output: -0.060037 
+Target: 0 
+Erro da Rede: 0.211874
+
+Step342: Input : 1 1 
+Output: 0.765521 
+Target: 1 
+Erro da Rede: 0.212098
+
+Step343: Input : 0 1 
+Output: 0.060097 
+Target: 0 
+Erro da Rede: 0.210593
+
+Step344: Input : 0 1 
+Output: 0.0437366 
+Target: 0 
+Erro da Rede: 0.208941
+
+Step345: Input : 0 1 
+Output: 0.00678889 
+Target: 0 
+Erro da Rede: 0.206939
+
+Step346: Input : 1 0 
+Output: 0.0845405 
+Target: 0 
+Erro da Rede: 0.205727
+
+Step347: Input : 1 1 
+Output: 0.757717 
+Target: 1 
+Erro da Rede: 0.206089
+
+Step348: Input : 0 0 
+Output: -0.0669938 
+Target: 0 
+Erro da Rede: 0.204712
+
+Step349: Input : 1 1 
+Output: 0.796883 
+Target: 1 
+Erro da Rede: 0.204696
+
+Step350: Input : 1 1 
+Output: 0.822969 
+Target: 1 
+Erro da Rede: 0.204422
+
+Step351: Input : 1 0 
+Output: 0.197581 
+Target: 0 
+Erro da Rede: 0.204355
+
+Step352: Input : 1 0 
+Output: 0.102033 
+Target: 0 
+Erro da Rede: 0.203342
+
+Step353: Input : 1 0 
+Output: -0.0135154 
+Target: 0 
+Erro da Rede: 0.201462
+
+Step354: Input : 1 0 
+Output: -0.0624616 
+Target: 0 
+Erro da Rede: 0.200086
+
+Step355: Input : 0 0 
+Output: -0.0602417 
+Target: 0 
+Erro da Rede: 0.198701
+
+Step356: Input : 0 0 
+Output: -0.021812 
+Target: 0 
+Erro da Rede: 0.19695
+
+Step357: Input : 1 0 
+Output: 0.0151693 
+Target: 0 
+Erro da Rede: 0.19515
+
+Step358: Input : 1 1 
+Output: 0.819845 
+Target: 1 
+Erro da Rede: 0.195002
+
+Step359: Input : 0 1 
+Output: 0.207346 
+Target: 0 
+Erro da Rede: 0.195124
+
+Step360: Input : 0 0 
+Output: -0.0168061 
+Target: 0 
+Erro da Rede: 0.193358
+
+Step361: Input : 1 0 
+Output: 0.0248391 
+Target: 0 
+Erro da Rede: 0.19169
+
+Step362: Input : 1 0 
+Output: 0.00688667 
+Target: 0 
+Erro da Rede: 0.18986
+
+Step363: Input : 1 1 
+Output: 0.782455 
+Target: 1 
+Erro da Rede: 0.190134
+
+Step364: Input : 1 1 
+Output: 0.801324 
+Target: 1 
+Erro da Rede: 0.190219
+
+Step365: Input : 1 0 
+Output: 0.0793427 
+Target: 0 
+Erro da Rede: 0.189121
+
+Step366: Input : 0 1 
+Output: 0.0866596 
+Target: 0 
+Erro da Rede: 0.188107
+
+Step367: Input : 1 0 
+Output: 0.0242938 
+Target: 0 
+Erro da Rede: 0.186485
+
+Step368: Input : 1 0 
+Output: -0.00617698 
+Target: 0 
+Erro da Rede: 0.184699
+
+Step369: Input : 0 1 
+Output: -0.0115704 
+Target: 0 
+Erro da Rede: 0.182985
+
+Step370: Input : 0 0 
+Output: -0.0998463 
+Target: 0 
+Erro da Rede: 0.182162
+
+Step371: Input : 1 1 
+Output: 0.81027 
+Target: 1 
+Erro da Rede: 0.182237
+
+Step372: Input : 0 0 
+Output: 0.00902242 
+Target: 0 
+Erro da Rede: 0.180522
+
+Step373: Input : 1 0 
+Output: 0.0948276 
+Target: 0 
+Erro da Rede: 0.179674
+
+Step374: Input : 0 1 
+Output: 0.0975861 
+Target: 0 
+Erro da Rede: 0.178861
+
+Step375: Input : 0 1 
+Output: 0.0284562 
+Target: 0 
+Erro da Rede: 0.177372
+
+Step376: Input : 0 1 
+Output: -0.025584 
+Target: 0 
+Erro da Rede: 0.175869
+
+Step377: Input : 1 1 
+Output: 0.790686 
+Target: 1 
+Erro da Rede: 0.1762
+
+Step378: Input : 0 1 
+Output: -0.00161701 
+Target: 0 
+Erro da Rede: 0.174471
+
+Step379: Input : 1 1 
+Output: 0.817921 
+Target: 1 
+Erro da Rede: 0.174547
+
+Step380: Input : 0 0 
+Output: -0.0208847 
+Target: 0 
+Erro da Rede: 0.173025
+
+Step381: Input : 0 1 
+Output: 0.0825548 
+Target: 0 
+Erro da Rede: 0.17213
+
+Step382: Input : 1 1 
+Output: 0.840076 
+Target: 1 
+Erro da Rede: 0.172009
+
+Step383: Input : 1 1 
+Output: 0.84649 
+Target: 1 
+Erro da Rede: 0.171826
+
+Step384: Input : 1 1 
+Output: 0.857911 
+Target: 1 
+Erro da Rede: 0.171531
+
+Step385: Input : 0 0 
+Output: 0.051272 
+Target: 0 
+Erro da Rede: 0.170341
+
+Step386: Input : 0 0 
+Output: 0.0360062 
+Target: 0 
+Erro da Rede: 0.16901
+
+Step387: Input : 0 0 
+Output: 0.00758494 
+Target: 0 
+Erro da Rede: 0.167412
+
+Step388: Input : 0 1 
+Output: 0.0548297 
+Target: 0 
+Erro da Rede: 0.166298
+
+Step389: Input : 1 1 
+Output: 0.855554 
+Target: 1 
+Erro da Rede: 0.166081
+
+Step390: Input : 0 0 
+Output: -0.0428486 
+Target: 0 
+Erro da Rede: 0.164861
+
+Step391: Input : 0 0 
+Output: -0.0177428 
+Target: 0 
+Erro da Rede: 0.163404
+
+Step392: Input : 1 0 
+Output: 0.174839 
+Target: 0 
+Erro da Rede: 0.163518
+
+Step393: Input : 0 0 
+Output: -0.0584121 
+Target: 0 
+Erro da Rede: 0.162477
+
+Step394: Input : 1 1 
+Output: 0.846788 
+Target: 1 
+Erro da Rede: 0.162385
+
+Step395: Input : 0 1 
+Output: 0.0565127 
+Target: 0 
+Erro da Rede: 0.161337
+
+Step396: Input : 1 0 
+Output: 0.0423449 
+Target: 0 
+Erro da Rede: 0.160159
+
+Step397: Input : 0 1 
+Output: 0.00980651 
+Target: 0 
+Erro da Rede: 0.15867
+
+Step398: Input : 1 0 
+Output: -0.00794033 
+Target: 0 
+Erro da Rede: 0.157178
+
+Step399: Input : 1 1 
+Output: 0.833637 
+Target: 1 
+Erro da Rede: 0.157269
+
+Step400: Input : 1 1 
+Output: 0.84382 
+Target: 1 
+Erro da Rede: 0.157258
+
+Step401: Input : 0 1 
+Output: 0.0405185 
+Target: 0 
+Erro da Rede: 0.156102
+
+Step402: Input : 1 0 
+Output: 0.0570736 
+Target: 0 
+Erro da Rede: 0.155122
+
+Step403: Input : 0 0 
+Output: -0.0771674 
+Target: 0 
+Erro da Rede: 0.15435
+
+Step404: Input : 1 0 
+Output: 0.039358 
+Target: 0 
+Erro da Rede: 0.153211
+
+Step405: Input : 1 0 
+Output: 0.0202875 
+Target: 0 
+Erro da Rede: 0.151895
+
+Step406: Input : 0 1 
+Output: 0.040326 
+Target: 0 
+Erro da Rede: 0.150791
+
+Step407: Input : 1 0 
+Output: -0.0223788 
+Target: 0 
+Erro da Rede: 0.149519
+
+Step408: Input : 1 1 
+Output: 0.842062 
+Target: 1 
+Erro da Rede: 0.149603
+
+Step409: Input : 0 1 
+Output: 0.0176938 
+Target: 0 
+Erro da Rede: 0.148297
+
+Step410: Input : 0 0 
+Output: -0.0571852 
+Target: 0 
+Erro da Rede: 0.147394
+
+Step411: Input : 1 0 
+Output: 0.050993 
+Target: 0 
+Erro da Rede: 0.14644
+
+Step412: Input : 1 0 
+Output: 0.0305606 
+Target: 0 
+Erro da Rede: 0.145293
+
+Step413: Input : 0 0 
+Output: -0.0440536 
+Target: 0 
+Erro da Rede: 0.14429
+
+Step414: Input : 0 1 
+Output: 0.0499982 
+Target: 0 
+Erro da Rede: 0.143357
+
+Step415: Input : 0 1 
+Output: 0.0221661 
+Target: 0 
+Erro da Rede: 0.142157
+
+Step416: Input : 1 0 
+Output: -0.0109291 
+Target: 0 
+Erro da Rede: 0.140858
+
+Step417: Input : 1 1 
+Output: 0.841504 
+Target: 1 
+Erro da Rede: 0.141032
+
+Step418: Input : 0 1 
+Output: -0.0040787 
+Target: 0 
+Erro da Rede: 0.139676
+
+Step419: Input : 1 0 
+Output: 0.0319309 
+Target: 0 
+Erro da Rede: 0.138609
+
+Step420: Input : 0 1 
+Output: 0.00739802 
+Target: 0 
+Erro da Rede: 0.13731
+
+Step421: Input : 0 0 
+Output: -0.042038 
+Target: 0 
+Erro da Rede: 0.136367
+
+Step422: Input : 0 0 
+Output: -0.0207976 
+Target: 0 
+Erro da Rede: 0.135223
+
+Step423: Input : 0 0 
+Output: 0.00219894 
+Target: 0 
+Erro da Rede: 0.133906
+
+Step424: Input : 0 1 
+Output: 0.0407502 
+Target: 0 
+Erro da Rede: 0.132983
+
+Step425: Input : 0 0 
+Output: 0.000260623 
+Target: 0 
+Erro da Rede: 0.131669
+
+Step426: Input : 0 1 
+Output: 0.00171102 
+Target: 0 
+Erro da Rede: 0.130383
+
+Step427: Input : 1 1 
+Output: 0.853756 
+Target: 1 
+Erro da Rede: 0.13054
+
+Step428: Input : 1 1 
+Output: 0.860779 
+Target: 1 
+Erro da Rede: 0.130626
+
+Step429: Input : 0 0 
+Output: 0.0299448 
+Target: 0 
+Erro da Rede: 0.129629
+
+Step430: Input : 1 0 
+Output: 0.0862717 
+Target: 0 
+Erro da Rede: 0.129199
+
+Step431: Input : 1 0 
+Output: 0.0256765 
+Target: 0 
+Erro da Rede: 0.128174
+
+Step432: Input : 0 1 
+Output: 0.0100704 
+Target: 0 
+Erro da Rede: 0.127005
+
+Step433: Input : 1 1 
+Output: 0.847469 
+Target: 1 
+Erro da Rede: 0.127258
+
+Step434: Input : 1 0 
+Output: -0.0399512 
+Target: 0 
+Erro da Rede: 0.126393
+
+Step435: Input : 1 1 
+Output: 0.861549 
+Target: 1 
+Erro da Rede: 0.126513
+
+Step436: Input : 1 0 
+Output: 0.0277207 
+Target: 0 
+Erro da Rede: 0.125535
+
+Step437: Input : 1 0 
+Output: 0.0252401 
+Target: 0 
+Erro da Rede: 0.124542
+
+Step438: Input : 0 0 
+Output: -0.0222093 
+Target: 0 
+Erro da Rede: 0.123528
+
+Step439: Input : 1 0 
+Output: 0.0063261 
+Target: 0 
+Erro da Rede: 0.122368
+
+Step440: Input : 1 1 
+Output: 0.872407 
+Target: 1 
+Erro da Rede: 0.12242
+
+Step441: Input : 1 1 
+Output: 0.877636 
+Target: 1 
+Erro da Rede: 0.122419
+
+Step442: Input : 1 1 
+Output: 0.88478 
+Target: 1 
+Erro da Rede: 0.122348
+
+Step443: Input : 1 1 
+Output: 0.892034 
+Target: 1 
+Erro da Rede: 0.122206
+
+Step444: Input : 1 1 
+Output: 0.898657 
+Target: 1 
+Erro da Rede: 0.121999
+
+Step445: Input : 1 0 
+Output: 0.104625 
+Target: 0 
+Erro da Rede: 0.121827
+
+Step446: Input : 1 1 
+Output: 0.897293 
+Target: 1 
+Erro da Rede: 0.121638
+
+Step447: Input : 0 0 
+Output: 0.0308628 
+Target: 0 
+Erro da Rede: 0.120739
+
+Step448: Input : 0 1 
+Output: 0.167473 
+Target: 0 
+Erro da Rede: 0.121202
+
+Step449: Input : 1 1 
+Output: 0.873074 
+Target: 1 
+Erro da Rede: 0.121258
+
+Step450: Input : 0 1 
+Output: -0.00705086 
+Target: 0 
+Erro da Rede: 0.120128
+
+Step451: Input : 0 0 
+Output: -0.114427 
+Target: 0 
+Erro da Rede: 0.120071
+
+Step452: Input : 1 0 
+Output: -0.00537251 
+Target: 0 
+Erro da Rede: 0.118935
+
+Step453: Input : 0 0 
+Output: -0.0149718 
+Target: 0 
+Erro da Rede: 0.117906
+
+Step454: Input : 0 0 
+Output: 0.0117765 
+Target: 0 
+Erro da Rede: 0.116855
+
+Step455: Input : 1 1 
+Output: 0.88776 
+Target: 1 
+Erro da Rede: 0.11681
+
+Step456: Input : 0 1 
+Output: 0.0676662 
+Target: 0 
+Erro da Rede: 0.116323
+
+Step457: Input : 1 1 
+Output: 0.886793 
+Target: 1 
+Erro da Rede: 0.116292
+
+Step458: Input : 0 0 
+Output: 0.00882496 
+Target: 0 
+Erro da Rede: 0.115228
+
+Step459: Input : 1 1 
+Output: 0.887771 
+Target: 1 
+Erro da Rede: 0.115198
+
+Step460: Input : 1 0 
+Output: 0.0865878 
+Target: 0 
+Erro da Rede: 0.114915
+
+Step461: Input : 1 1 
+Output: 0.883844 
+Target: 1 
+Erro da Rede: 0.114927
+
+Step462: Input : 1 1 
+Output: 0.884139 
+Target: 1 
+Erro da Rede: 0.114937
+
+Step463: Input : 1 0 
+Output: 0.019826 
+Target: 0 
+Erro da Rede: 0.113995
+
+Step464: Input : 1 1 
+Output: 0.888346 
+Target: 1 
+Erro da Rede: 0.113972
+
+Step465: Input : 1 1 
+Output: 0.89204 
+Target: 1 
+Erro da Rede: 0.113912
+
+Step466: Input : 0 0 
+Output: -0.00640339 
+Target: 0 
+Erro da Rede: 0.112848
+
+Step467: Input : 1 0 
+Output: 0.0390369 
+Target: 0 
+Erro da Rede: 0.112117
+
+Step468: Input : 0 0 
+Output: -0.00818048 
+Target: 0 
+Erro da Rede: 0.111088
+
+Step469: Input : 0 0 
+Output: -0.00944553 
+Target: 0 
+Erro da Rede: 0.110082
+
+Step470: Input : 1 0 
+Output: 0.00729292 
+Target: 0 
+Erro da Rede: 0.109064
+
+Step471: Input : 0 1 
+Output: 0.0880274 
+Target: 0 
+Erro da Rede: 0.108856
+
+Step472: Input : 1 0 
+Output: -0.0155942 
+Target: 0 
+Erro da Rede: 0.107932
+
+Step473: Input : 1 1 
+Output: 0.884695 
+Target: 1 
+Erro da Rede: 0.108005
+
+Step474: Input : 0 0 
+Output: -0.0500639 
+Target: 0 
+Erro da Rede: 0.107432
+
+Step475: Input : 0 0 
+Output: -0.015574 
+Target: 0 
+Erro da Rede: 0.106522
+
+Step476: Input : 1 0 
+Output: 0.0549828 
+Target: 0 
+Erro da Rede: 0.106012
+
+Step477: Input : 1 0 
+Output: 0.025435 
+Target: 0 
+Erro da Rede: 0.105214
+
+Step478: Input : 1 1 
+Output: 0.889258 
+Target: 1 
+Erro da Rede: 0.105269
+
+Step479: Input : 0 0 
+Output: -0.0172666 
+Target: 0 
+Erro da Rede: 0.104397
+
+Step480: Input : 0 0 
+Output: -0.005501 
+Target: 0 
+Erro da Rede: 0.103418
+
+Step481: Input : 0 1 
+Output: 0.0530317 
+Target: 0 
+Erro da Rede: 0.102919
+
+Step482: Input : 0 0 
+Output: -0.0146026 
+Target: 0 
+Erro da Rede: 0.102045
+
+Step483: Input : 1 0 
+Output: -0.00425552 
+Target: 0 
+Erro da Rede: 0.101077
+
+Step484: Input : 0 0 
+Output: -0.0125446 
+Target: 0 
+Erro da Rede: 0.1002
+
+Step485: Input : 1 0 
+Output: 0.00924251 
+Target: 0 
+Erro da Rede: 0.0992996
+
+Step486: Input : 0 0 
+Output: -0.00339722 
+Target: 0 
+Erro da Rede: 0.0983501
+
+Step487: Input : 0 1 
+Output: 0.00428748 
+Target: 0 
+Erro da Rede: 0.0974188
+
+Step488: Input : 0 1 
+Output: 0.00173678 
+Target: 0 
+Erro da Rede: 0.0964715
+
+Step489: Input : 1 1 
+Output: 0.888747 
+Target: 1 
+Erro da Rede: 0.0966178
+
+Step490: Input : 0 0 
+Output: 0.00714569 
+Target: 0 
+Erro da Rede: 0.095732
+
+Step491: Input : 1 1 
+Output: 0.893334 
+Target: 1 
+Erro da Rede: 0.0958402
+
+Step492: Input : 0 1 
+Output: 0.0246227 
+Target: 0 
+Erro da Rede: 0.0951351
+
+Step493: Input : 0 1 
+Output: 0.0118763 
+Target: 0 
+Erro da Rede: 0.0943107
+
+Step494: Input : 1 1 
+Output: 0.894953 
+Target: 1 
+Erro da Rede: 0.094417
+
+Step495: Input : 0 1 
+Output: -0.000473783 
+Target: 0 
+Erro da Rede: 0.0934869
+
+Step496: Input : 1 1 
+Output: 0.898569 
+Target: 1 
+Erro da Rede: 0.0935656
+
+Step497: Input : 0 0 
+Output: 0.0230224 
+Target: 0 
+Erro da Rede: 0.0928671
+
+Step498: Input : 1 0 
+Output: 0.0577911 
+Target: 0 
+Erro da Rede: 0.0925198
+
+Step499: Input : 1 0 
+Output: 0.0121956 
+Target: 0 
+Erro da Rede: 0.0917245
+
+Step500: Input : 0 1 
+Output: -0.0121209 
+Target: 0 
+Erro da Rede: 0.0909364
+
+Step501: Input : 0 1 
+Output: -0.00686927 
+Target: 0 
+Erro da Rede: 0.090104
+
+Step502: Input : 1 0 
+Output: -0.0395254 
+Target: 0 
+Erro da Rede: 0.0896033
+
+Step503: Input : 1 0 
+Output: -0.0128189 
+Target: 0 
+Erro da Rede: 0.088843
+
+Step504: Input : 0 0 
+Output: -0.0116116 
+Target: 0 
+Erro da Rede: 0.0880784
+
+Step505: Input : 1 0 
+Output: 0.0272454 
+Target: 0 
+Erro da Rede: 0.087476
+
+Step506: Input : 0 1 
+Output: 0.0276737 
+Target: 0 
+Erro da Rede: 0.0868839
+
+Step507: Input : 0 0 
+Output: -0.0165956 
+Target: 0 
+Erro da Rede: 0.086188
+
+Step508: Input : 1 0 
+Output: 0.00709101 
+Target: 0 
+Erro da Rede: 0.0854049
+
+Step509: Input : 0 0 
+Output: -0.0150681 
+Target: 0 
+Erro da Rede: 0.0847085
+
+Step510: Input : 0 1 
+Output: 0.00513895 
+Target: 0 
+Erro da Rede: 0.0839207
+
+Step511: Input : 1 1 
+Output: 0.89586 
+Target: 1 
+Erro da Rede: 0.0841209
+
+Step512: Input : 1 0 
+Output: 0.0214539 
+Target: 0 
+Erro da Rede: 0.0835004
+
+Step513: Input : 0 0 
+Output: 0.00162514 
+Target: 0 
+Erro da Rede: 0.0826897
+
+Step514: Input : 0 1 
+Output: 0.015286 
+Target: 0 
+Erro da Rede: 0.0820224
+
+Step515: Input : 1 1 
+Output: 0.896008 
+Target: 1 
+Erro da Rede: 0.0822399
+
+Step516: Input : 0 0 
+Output: -0.00515211 
+Target: 0 
+Erro da Rede: 0.0814767
+
+Step517: Input : 0 0 
+Output: 0.000804725 
+Target: 0 
+Erro da Rede: 0.0806779
+
+Step518: Input : 1 1 
+Output: 0.900453 
+Target: 1 
+Erro da Rede: 0.0808647
+
+Step519: Input : 0 1 
+Output: 0.0258467 
+Target: 0 
+Erro da Rede: 0.08032
+
+Step520: Input : 0 1 
+Output: 0.0111934 
+Target: 0 
+Erro da Rede: 0.0796356
+
+Step521: Input : 0 0 
+Output: -0.00155671 
+Target: 0 
+Erro da Rede: 0.0788625
+
+Step522: Input : 0 1 
+Output: -0.012148 
+Target: 0 
+Erro da Rede: 0.078202
+
+Step523: Input : 1 1 
+Output: 0.901113 
+Target: 1 
+Erro da Rede: 0.0784068
+
+Step524: Input : 1 0 
+Output: 0.0412718 
+Target: 0 
+Erro da Rede: 0.0780391
+
+Step525: Input : 0 0 
+Output: -0.00470098 
+Target: 0 
+Erro da Rede: 0.077313
+
+Step526: Input : 1 1 
+Output: 0.900913 
+Target: 1 
+Erro da Rede: 0.0775286
+
+Step527: Input : 0 0 
+Output: -0.0022835 
+Target: 0 
+Erro da Rede: 0.0767836
+
+Step528: Input : 0 0 
+Output: 0.00249601 
+Target: 0 
+Erro da Rede: 0.0760481
+
+Step529: Input : 1 1 
+Output: 0.904967 
+Target: 1 
+Erro da Rede: 0.076236
+
+Step530: Input : 0 0 
+Output: 0.0116065 
+Target: 0 
+Erro da Rede: 0.0755961
+
+Step531: Input : 0 0 
+Output: 0.00819472 
+Target: 0 
+Erro da Rede: 0.0749288
+
+Step532: Input : 1 1 
+Output: 0.907426 
+Target: 1 
+Erro da Rede: 0.0751035
+
+Step533: Input : 1 0 
+Output: 0.0234468 
+Target: 0 
+Erro da Rede: 0.074592
+
+Step534: Input : 1 1 
+Output: 0.908237 
+Target: 1 
+Erro da Rede: 0.0747621
+
+Step535: Input : 0 1 
+Output: 0.0471786 
+Target: 0 
+Erro da Rede: 0.074489
+
+Step536: Input : 0 0 
+Output: -0.0209788 
+Target: 0 
+Erro da Rede: 0.0739591
+
+Step537: Input : 0 1 
+Output: 0.00719865 
+Target: 0 
+Erro da Rede: 0.0732982
+
+Step538: Input : 1 0 
+Output: 0.0108294 
+Target: 0 
+Erro da Rede: 0.0726797
+
+Step539: Input : 1 1 
+Output: 0.904052 
+Target: 1 
+Erro da Rede: 0.07291
+
+Step540: Input : 0 1 
+Output: -0.00231158 
+Target: 0 
+Erro da Rede: 0.072211
+
+Step541: Input : 1 0 
+Output: 0.0123814 
+Target: 0 
+Erro da Rede: 0.0716187
+
+Step542: Input : 1 1 
+Output: 0.906335 
+Target: 1 
+Erro da Rede: 0.0718369
+
+Step543: Input : 1 0 
+Output: 0.00942248 
+Target: 0 
+Erro da Rede: 0.071219
+
+Step544: Input : 0 0 
+Output: -0.0152553 
+Target: 0 
+Erro da Rede: 0.0706649
+
+Step545: Input : 1 0 
+Output: 0.00961664 
+Target: 0 
+Erro da Rede: 0.0700604
+
+Step546: Input : 1 0 
+Output: 0.00470302 
+Target: 0 
+Erro da Rede: 0.0694133
+
+Step547: Input : 1 0 
+Output: -0.00137201 
+Target: 0 
+Erro da Rede: 0.0687397
+
+Step548: Input : 1 0 
+Output: -0.00335437 
+Target: 0 
+Erro da Rede: 0.0680923
+
+Step549: Input : 1 1 
+Output: 0.909062 
+Target: 1 
+Erro da Rede: 0.0683185
+
+Step550: Input : 1 1 
+Output: 0.91131 
+Target: 1 
+Erro da Rede: 0.0685202
+
+Step551: Input : 1 0 
+Output: 0.0200403 
+Target: 0 
+Erro da Rede: 0.0680402
+
+Step552: Input : 0 1 
+Output: 0.0513254 
+Target: 0 
+Erro da Rede: 0.0678747
+
+Step553: Input : 0 1 
+Output: 0.0122019 
+Target: 0 
+Erro da Rede: 0.0673235
+
+Step554: Input : 0 0 
+Output: -0.0357311 
+Target: 0 
+Erro da Rede: 0.0670107
+
+Step555: Input : 1 0 
+Output: 0.00184421 
+Target: 0 
+Erro da Rede: 0.0663655
+
+Step556: Input : 0 1 
+Output: -0.0150835 
+Target: 0 
+Erro da Rede: 0.0658577
+
+Step557: Input : 0 0 
+Output: -0.00460925 
+Target: 0 
+Erro da Rede: 0.0652513
+
+Step558: Input : 1 1 
+Output: 0.910064 
+Target: 1 
+Erro da Rede: 0.0654957
+
+Step559: Input : 0 1 
+Output: 0.0173914 
+Target: 0 
+Erro da Rede: 0.0650194
+
+Step560: Input : 0 1 
+Output: 0.00976934 
+Target: 0 
+Erro da Rede: 0.0644724
+
+Step561: Input : 0 1 
+Output: -0.00177042 
+Target: 0 
+Erro da Rede: 0.0638516
+
+Step562: Input : 1 1 
+Output: 0.911096 
+Target: 1 
+Erro da Rede: 0.0640996
+
+Step563: Input : 0 1 
+Output: -0.000285767 
+Target: 0 
+Erro da Rede: 0.0634678
+
+Step564: Input : 0 1 
+Output: 0.00287003 
+Target: 0 
+Erro da Rede: 0.0628678
+
+Step565: Input : 0 0 
+Output: 0.0145357 
+Target: 0 
+Erro da Rede: 0.0623893
+
+Step566: Input : 0 1 
+Output: -0.00473752 
+Target: 0 
+Erro da Rede: 0.0618185
+
+Step567: Input : 1 0 
+Output: 0.0342969 
+Target: 0 
+Erro da Rede: 0.061546
+
+Step568: Input : 1 1 
+Output: 0.909821 
+Target: 1 
+Erro da Rede: 0.0618295
+
+Step569: Input : 0 1 
+Output: -0.00457 
+Target: 0 
+Erro da Rede: 0.0612626
+
+Step570: Input : 0 0 
+Output: -0.0159888 
+Target: 0 
+Erro da Rede: 0.0608143
+
+Step571: Input : 0 0 
+Output: -0.00470383 
+Target: 0 
+Erro da Rede: 0.0602588
+
+Step572: Input : 1 1 
+Output: 0.913756 
+Target: 1 
+Erro da Rede: 0.060516
+
+Step573: Input : 0 1 
+Output: 0.030731 
+Target: 0 
+Erro da Rede: 0.0602211
+
+Step574: Input : 1 0 
+Output: 0.0219351 
+Target: 0 
+Erro da Rede: 0.0598421
+
+Step575: Input : 1 1 
+Output: 0.912 
+Target: 1 
+Erro da Rede: 0.0601209
+
+Step576: Input : 0 1 
+Output: 0.000194111 
+Target: 0 
+Erro da Rede: 0.0595275
+
+Step577: Input : 1 1 
+Output: 0.912897 
+Target: 1 
+Erro da Rede: 0.0598005
+
+Step578: Input : 1 1 
+Output: 0.91494 
+Target: 1 
+Erro da Rede: 0.0600506
+
+Step579: Input : 0 1 
+Output: 0.0201651 
+Target: 0 
+Erro da Rede: 0.0596557
+
+Step580: Input : 1 0 
+Output: 0.025051 
+Target: 0 
+Erro da Rede: 0.0593131
+
+Step581: Input : 1 0 
+Output: 0.00664047 
+Target: 0 
+Erro da Rede: 0.0587916
+
+Step582: Input : 0 0 
+Output: -0.0213261 
+Target: 0 
+Erro da Rede: 0.0584206
+
+Step583: Input : 1 0 
+Output: -0.00453274 
+Target: 0 
+Erro da Rede: 0.0578871
+
+Step584: Input : 0 0 
+Output: -0.00537265 
+Target: 0 
+Erro da Rede: 0.0573672
+
+Step585: Input : 0 0 
+Output: 0.00163821 
+Target: 0 
+Erro da Rede: 0.0568154
+
+Step586: Input : 0 0 
+Output: 0.00404064 
+Target: 0 
+Erro da Rede: 0.0562929
+
+Step587: Input : 1 0 
+Output: 0.00650113 
+Target: 0 
+Erro da Rede: 0.0557999
+
+Step588: Input : 0 0 
+Output: -0.00140465 
+Target: 0 
+Erro da Rede: 0.0552613
+
+Step589: Input : 1 1 
+Output: 0.914801 
+Target: 1 
+Erro da Rede: 0.0555577
+
+Step590: Input : 1 0 
+Output: 0.00517299 
+Target: 0 
+Erro da Rede: 0.0550589
+
+Step591: Input : 0 1 
+Output: 0.0187404 
+Target: 0 
+Erro da Rede: 0.0546993
+
+Step592: Input : 1 1 
+Output: 0.915454 
+Target: 1 
+Erro da Rede: 0.0549948
+
+Step593: Input : 0 0 
+Output: -0.00184877 
+Target: 0 
+Erro da Rede: 0.0544686
+
+Step594: Input : 1 0 
+Output: 0.0100284 
+Target: 0 
+Erro da Rede: 0.0540286
+
+Step595: Input : 0 0 
+Output: -0.00313987 
+Target: 0 
+Erro da Rede: 0.0535247
+
+Step596: Input : 1 1 
+Output: 0.916605 
+Target: 1 
+Erro da Rede: 0.0538205
+
+Step597: Input : 1 0 
+Output: 0.0089911 
+Target: 0 
+Erro da Rede: 0.0533766
+
+Step598: Input : 0 0 
+Output: 0.00235201 
+Target: 0 
+Erro da Rede: 0.0528714
+
+Step599: Input : 0 0 
+Output: 0.000163368 
+Target: 0 
+Erro da Rede: 0.0523496
+
+Step600: Input : 0 1 
+Output: 0.0164714 
+Target: 0 
+Erro da Rede: 0.0519943
+
+Step601: Input : 1 1 
+Output: 0.916687 
+Target: 1 
+Erro da Rede: 0.0523044
+
+Step602: Input : 1 1 
+Output: 0.917656 
+Target: 1 
+Erro da Rede: 0.0526018
+
+Step603: Input : 1 1 
+Output: 0.919757 
+Target: 1 
+Erro da Rede: 0.0528755
+
+Step604: Input : 1 0 
+Output: 0.0234718 
+Target: 0 
+Erro da Rede: 0.0525844
+
+Step605: Input : 1 0 
+Output: 0.0107495 
+Target: 0 
+Erro da Rede: 0.0521702
+
+Step606: Input : 1 1 
+Output: 0.920421 
+Target: 1 
+Erro da Rede: 0.0524416
+
+Step607: Input : 1 1 
+Output: 0.921299 
+Target: 1 
+Erro da Rede: 0.0527016
+
+Step608: Input : 1 0 
+Output: 0.00107247 
+Target: 0 
+Erro da Rede: 0.0521904
+
+Step609: Input : 1 0 
+Output: 0.00323184 
+Target: 0 
+Erro da Rede: 0.0517056
+
+Step610: Input : 1 0 
+Output: 0.00175582 
+Target: 0 
+Erro da Rede: 0.0512111
+
+Step611: Input : 1 1 
+Output: 0.924085 
+Target: 1 
+Erro da Rede: 0.0514557
+
+Step612: Input : 1 0 
+Output: 0.00456673 
+Target: 0 
+Erro da Rede: 0.0509914
+
+Step613: Input : 1 0 
+Output: 0.00341824 
+Target: 0 
+Erro da Rede: 0.0505204
+
+Step614: Input : 1 0 
+Output: 0.000133361 
+Target: 0 
+Erro da Rede: 0.0500215
+
+Step615: Input : 1 0 
+Output: -0.001615 
+Target: 0 
+Erro da Rede: 0.0495423
+
+Step616: Input : 1 0 
+Output: -0.00120876 
+Target: 0 
+Erro da Rede: 0.0490637
+
+Step617: Input : 1 1 
+Output: 0.925633 
+Target: 1 
+Erro da Rede: 0.0493142
+
+Step618: Input : 0 0 
+Output: 0.0120943 
+Target: 0 
+Erro da Rede: 0.0489457
+
+Step619: Input : 1 1 
+Output: 0.926751 
+Target: 1 
+Erro da Rede: 0.0491864
+
+Step620: Input : 1 0 
+Output: 0.00770528 
+Target: 0 
+Erro da Rede: 0.0487756
+
+Step621: Input : 0 0 
+Output: 0.00578565 
+Target: 0 
+Erro da Rede: 0.04835
+
+Step622: Input : 0 0 
+Output: 0.000415662 
+Target: 0 
+Erro da Rede: 0.0478754
+
+Step623: Input : 1 1 
+Output: 0.927158 
+Target: 1 
+Erro da Rede: 0.0481226
+
+Step624: Input : 0 1 
+Output: 0.0635252 
+Target: 0 
+Erro da Rede: 0.0482751
+
+Step625: Input : 1 1 
+Output: 0.923832 
+Target: 1 
+Erro da Rede: 0.0485513
+
+Step626: Input : 1 1 
+Output: 0.922892 
+Target: 1 
+Erro da Rede: 0.048834
+
+Step627: Input : 0 1 
+Output: -0.00707115 
+Target: 0 
+Erro da Rede: 0.0484205
+
+Step628: Input : 0 0 
+Output: -0.0301213 
+Target: 0 
+Erro da Rede: 0.0482393
+
+Step629: Input : 1 1 
+Output: 0.927301 
+Target: 1 
+Erro da Rede: 0.0484815
+
+Step630: Input : 0 0 
+Output: 0.00874268 
+Target: 0 
+Erro da Rede: 0.0480881
+
+Step631: Input : 1 0 
+Output: 0.0395043 
+Target: 0 
+Erro da Rede: 0.0480031
+
+Step632: Input : 1 0 
+Output: 0.00937364 
+Target: 0 
+Erro da Rede: 0.0476206
+
+Step633: Input : 1 1 
+Output: 0.925512 
+Target: 1 
+Erro da Rede: 0.0478866
+
+Step634: Input : 1 1 
+Output: 0.925694 
+Target: 1 
+Erro da Rede: 0.0481482
+
+Step635: Input : 1 0 
+Output: -0.0155244 
+Target: 0 
+Erro da Rede: 0.0478252
+
+Step636: Input : 0 0 
+Output: -0.009814 
+Target: 0 
+Erro da Rede: 0.0474488
+
+Step637: Input : 0 0 
+Output: 0.00186688 
+Target: 0 
+Erro da Rede: 0.0469975
+
+Step638: Input : 0 0 
+Output: 0.00641258 
+Target: 0 
+Erro da Rede: 0.0465957
+
+Step639: Input : 1 0 
+Output: 0.0145812 
+Target: 0 
+Erro da Rede: 0.0462787
+
+Step640: Input : 1 1 
+Output: 0.929772 
+Target: 1 
+Erro da Rede: 0.0465159
+
+Step641: Input : 0 0 
+Output: -0.0037908 
+Target: 0 
+Erro da Rede: 0.0460928
+
+Step642: Input : 0 1 
+Output: 0.0506973 
+Target: 0 
+Erro da Rede: 0.0461384
+
+Step643: Input : 0 0 
+Output: -0.0229362 
+Target: 0 
+Erro da Rede: 0.0459087
+
+Step644: Input : 1 1 
+Output: 0.926907 
+Target: 1 
+Erro da Rede: 0.0461778
+
+Step645: Input : 0 1 
+Output: 0.00275011 
+Target: 0 
+Erro da Rede: 0.0457479
+
+Step646: Input : 0 0 
+Output: -0.00825781 
+Target: 0 
+Erro da Rede: 0.0453767
+
+Step647: Input : 0 0 
+Output: -0.00131977 
+Target: 0 
+Erro da Rede: 0.0449405
+
+Step648: Input : 1 0 
+Output: 0.0264279 
+Target: 0 
+Erro da Rede: 0.0447572
+
+Step649: Input : 0 0 
+Output: -0.00785396 
+Target: 0 
+Erro da Rede: 0.0443918
+
+Step650: Input : 1 1 
+Output: 0.9272 
+Target: 1 
+Erro da Rede: 0.0446731
+
+Step651: Input : 0 1 
+Output: 0.0110625 
+Target: 0 
+Erro da Rede: 0.0443403
+
+Step652: Input : 0 1 
+Output: 0.00527835 
+Target: 0 
+Erro da Rede: 0.0439535
+
+Step653: Input : 1 0 
+Output: 0.00250579 
+Target: 0 
+Erro da Rede: 0.0435432
+
+Step654: Input : 1 0 
+Output: -6.27096e-05 
+Target: 0 
+Erro da Rede: 0.0431127
+
+Step655: Input : 1 0 
+Output: -0.00129661 
+Target: 0 
+Erro da Rede: 0.0426986
+
+Step656: Input : 0 0 
+Output: -0.0142764 
+Target: 0 
+Erro da Rede: 0.0424172
+
+Step657: Input : 1 0 
+Output: 0.00641786 
+Target: 0 
+Erro da Rede: 0.0420608
+
+Step658: Input : 1 1 
+Output: 0.927422 
+Target: 1 
+Erro da Rede: 0.042363
+
+Step659: Input : 1 0 
+Output: 0.0097167 
+Target: 0 
+Erro da Rede: 0.0420397
+
+Step660: Input : 1 0 
+Output: 0.00432792 
+Target: 0 
+Erro da Rede: 0.0416663
+
+Step661: Input : 0 1 
+Output: 0.00780831 
+Target: 0 
+Erro da Rede: 0.0413311
+
+Step662: Input : 0 1 
+Output: 0.0014691 
+Target: 0 
+Erro da Rede: 0.0409364
+
+Step663: Input : 0 1 
+Output: -0.00290097 
+Target: 0 
+Erro da Rede: 0.0405599
+
+Step664: Input : 1 0 
+Output: -0.00937989 
+Target: 0 
+Erro da Rede: 0.0402511
+
+Step665: Input : 0 0 
+Output: -0.00630729 
+Target: 0 
+Erro da Rede: 0.0399151
+
+Step666: Input : 0 0 
+Output: 0.000340725 
+Target: 0 
+Erro da Rede: 0.0395232
+
+Step667: Input : 0 0 
+Output: 0.00342683 
+Target: 0 
+Erro da Rede: 0.0391658
+
+Step668: Input : 1 1 
+Output: 0.928409 
+Target: 1 
+Erro da Rede: 0.0394869
+
+Step669: Input : 1 0 
+Output: 0.0128489 
+Target: 0 
+Erro da Rede: 0.0392231
+
+Step670: Input : 0 1 
+Output: 0.0090555 
+Target: 0 
+Erro da Rede: 0.0389245
+
+Step671: Input : 1 0 
+Output: -0.000119316 
+Target: 0 
+Erro da Rede: 0.0385402
+
+Step672: Input : 1 1 
+Output: 0.92774 
+Target: 1 
+Erro da Rede: 0.0388741
+
+Step673: Input : 1 0 
+Output: 0.00151771 
+Target: 0 
+Erro da Rede: 0.0385042
+
+Step674: Input : 0 1 
+Output: 0.00351035 
+Target: 0 
+Erro da Rede: 0.0381578
+
+Step675: Input : 1 0 
+Output: 0.00226345 
+Target: 0 
+Erro da Rede: 0.0378024
+
+Step676: Input : 1 0 
+Output: 0.00037721 
+Target: 0 
+Erro da Rede: 0.0374318
+
+Step677: Input : 0 0 
+Output: -0.00664949 
+Target: 0 
+Erro da Rede: 0.0371271
+
+Step678: Input : 1 0 
+Output: 0.00182015 
+Target: 0 
+Erro da Rede: 0.0367775
+
+Step679: Input : 1 0 
+Output: 0.00170438 
+Target: 0 
+Erro da Rede: 0.0364302
+
+Step680: Input : 0 0 
+Output: -0.00164888 
+Target: 0 
+Erro da Rede: 0.0360859
+
+Step681: Input : 1 0 
+Output: 0.000387864 
+Target: 0 
+Erro da Rede: 0.0357324
+
+Step682: Input : 0 1 
+Output: 0.00446728 
+Target: 0 
+Erro da Rede: 0.0354228
+
+Step683: Input : 1 0 
+Output: -0.00074093 
+Target: 0 
+Erro da Rede: 0.0350795
+
+Step684: Input : 1 0 
+Output: -0.000582788 
+Target: 0 
+Erro da Rede: 0.0347379
+
+Step685: Input : 1 0 
+Output: -3.6465e-05 
+Target: 0 
+Erro da Rede: 0.0343943
+
+Step686: Input : 1 1 
+Output: 0.928458 
+Target: 1 
+Erro da Rede: 0.0347621
+
+Step687: Input : 0 0 
+Output: 0.0019128 
+Target: 0 
+Erro da Rede: 0.0344369
+
+Step688: Input : 0 0 
+Output: 0.00293422 
+Target: 0 
+Erro da Rede: 0.034125
+
+Step689: Input : 1 0 
+Output: 0.00706484 
+Target: 0 
+Erro da Rede: 0.0338571
+
+Step690: Input : 1 1 
+Output: 0.929493 
+Target: 1 
+Erro da Rede: 0.0342199
+
+Step691: Input : 1 0 
+Output: 0.00337157 
+Target: 0 
+Erro da Rede: 0.0339145
+
+Step692: Input : 1 1 
+Output: 0.930453 
+Target: 1 
+Erro da Rede: 0.0342673
+
+Step693: Input : 0 1 
+Output: 0.0155301 
+Target: 0 
+Erro da Rede: 0.0340818
+
+Step694: Input : 1 0 
+Output: 0.00566711 
+Target: 0 
+Erro da Rede: 0.0338005
+
+Step695: Input : 0 1 
+Output: -0.000130885 
+Target: 0 
+Erro da Rede: 0.0334671
+
+Step696: Input : 0 1 
+Output: -0.00294732 
+Target: 0 
+Erro da Rede: 0.0331649
+
+Step697: Input : 0 1 
+Output: -0.00193189 
+Target: 0 
+Erro da Rede: 0.0328557
+
+Step698: Input : 0 1 
+Output: 0.000164786 
+Target: 0 
+Erro da Rede: 0.032532
+
+Step699: Input : 0 0 
+Output: -0.00848348 
+Target: 0 
+Erro da Rede: 0.0322939
+
+Step700: Input : 1 1 
+Output: 0.930761 
+Target: 1 
+Erro da Rede: 0.0326597
+
+Step701: Input : 0 1 
+Output: 0.0127318 
+Target: 0 
+Erro da Rede: 0.0324624
+
+Step702: Input : 0 0 
+Output: 0.00297694 
+Target: 0 
+Erro da Rede: 0.0321705
+
+Step703: Input : 0 0 
+Output: -0.000198427 
+Target: 0 
+Erro da Rede: 0.0318539
+
+Step704: Input : 1 1 
+Output: 0.931294 
+Target: 1 
+Erro da Rede: 0.0322188
+
+Step705: Input : 1 0 
+Output: 0.0144172 
+Target: 0 
+Erro da Rede: 0.0320425
+
+Step706: Input : 1 0 
+Output: 0.00520501 
+Target: 0 
+Erro da Rede: 0.0317768
+
+Step707: Input : 1 1 
+Output: 0.930947 
+Target: 1 
+Erro da Rede: 0.0321459
+
+Step708: Input : 1 0 
+Output: -0.00295875 
+Target: 0 
+Erro da Rede: 0.0318569
+
+Step709: Input : 0 1 
+Output: 0.00821543 
+Target: 0 
+Erro da Rede: 0.0316228
+
+Step710: Input : 0 0 
+Output: -0.00727277 
+Target: 0 
+Erro da Rede: 0.0313817
+
+Step711: Input : 0 1 
+Output: 0.00347573 
+Target: 0 
+Erro da Rede: 0.0311054
+
+Step712: Input : 0 0 
+Output: -0.00318927 
+Target: 0 
+Erro da Rede: 0.030829
+
+Step713: Input : 1 0 
+Output: 0.00682009 
+Target: 0 
+Erro da Rede: 0.0305913
+
+Step714: Input : 1 1 
+Output: 0.931762 
+Target: 1 
+Erro da Rede: 0.0309641
+
+Step715: Input : 1 1 
+Output: 0.932524 
+Target: 1 
+Erro da Rede: 0.0313256
+
+Step716: Input : 1 1 
+Output: 0.933832 
+Target: 1 
+Erro da Rede: 0.0316705
+
+Step717: Input : 0 1 
+Output: 0.0197706 
+Target: 0 
+Erro da Rede: 0.0315527
+
+Step718: Input : 1 0 
+Output: 0.0196332 
+Target: 0 
+Erro da Rede: 0.0314347
+
+Step719: Input : 0 1 
+Output: -0.00196433 
+Target: 0 
+Erro da Rede: 0.0311429
+
+Step720: Input : 0 0 
+Output: -0.01102 
+Target: 0 
+Erro da Rede: 0.0309437
+
+Step721: Input : 1 1 
+Output: 0.932659 
+Target: 1 
+Erro da Rede: 0.0313041
+
+Step722: Input : 1 0 
+Output: 0.00400524 
+Target: 0 
+Erro da Rede: 0.0310338
+
+Step723: Input : 1 1 
+Output: 0.934014 
+Target: 1 
+Erro da Rede: 0.0313798
+
+Step724: Input : 1 1 
+Output: 0.935021 
+Target: 1 
+Erro da Rede: 0.0317125
+
+Step725: Input : 0 0 
+Output: 0.0130865 
+Target: 0 
+Erro da Rede: 0.0315281
+
+Step726: Input : 0 0 
+Output: 0.00695146 
+Target: 0 
+Erro da Rede: 0.0312848
+
+Step727: Input : 1 1 
+Output: 0.935775 
+Target: 1 
+Erro da Rede: 0.0316109
+
+Step728: Input : 1 1 
+Output: 0.936357 
+Target: 1 
+Erro da Rede: 0.031928
+
+Step729: Input : 1 0 
+Output: 0.0134861 
+Target: 0 
+Erro da Rede: 0.0317455
+
+Step730: Input : 1 1 
+Output: 0.937068 
+Target: 1 
+Erro da Rede: 0.0320542
+
+Step731: Input : 0 0 
+Output: -0.00138775 
+Target: 0 
+Erro da Rede: 0.0317506
+
+Step732: Input : 0 0 
+Output: 0.000186038 
+Target: 0 
+Erro da Rede: 0.0314381
+
+Step733: Input : 0 0 
+Output: 0.000840522 
+Target: 0 
+Erro da Rede: 0.0311351
+
+Step734: Input : 0 0 
+Output: 0.000569101 
+Target: 0 
+Erro da Rede: 0.0308325
+
+Step735: Input : 1 1 
+Output: 0.938223 
+Target: 1 
+Erro da Rede: 0.0311389
+
+Step736: Input : 1 0 
+Output: 0.00926985 
+Target: 0 
+Erro da Rede: 0.0309224
+
+Step737: Input : 0 0 
+Output: 0.000228605 
+Target: 0 
+Erro da Rede: 0.0306185
+
+Step738: Input : 1 0 
+Output: 0.000677752 
+Target: 0 
+Erro da Rede: 0.030322
+
+Step739: Input : 1 0 
+Output: -0.00134729 
+Target: 0 
+Erro da Rede: 0.0300351
+
+Step740: Input : 0 1 
+Output: 0.0360385 
+Target: 0 
+Erro da Rede: 0.0300946
+
+Step741: Input : 0 0 
+Output: -0.0193875 
+Target: 0 
+Erro da Rede: 0.0299886
+
+Step742: Input : 0 0 
+Output: -0.0139775 
+Target: 0 
+Erro da Rede: 0.02983
+
+Step743: Input : 1 1 
+Output: 0.936775 
+Target: 1 
+Erro da Rede: 0.0301607
+
+Step744: Input : 0 1 
+Output: 0.00980357 
+Target: 0 
+Erro da Rede: 0.0299591
+
+Step745: Input : 0 1 
+Output: 0.0046555 
+Target: 0 
+Erro da Rede: 0.0297086
+
+Step746: Input : 0 0 
+Output: 0.00717389 
+Target: 0 
+Erro da Rede: 0.0294855
+
+Step747: Input : 1 1 
+Output: 0.936917 
+Target: 1 
+Erro da Rede: 0.0298181
+
+Step748: Input : 1 1 
+Output: 0.937396 
+Target: 1 
+Erro da Rede: 0.0301427
+
+Step749: Input : 1 0 
+Output: 0.0282334 
+Target: 0 
+Erro da Rede: 0.0301238
+
+Step750: Input : 0 0 
+Output: -0.00659187 
+Target: 0 
+Erro da Rede: 0.0298908
+
+Step751: Input : 1 1 
+Output: 0.936695 
+Target: 1 
+Erro da Rede: 0.0302217
+
+Step752: Input : 0 0 
+Output: -0.0050091 
+Target: 0 
+Erro da Rede: 0.029972
+
+Step753: Input : 1 0 
+Output: 0.00487786 
+Target: 0 
+Erro da Rede: 0.0297236
+
+Step754: Input : 0 1 
+Output: 0.00869736 
+Target: 0 
+Erro da Rede: 0.0295154
+
+Step755: Input : 1 0 
+Output: -0.000338931 
+Target: 0 
+Erro da Rede: 0.0292265
+
+Step756: Input : 1 1 
+Output: 0.93703 
+Target: 1 
+Erro da Rede: 0.0295606
+
+Step757: Input : 1 1 
+Output: 0.937667 
+Target: 1 
+Erro da Rede: 0.0298851
+
+Step758: Input : 0 1 
+Output: 0.00728452 
+Target: 0 
+Erro da Rede: 0.0296613
+
+Step759: Input : 0 0 
+Output: 0.00110758 
+Target: 0 
+Erro da Rede: 0.0293786
+
+Step760: Input : 1 1 
+Output: 0.93874 
+Target: 1 
+Erro da Rede: 0.0296943
+
+Step761: Input : 1 0 
+Output: 0.0146349 
+Target: 0 
+Erro da Rede: 0.0295452
+
+Step762: Input : 0 1 
+Output: 0.00370855 
+Target: 0 
+Erro da Rede: 0.0292894
+
+Step763: Input : 1 1 
+Output: 0.938274 
+Target: 1 
+Erro da Rede: 0.0296105
+
+Step764: Input : 0 0 
+Output: -0.00681657 
+Target: 0 
+Erro da Rede: 0.0293848
+
+Step765: Input : 1 1 
+Output: 0.939345 
+Target: 1 
+Erro da Rede: 0.0296945
+
+Step766: Input : 1 0 
+Output: 0.0105534 
+Target: 0 
+Erro da Rede: 0.0295049
+
+Step767: Input : 0 1 
+Output: 0.0142208 
+Target: 0 
+Erro da Rede: 0.0293536
+
+Step768: Input : 1 0 
+Output: -0.0003352 
+Target: 0 
+Erro da Rede: 0.0290663
+
+Step769: Input : 0 1 
+Output: -0.00266276 
+Target: 0 
+Erro da Rede: 0.0288049
+
+Step770: Input : 1 1 
+Output: 0.938574 
+Target: 1 
+Erro da Rede: 0.0291279
+
+Step771: Input : 0 0 
+Output: -0.00640367 
+Target: 0 
+Erro da Rede: 0.0289029
+
+Step772: Input : 1 0 
+Output: 0.00540703 
+Target: 0 
+Erro da Rede: 0.0286702
+
+Step773: Input : 0 0 
+Output: 0.000179702 
+Target: 0 
+Erro da Rede: 0.0283882
+
+Step774: Input : 1 1 
+Output: 0.939952 
+Target: 1 
+Erro da Rede: 0.0287016
+
+Step775: Input : 0 1 
+Output: 0.0119525 
+Target: 0 
+Erro da Rede: 0.0285358
+
+Step776: Input : 0 0 
+Output: -0.000314853 
+Target: 0 
+Erro da Rede: 0.0282564
+
+Step777: Input : 1 0 
+Output: 0.00551302 
+Target: 0 
+Erro da Rede: 0.0280312
+
+Step778: Input : 1 1 
+Output: 0.93953 
+Target: 1 
+Erro da Rede: 0.0283524
+
+Step779: Input : 1 0 
+Output: 0.00264235 
+Target: 0 
+Erro da Rede: 0.0280978
+
+Step780: Input : 0 1 
+Output: 0.000719747 
+Target: 0 
+Erro da Rede: 0.0278267
+
+Step781: Input : 1 1 
+Output: 0.940037 
+Target: 1 
+Erro da Rede: 0.0281449
+
+Step782: Input : 0 0 
+Output: -0.00226446 
+Target: 0 
+Erro da Rede: 0.0278887
+
+Step783: Input : 1 1 
+Output: 0.941159 
+Target: 1 
+Erro da Rede: 0.0281951
+
+Step784: Input : 0 1 
+Output: 0.0125013 
+Target: 0 
+Erro da Rede: 0.0280398
+
+Step785: Input : 1 0 
+Output: 0.0125555 
+Target: 0 
+Erro da Rede: 0.0278865
+
+Step786: Input : 1 0 
+Output: 0.00244131 
+Target: 0 
+Erro da Rede: 0.0276345
+
+Step787: Input : 1 0 
+Output: -0.00462623 
+Target: 0 
+Erro da Rede: 0.0274067
+
+Step788: Input : 0 1 
+Output: -0.00588065 
+Target: 0 
+Erro da Rede: 0.0271936
+
+Step789: Input : 0 1 
+Output: -0.00140504 
+Target: 0 
+Erro da Rede: 0.0269383
+
+Step790: Input : 0 1 
+Output: 0.002017 
+Target: 0 
+Erro da Rede: 0.0266915
+
+Step791: Input : 1 1 
+Output: 0.940647 
+Target: 1 
+Erro da Rede: 0.0270149
+
+Step792: Input : 0 0 
+Output: -0.00359067 
+Target: 0 
+Erro da Rede: 0.026783
+
+Step793: Input : 0 0 
+Output: 0.000665262 
+Target: 0 
+Erro da Rede: 0.0265244
+
+Step794: Input : 0 0 
+Output: 0.00231192 
+Target: 0 
+Erro da Rede: 0.0262847
+
+Step795: Input : 0 0 
+Output: 0.00146198 
+Target: 0 
+Erro da Rede: 0.0260389
+
+Step796: Input : 1 0 
+Output: 0.00537777 
+Target: 0 
+Erro da Rede: 0.0258343
+
+Step797: Input : 1 1 
+Output: 0.94157 
+Target: 1 
+Erro da Rede: 0.026157
+
+Step798: Input : 0 1 
+Output: 0.0114245 
+Target: 0 
+Erro da Rede: 0.0260112
+
+Step799: Input : 1 0 
+Output: 0.000393261 
+Target: 0 
+Erro da Rede: 0.0257575
+
+Step800: Input : 0 1 
+Output: -0.000840986 
+Target: 0 
+Erro da Rede: 0.0255108
+
+Step801: Input : 0 1 
+Output: -0.00219701 
+Target: 0 
+Erro da Rede: 0.02528
+
+Step802: Input : 1 0 
+Output: -0.00073092 
+Target: 0 
+Erro da Rede: 0.0250369
+
+Step803: Input : 0 1 
+Output: -0.000312391 
+Target: 0 
+Erro da Rede: 0.0247922
+
+Step804: Input : 1 1 
+Output: 0.9414 
+Target: 1 
+Erro da Rede: 0.0251269
+
+Step805: Input : 1 0 
+Output: 0.00428337 
+Target: 0 
+Erro da Rede: 0.0249205
+
+Step806: Input : 1 0 
+Output: 0.00269642 
+Target: 0 
+Erro da Rede: 0.0247005
+
+Step807: Input : 0 1 
+Output: 0.00583828 
+Target: 0 
+Erro da Rede: 0.0245137
+
+Step808: Input : 1 0 
+Output: -0.00281401 
+Target: 0 
+Erro da Rede: 0.0242989
+
+Step809: Input : 1 1 
+Output: 0.941512 
+Target: 1 
+Erro da Rede: 0.0246374
+
+Step810: Input : 0 0 
+Output: -0.00785697 
+Target: 0 
+Erro da Rede: 0.0244712
+
+Step811: Input : 0 0 
+Output: -0.000635963 
+Target: 0 
+Erro da Rede: 0.0242352
+
+Step812: Input : 0 0 
+Output: 0.0034362 
+Target: 0 
+Erro da Rede: 0.0240293
+
+Step813: Input : 1 0 
+Output: 0.0119708 
+Target: 0 
+Erro da Rede: 0.0239099
+
+Step814: Input : 1 1 
+Output: 0.942517 
+Target: 1 
+Erro da Rede: 0.0242423
+
+Step815: Input : 0 1 
+Output: 0.00995302 
+Target: 0 
+Erro da Rede: 0.0241008
+
+Step816: Input : 0 1 
+Output: 0.00279572 
+Target: 0 
+Erro da Rede: 0.0238899
+
+Step817: Input : 1 1 
+Output: 0.941812 
+Target: 1 
+Erro da Rede: 0.0242295
+
+Step818: Input : 1 0 
+Output: -0.000542009 
+Target: 0 
+Erro da Rede: 0.023995
+
+Step819: Input : 0 1 
+Output: -0.00199775 
+Target: 0 
+Erro da Rede: 0.0237772
+
+Step820: Input : 0 0 
+Output: -0.00820719 
+Target: 0 
+Erro da Rede: 0.023623
+
+Step821: Input : 0 1 
+Output: 0.00475974 
+Target: 0 
+Erro da Rede: 0.0234362
+
+Step822: Input : 0 0 
+Output: -0.000442384 
+Target: 0 
+Erro da Rede: 0.0232086
+
+Step823: Input : 1 1 
+Output: 0.943258 
+Target: 1 
+Erro da Rede: 0.0235406
+
+Step824: Input : 1 0 
+Output: 0.0140747 
+Target: 0 
+Erro da Rede: 0.0234469
+
+Step825: Input : 1 1 
+Output: 0.943273 
+Target: 1 
+Erro da Rede: 0.0237764
+
+Step826: Input : 1 0 
+Output: 0.00303479 
+Target: 0 
+Erro da Rede: 0.023571
+
+Step827: Input : 1 1 
+Output: 0.943525 
+Target: 1 
+Erro da Rede: 0.0238968
+
+Step828: Input : 0 1 
+Output: 0.0131784 
+Target: 0 
+Erro da Rede: 0.0237907
+
+Step829: Input : 1 1 
+Output: 0.943544 
+Target: 1 
+Erro da Rede: 0.0241141
+
+Step830: Input : 0 0 
+Output: -0.00510689 
+Target: 0 
+Erro da Rede: 0.0239259
+
+Step831: Input : 1 1 
+Output: 0.944268 
+Target: 1 
+Erro da Rede: 0.0242408
+
+Step832: Input : 0 1 
+Output: 0.00903466 
+Target: 0 
+Erro da Rede: 0.0240902
+
+Step833: Input : 0 0 
+Output: 0.00187721 
+Target: 0 
+Erro da Rede: 0.0238703
+
+Step834: Input : 0 1 
+Output: -0.000144255 
+Target: 0 
+Erro da Rede: 0.0236354
+
+Step835: Input : 1 0 
+Output: 0.0133159 
+Target: 0 
+Erro da Rede: 0.0235332
+
+Step836: Input : 1 0 
+Output: 0.0021537 
+Target: 0 
+Erro da Rede: 0.0233216
+
+Step837: Input : 0 0 
+Output: -0.0136334 
+Target: 0 
+Erro da Rede: 0.0232256
+
+Step838: Input : 1 1 
+Output: 0.943624 
+Target: 1 
+Erro da Rede: 0.0235539
+
+Step839: Input : 0 0 
+Output: 0.000721357 
+Target: 0 
+Erro da Rede: 0.0233278
+
+Step840: Input : 0 1 
+Output: 0.00770592 
+Target: 0 
+Erro da Rede: 0.0231731
+
+Step841: Input : 0 1 
+Output: 0.0025381 
+Target: 0 
+Erro da Rede: 0.0229688
+
+Step842: Input : 1 0 
+Output: 0.00463872 
+Target: 0 
+Erro da Rede: 0.0227873
+
+Step843: Input : 1 0 
+Output: 0.000518426 
+Target: 0 
+Erro da Rede: 0.0225668
+
+Step844: Input : 1 0 
+Output: -0.0019723 
+Target: 0 
+Erro da Rede: 0.0223629
+
+Step845: Input : 0 0 
+Output: -0.00654882 
+Target: 0 
+Erro da Rede: 0.0222064
+
+Step846: Input : 1 1 
+Output: 0.94383 
+Target: 1 
+Erro da Rede: 0.0225426
+
+Step847: Input : 0 1 
+Output: 0.000230723 
+Target: 0 
+Erro da Rede: 0.0223217
+
+Step848: Input : 1 1 
+Output: 0.944911 
+Target: 1 
+Erro da Rede: 0.0226461
+
+Step849: Input : 1 1 
+Output: 0.945613 
+Target: 1 
+Erro da Rede: 0.0229604
+
+Step850: Input : 0 1 
+Output: 0.0123466 
+Target: 0 
+Erro da Rede: 0.0228553
+
+Step851: Input : 0 0 
+Output: 0.0117096 
+Target: 0 
+Erro da Rede: 0.022745
+
+Step852: Input : 0 0 
+Output: 0.00140413 
+Target: 0 
+Erro da Rede: 0.0225337
+
+Step853: Input : 0 1 
+Output: -0.0103437 
+Target: 0 
+Erro da Rede: 0.022413
+
+Step854: Input : 0 1 
+Output: -0.00424773 
+Target: 0 
+Erro da Rede: 0.0222331
+
+Step855: Input : 0 0 
+Output: -1.03064e-05 
+Target: 0 
+Erro da Rede: 0.0220131
+
+Step856: Input : 0 0 
+Output: 0.0014655 
+Target: 0 
+Erro da Rede: 0.0218097
+
+Step857: Input : 0 0 
+Output: 0.00112848 
+Target: 0 
+Erro da Rede: 0.0216049
+
+Step858: Input : 1 1 
+Output: 0.946031 
+Target: 1 
+Erro da Rede: 0.0219253
+
+Step859: Input : 1 1 
+Output: 0.946512 
+Target: 1 
+Erro da Rede: 0.0222378
+
+Step860: Input : 0 1 
+Output: 0.014544 
+Target: 0 
+Erro da Rede: 0.0221617
+
+Step861: Input : 0 0 
+Output: 0.00115026 
+Target: 0 
+Erro da Rede: 0.0219536
+
+Step862: Input : 0 0 
+Output: -0.00221464 
+Target: 0 
+Erro da Rede: 0.0217582
+
+Step863: Input : 1 0 
+Output: 0.0179897 
+Target: 0 
+Erro da Rede: 0.0217209
+
+Step864: Input : 1 1 
+Output: 0.94533 
+Target: 1 
+Erro da Rede: 0.0220471
+
+Step865: Input : 1 1 
+Output: 0.945307 
+Target: 1 
+Erro da Rede: 0.0223703
+
+Step866: Input : 1 1 
+Output: 0.945818 
+Target: 1 
+Erro da Rede: 0.0226853
+
+Step867: Input : 0 0 
+Output: -0.00771112 
+Target: 0 
+Erro da Rede: 0.022537
+
+Step868: Input : 0 1 
+Output: 0.0100357 
+Target: 0 
+Erro da Rede: 0.0224133
+
+Step869: Input : 0 0 
+Output: -0.00119031 
+Target: 0 
+Erro da Rede: 0.0222031
+
+Step870: Input : 0 0 
+Output: -0.000825195 
+Target: 0 
+Erro da Rede: 0.0219915
+
+Step871: Input : 0 1 
+Output: 0.00175372 
+Target: 0 
+Erro da Rede: 0.0217911
+
+Step872: Input : 1 1 
+Output: 0.94702 
+Target: 1 
+Erro da Rede: 0.0220999
+
+Step873: Input : 0 0 
+Output: 0.00194576 
+Target: 0 
+Erro da Rede: 0.0219004
+
+Step874: Input : 1 1 
+Output: 0.947567 
+Target: 1 
+Erro da Rede: 0.0222027
+
+Step875: Input : 1 1 
+Output: 0.948085 
+Target: 1 
+Erro da Rede: 0.0224968
+
+Step876: Input : 0 1 
+Output: 0.00981714 
+Target: 0 
+Erro da Rede: 0.0223713
+
+Step877: Input : 1 1 
+Output: 0.948584 
+Target: 1 
+Erro da Rede: 0.0226589
+
+Step878: Input : 0 1 
+Output: 0.00347732 
+Target: 0 
+Erro da Rede: 0.022469
+
+Step879: Input : 1 1 
+Output: 0.948887 
+Target: 1 
+Erro da Rede: 0.0227526
+
+Step880: Input : 1 1 
+Output: 0.9493 
+Target: 1 
+Erro da Rede: 0.0230293
+
+Step881: Input : 1 1 
+Output: 0.94992 
+Target: 1 
+Erro da Rede: 0.0232971
+
+Step882: Input : 1 1 
+Output: 0.950627 
+Target: 1 
+Erro da Rede: 0.0235553
+
+Step883: Input : 1 1 
+Output: 0.951359 
+Target: 1 
+Erro da Rede: 0.0238036
+
+Step884: Input : 1 1 
+Output: 0.952087 
+Target: 1 
+Erro da Rede: 0.0240423
+
+Step885: Input : 1 1 
+Output: 0.952796 
+Target: 1 
+Erro da Rede: 0.0242717
+
+Step886: Input : 0 0 
+Output: 0.0317673 
+Target: 0 
+Erro da Rede: 0.0243459
+
+Step887: Input : 1 1 
+Output: 0.952421 
+Target: 1 
+Erro da Rede: 0.0245759
+
+Step888: Input : 0 1 
+Output: 0.0131929 
+Target: 0 
+Erro da Rede: 0.0244632
+
+Step889: Input : 0 1 
+Output: -0.000122468 
+Target: 0 
+Erro da Rede: 0.0242222
+
+Step890: Input : 0 0 
+Output: -0.0141159 
+Target: 0 
+Erro da Rede: 0.0241222
+
+Step891: Input : 0 1 
+Output: -0.00314754 
+Target: 0 
+Erro da Rede: 0.0239145
+
+Step892: Input : 0 0 
+Output: -0.000783385 
+Target: 0 
+Erro da Rede: 0.0236855
+
+Step893: Input : 1 0 
+Output: 0.0507527 
+Target: 0 
+Erro da Rede: 0.0239535
+
+Step894: Input : 0 0 
+Output: -0.0220039 
+Target: 0 
+Erro da Rede: 0.0239342
+
+Step895: Input : 1 1 
+Output: 0.94917 
+Target: 1 
+Erro da Rede: 0.0242004
+
+Step896: Input : 0 1 
+Output: 0.00994577 
+Target: 0 
+Erro da Rede: 0.0240593
+
+Step897: Input : 0 1 
+Output: 0.00454054 
+Target: 0 
+Erro da Rede: 0.0238661
+
+Step898: Input : 1 0 
+Output: -0.00707208 
+Target: 0 
+Erro da Rede: 0.0236998
+
+Step899: Input : 0 0 
+Output: -0.0174891 
+Target: 0 
+Erro da Rede: 0.0236383
+
+Step900: Input : 0 0 
+Output: -0.00351092 
+Target: 0 
+Erro da Rede: 0.023439
+
+Step901: Input : 0 0 
+Output: 0.00608538 
+Target: 0 
+Erro da Rede: 0.0232672
+
+Step902: Input : 1 1 
+Output: 0.950275 
+Target: 1 
+Erro da Rede: 0.0235291
+
+Step903: Input : 0 1 
+Output: 0.0108475 
+Target: 0 
+Erro da Rede: 0.0234036
+
+Step904: Input : 0 0 
+Output: 0.00486136 
+Target: 0 
+Erro da Rede: 0.02322
+
+Step905: Input : 0 1 
+Output: -0.00356494 
+Target: 0 
+Erro da Rede: 0.0230254
+
+Step906: Input : 0 1 
+Output: -0.00367495 
+Target: 0 
+Erro da Rede: 0.0228338
+
+Step907: Input : 1 0 
+Output: 0.0171528 
+Target: 0 
+Erro da Rede: 0.0227776
+
+Step908: Input : 1 0 
+Output: 0.00279564 
+Target: 0 
+Erro da Rede: 0.0225797
+
+Step909: Input : 1 1 
+Output: 0.9486 
+Target: 1 
+Erro da Rede: 0.0228651
+
+Step910: Input : 1 1 
+Output: 0.948744 
+Target: 1 
+Erro da Rede: 0.0231462
+
+Step911: Input : 1 1 
+Output: 0.949251 
+Target: 1 
+Erro da Rede: 0.0234195
+
+Step912: Input : 0 0 
+Output: -0.00877238 
+Target: 0 
+Erro da Rede: 0.0232744
+
+Step913: Input : 0 1 
+Output: 0.0149752 
+Target: 0 
+Erro da Rede: 0.0231923
+
+Step914: Input : 1 1 
+Output: 0.950219 
+Target: 1 
+Erro da Rede: 0.0234555
+
+Step915: Input : 0 1 
+Output: 0.00330795 
+Target: 0 
+Erro da Rede: 0.023256
+
+Step916: Input : 0 0 
+Output: -0.0037829 
+Target: 0 
+Erro da Rede: 0.0230632
+
+Step917: Input : 1 1 
+Output: 0.95043 
+Target: 1 
+Erro da Rede: 0.0233257
+
+Step918: Input : 0 0 
+Output: 0.00190005 
+Target: 0 
+Erro da Rede: 0.0231135
+
+Step919: Input : 0 1 
+Output: 0.0023683 
+Target: 0 
+Erro da Rede: 0.0229081
+
+Step920: Input : 0 0 
+Output: 0.00121923 
+Target: 0 
+Erro da Rede: 0.0226934
+
+Step921: Input : 0 1 
+Output: -0.000977124 
+Target: 0 
+Erro da Rede: 0.0224784
+
+Step922: Input : 0 0 
+Output: -0.00041637 
+Target: 0 
+Erro da Rede: 0.02226
+
+Step923: Input : 0 1 
+Output: -0.000640542 
+Target: 0 
+Erro da Rede: 0.0220459
+
+Step924: Input : 0 1 
+Output: 3.56681e-05 
+Target: 0 
+Erro da Rede: 0.021828
+
+Step925: Input : 1 1 
+Output: 0.950987 
+Target: 1 
+Erro da Rede: 0.0220971
+
+Step926: Input : 0 1 
+Output: 0.00315753 
+Target: 0 
+Erro da Rede: 0.0219096
+
+Step927: Input : 0 1 
+Output: 0.00183526 
+Target: 0 
+Erro da Rede: 0.0217109
+
+Step928: Input : 1 1 
+Output: 0.951318 
+Target: 1 
+Erro da Rede: 0.0219779
+
+Step929: Input : 0 0 
+Output: 0.00307466 
+Target: 0 
+Erro da Rede: 0.0217907
+
+Step930: Input : 1 1 
+Output: 0.951673 
+Target: 1 
+Erro da Rede: 0.0220535
+
+Step931: Input : 0 1 
+Output: 0.00258416 
+Target: 0 
+Erro da Rede: 0.0218607
+
+Step932: Input : 1 1 
+Output: 0.952101 
+Target: 1 
+Erro da Rede: 0.0221185
+
+Step933: Input : 1 1 
+Output: 0.952483 
+Target: 1 
+Erro da Rede: 0.02237
+
+Step934: Input : 0 0 
+Output: 0.00766236 
+Target: 0 
+Erro da Rede: 0.0222244
+
+Step935: Input : 0 0 
+Output: 0.00347652 
+Target: 0 
+Erro da Rede: 0.0220388
+
+Step936: Input : 1 1 
+Output: 0.952752 
+Target: 1 
+Erro da Rede: 0.0222884
+
+Step937: Input : 0 1 
+Output: 0.00349379 
+Target: 0 
+Erro da Rede: 0.0221023
+
+Step938: Input : 1 0 
+Output: 0.0279428 
+Target: 0 
+Erro da Rede: 0.0221601
+
+Step939: Input : 0 0 
+Output: -0.0186755 
+Target: 0 
+Erro da Rede: 0.0221256
+
+Step940: Input : 0 0 
+Output: -0.0123697 
+Target: 0 
+Erro da Rede: 0.022029
+
+Step941: Input : 1 1 
+Output: 0.952137 
+Target: 1 
+Erro da Rede: 0.0222848
+
+Step942: Input : 1 0 
+Output: 0.0125127 
+Target: 0 
+Erro da Rede: 0.022188
+
+Step943: Input : 0 0 
+Output: 0.00613219 
+Target: 0 
+Erro da Rede: 0.0220291
+
+Step944: Input : 1 1 
+Output: 0.952021 
+Target: 1 
+Erro da Rede: 0.022286
+
+Step945: Input : 1 1 
+Output: 0.952159 
+Target: 1 
+Erro da Rede: 0.022539
+
+Step946: Input : 0 1 
+Output: 0.0210837 
+Target: 0 
+Erro da Rede: 0.0225246
+
+Step947: Input : 1 1 
+Output: 0.951676 
+Target: 1 
+Erro da Rede: 0.02278
+
+Step948: Input : 1 0 
+Output: -0.00298083 
+Target: 0 
+Erro da Rede: 0.022584
+
+Step949: Input : 1 1 
+Output: 0.951701 
+Target: 1 
+Erro da Rede: 0.0228386
+
+Step950: Input : 0 0 
+Output: -0.00741848 
+Target: 0 
+Erro da Rede: 0.0226859
+
+Step951: Input : 0 1 
+Output: 0.00196885 
+Target: 0 
+Erro da Rede: 0.0224808
+
+Step952: Input : 0 0 
+Output: 0.0017945 
+Target: 0 
+Erro da Rede: 0.022276
+
+Step953: Input : 1 0 
+Output: 0.0133856 
+Target: 0 
+Erro da Rede: 0.022188
+
+Step954: Input : 0 1 
+Output: -0.000810971 
+Target: 0 
+Erro da Rede: 0.0219763
+
+Step955: Input : 0 1 
+Output: -0.00138972 
+Target: 0 
+Erro da Rede: 0.0217725
+
+Step956: Input : 0 0 
+Output: -0.00938908 
+Target: 0 
+Erro da Rede: 0.0216499
+
+Step957: Input : 0 1 
+Output: 0.00451858 
+Target: 0 
+Erro da Rede: 0.0214803
+
+Step958: Input : 0 0 
+Output: -0.00164651 
+Target: 0 
+Erro da Rede: 0.0212839
+
+Step959: Input : 0 0 
+Output: 0.000154199 
+Target: 0 
+Erro da Rede: 0.0210747
+
+Step960: Input : 1 0 
+Output: 0.000931985 
+Target: 0 
+Erro da Rede: 0.0208753
+
+Step961: Input : 1 1 
+Output: 0.952116 
+Target: 1 
+Erro da Rede: 0.0211427
+
+Step962: Input : 1 1 
+Output: 0.952455 
+Target: 1 
+Erro da Rede: 0.0214041
+
+Step963: Input : 1 1 
+Output: 0.952973 
+Target: 1 
+Erro da Rede: 0.0216578
+
+Step964: Input : 1 0 
+Output: 0.0106787 
+Target: 0 
+Erro da Rede: 0.0215491
+
+Step965: Input : 0 0 
+Output: 0.00622295 
+Target: 0 
+Erro da Rede: 0.0213973
+
+Step966: Input : 1 0 
+Output: -0.00301592 
+Target: 0 
+Erro da Rede: 0.0212153
+
+Step967: Input : 0 0 
+Output: -0.00201691 
+Target: 0 
+Erro da Rede: 0.0210253
+
+Step968: Input : 1 1 
+Output: 0.952925 
+Target: 1 
+Erro da Rede: 0.0212832
+
+Step969: Input : 0 0 
+Output: 0.00110216 
+Target: 0 
+Erro da Rede: 0.0210834
+
+Step970: Input : 1 0 
+Output: 0.000454701 
+Target: 0 
+Erro da Rede: 0.0208791
+
+Step971: Input : 1 0 
+Output: 0.000476897 
+Target: 0 
+Erro da Rede: 0.0206771
+
+Step972: Input : 0 1 
+Output: 0.0146828 
+Target: 0 
+Erro da Rede: 0.0206178
+
+Step973: Input : 1 1 
+Output: 0.952712 
+Target: 1 
+Erro da Rede: 0.0208818
+
+Step974: Input : 1 0 
+Output: -0.00141473 
+Target: 0 
+Erro da Rede: 0.0206891
+
+Step975: Input : 1 1 
+Output: 0.952725 
+Target: 1 
+Erro da Rede: 0.0209523
+
+Step976: Input : 0 1 
+Output: -0.00200328 
+Target: 0 
+Erro da Rede: 0.0207647
+
+Step977: Input : 0 0 
+Output: -0.00338254 
+Target: 0 
+Erro da Rede: 0.0205926
+
+Step978: Input : 0 1 
+Output: 0.00348248 
+Target: 0 
+Erro da Rede: 0.0204232
+
+Step979: Input : 1 0 
+Output: 0.00934686 
+Target: 0 
+Erro da Rede: 0.0203135
+
+Step980: Input : 0 0 
+Output: -0.00453891 
+Target: 0 
+Erro da Rede: 0.0201573
+
+Step981: Input : 1 0 
+Output: 0.000349908 
+Target: 0 
+Erro da Rede: 0.0199612
+
+Step982: Input : 0 1 
+Output: 0.0010352 
+Target: 0 
+Erro da Rede: 0.0197738
+
+Step983: Input : 0 0 
+Output: -0.00354085 
+Target: 0 
+Erro da Rede: 0.0196131
+
+Step984: Input : 1 0 
+Output: 0.000173351 
+Target: 0 
+Erro da Rede: 0.0194206
+
+Step985: Input : 0 1 
+Output: 0.00239576 
+Target: 0 
+Erro da Rede: 0.0192521
+
+Step986: Input : 1 1 
+Output: 0.953053 
+Target: 1 
+Erro da Rede: 0.0195263
+
+Step987: Input : 1 0 
+Output: 0.00308318 
+Target: 0 
+Erro da Rede: 0.0193635
+
+Step988: Input : 0 1 
+Output: 0.00249349 
+Target: 0 
+Erro da Rede: 0.0191964
+
+Step989: Input : 1 0 
+Output: 0.000519897 
+Target: 0 
+Erro da Rede: 0.0190115
+
+Step990: Input : 1 1 
+Output: 0.953094 
+Target: 1 
+Erro da Rede: 0.0192877
+
+Step991: Input : 1 0 
+Output: 0.00145032 
+Target: 0 
+Erro da Rede: 0.0191111
+
+Step992: Input : 0 1 
+Output: 0.00196717 
+Target: 0 
+Erro da Rede: 0.0189414
+
+Step993: Input : 0 0 
+Output: -0.00127604 
+Target: 0 
+Erro da Rede: 0.0187665
+
+Step994: Input : 1 1 
+Output: 0.95341 
+Target: 1 
+Erro da Rede: 0.0190419
+
+Step995: Input : 1 0 
+Output: 0.00378531 
+Target: 0 
+Erro da Rede: 0.0188909
+
+Step996: Input : 1 0 
+Output: 0.00186615 
+Target: 0 
+Erro da Rede: 0.0187223
+
+Step997: Input : 0 0 
+Output: -0.000656218 
+Target: 0 
+Erro da Rede: 0.0185434
+
+Step998: Input : 0 0 
+Output: -0.000851656 
+Target: 0 
+Erro da Rede: 0.0183683
+
+Step999: Input : 1 0 
+Output: -0.00164453 
+Target: 0 
+Erro da Rede: 0.0182027
+
+Step1000: Input : 1 1 
+Output: 0.95372 
+Target: 1 
+Erro da Rede: 0.0184807
+
+Step1001: Input : 0 0 
+Output: 0.00344022 
+Target: 0 
+Erro da Rede: 0.0183318
+
+Step1002: Input : 0 0 
+Output: 0.00214552 
+Target: 0 
+Erro da Rede: 0.0181715
+
+Step1003: Input : 0 1 
+Output: 0.00602892 
+Target: 0 
+Erro da Rede: 0.0180513
+
+Step1004: Input : 1 0 
+Output: -0.000309607 
+Target: 0 
+Erro da Rede: 0.0178756
+
+Step1005: Input : 0 1 
+Output: -0.00271748 
+Target: 0 
+Erro da Rede: 0.0177256
+
+Step1006: Input : 1 1 
+Output: 0.953605 
+Target: 1 
+Erro da Rede: 0.0180094
+
+Step1007: Input : 0 1 
+Output: 0.00108386 
+Target: 0 
+Erro da Rede: 0.0178418
+
+Step1008: Input : 1 0 
+Output: 0.002863 
+Target: 0 
+Erro da Rede: 0.0176935
+
+Step1009: Input : 0 1 
+Output: 0.00134083 
+Target: 0 
+Erro da Rede: 0.0175316
+
+Step1010: Input : 0 1 
+Output: 5.37014e-05 
+Target: 0 
+Erro da Rede: 0.0173586
+
+Step1011: Input : 1 0 
+Output: -0.000838464 
+Target: 0 
+Erro da Rede: 0.017195
+
+Step1012: Input : 0 1 
+Output: -0.000841939 
+Target: 0 
+Erro da Rede: 0.0170331
+
+Step1013: Input : 1 0 
+Output: -7.27695e-05 
+Target: 0 
+Erro da Rede: 0.0168652
+
+Step1014: Input : 0 0 
+Output: -0.00506725 
+Target: 0 
+Erro da Rede: 0.0167484
+
+Step1015: Input : 1 1 
+Output: 0.954161 
+Target: 1 
+Erro da Rede: 0.0170364
+
+Step1016: Input : 1 1 
+Output: 0.954594 
+Target: 1 
+Erro da Rede: 0.0173173
+
+Step1017: Input : 1 0 
+Output: 0.0108122 
+Target: 0 
+Erro da Rede: 0.0172529
+
+Step1018: Input : 1 0 
+Output: 0.0036242 
+Target: 0 
+Erro da Rede: 0.0171179
+
+Step1019: Input : 1 1 
+Output: 0.954508 
+Target: 1 
+Erro da Rede: 0.0173989
+
+Step1020: Input : 0 0 
+Output: -0.000430735 
+Target: 0 
+Erro da Rede: 0.0172309
+
+Step1021: Input : 0 1 
+Output: 0.0136433 
+Target: 0 
+Erro da Rede: 0.0171953
+
+Step1022: Input : 1 1 
+Output: 0.954098 
+Target: 1 
+Erro da Rede: 0.0174796
+
+Step1023: Input : 1 1 
+Output: 0.954091 
+Target: 1 
+Erro da Rede: 0.017761
+
+Step1024: Input : 1 1 
+Output: 0.954406 
+Target: 1 
+Erro da Rede: 0.0180366
+
+Step1025: Input : 0 0 
+Output: -0.00356138 
+Target: 0 
+Erro da Rede: 0.0178933
+
+Step1026: Input : 1 1 
+Output: 0.95526 
+Target: 1 
+Erro da Rede: 0.0181591
+
+Step1027: Input : 0 1 
+Output: 0.0092804 
+Target: 0 
+Erro da Rede: 0.0180712
+
+Step1028: Input : 1 1 
+Output: 0.955526 
+Target: 1 
+Erro da Rede: 0.0183326
+
+Step1029: Input : 0 1 
+Output: 0.00213062 
+Target: 0 
+Erro da Rede: 0.0181722
+
+Step1030: Input : 1 1 
+Output: 0.955691 
+Target: 1 
+Erro da Rede: 0.018431
+
+Step1031: Input : 0 0 
+Output: 0.00330765 
+Target: 0 
+Erro da Rede: 0.0182812
+
+Step1032: Input : 0 0 
+Output: 0.00154824 
+Target: 0 
+Erro da Rede: 0.0181156
+
+Step1033: Input : 1 1 
+Output: 0.955905 
+Target: 1 
+Erro da Rede: 0.0183728
+
+Step1034: Input : 0 1 
+Output: 2.58306e-06 
+Target: 0 
+Erro da Rede: 0.0181909
+
+Step1035: Input : 1 0 
+Output: 0.016381 
+Target: 0 
+Erro da Rede: 0.018173
+
+Step1036: Input : 1 0 
+Output: 0.00270322 
+Target: 0 
+Erro da Rede: 0.0180198
+
+Step1037: Input : 0 0 
+Output: -0.0132622 
+Target: 0 
+Erro da Rede: 0.0179727
+
+Step1038: Input : 1 1 
+Output: 0.955335 
+Target: 1 
+Erro da Rede: 0.018237
+
+Step1039: Input : 1 0 
+Output: -0.000656868 
+Target: 0 
+Erro da Rede: 0.0180629
+
+Step1040: Input : 0 0 
+Output: 0.00273048 
+Target: 0 
+Erro da Rede: 0.0179111
+
+Step1041: Input : 0 1 
+Output: 0.0100974 
+Target: 0 
+Erro da Rede: 0.0178338
+
+Step1042: Input : 1 0 
+Output: -0.00051266 
+Target: 0 
+Erro da Rede: 0.0176623
+
+Step1043: Input : 1 1 
+Output: 0.955331 
+Target: 1 
+Erro da Rede: 0.0179296
+
+Step1044: Input : 0 1 
+Output: -0.00305369 
+Target: 0 
+Erro da Rede: 0.0177824
+
+Step1045: Input : 0 1 
+Output: -0.000341182 
+Target: 0 
+Erro da Rede: 0.0176097
+
+Step1046: Input : 0 1 
+Output: 0.00131488 
+Target: 0 
+Erro da Rede: 0.0174483
+
+Step1047: Input : 0 1 
+Output: 0.00098876 
+Target: 0 
+Erro da Rede: 0.0172854
+
+Step1048: Input : 1 1 
+Output: 0.955853 
+Target: 1 
+Erro da Rede: 0.0175513
+
+Step1049: Input : 1 1 
+Output: 0.956115 
+Target: 1 
+Erro da Rede: 0.0178121
+
+Step1050: Input : 0 0 
+Output: 0.00207297 
+Target: 0 
+Erro da Rede: 0.0176562
+
+Step1051: Input : 0 0 
+Output: 0.00181634 
+Target: 0 
+Erro da Rede: 0.0174994
+
+Step1052: Input : 0 0 
+Output: 0.000301345 
+Target: 0 
+Erro da Rede: 0.0173291
+
+Step1053: Input : 1 1 
+Output: 0.956603 
+Target: 1 
+Erro da Rede: 0.0175872
+
+Step1054: Input : 1 1 
+Output: 0.956864 
+Target: 1 
+Erro da Rede: 0.0178402
+
+Step1055: Input : 0 0 
+Output: 0.00306477 
+Target: 0 
+Erro da Rede: 0.0176939
+
+Step1056: Input : 1 1 
+Output: 0.95733 
+Target: 1 
+Erro da Rede: 0.0179412
+
+Step1057: Input : 0 1 
+Output: 0.0110317 
+Target: 0 
+Erro da Rede: 0.0178728
+
+Step1058: Input : 0 1 
+Output: 0.00234637 
+Target: 0 
+Erro da Rede: 0.017719
+
+Step1059: Input : 0 0 
+Output: -0.0052161 
+Target: 0 
+Erro da Rede: 0.0175952
+
+Step1060: Input : 1 0 
+Output: 0.0155334 
+Target: 0 
+Erro da Rede: 0.0175748
+
+Step1061: Input : 0 0 
+Output: -0.0100498 
+Target: 0 
+Erro da Rede: 0.0175003
+
+Step1062: Input : 0 0 
+Output: -0.00588634 
+Target: 0 
+Erro da Rede: 0.0173853
+
+Step1063: Input : 1 1 
+Output: 0.956602 
+Target: 1 
+Erro da Rede: 0.0176429
+
+Step1064: Input : 0 0 
+Output: 0.00579649 
+Target: 0 
+Erro da Rede: 0.0175256
+
+Step1065: Input : 1 1 
+Output: 0.956972 
+Target: 1 
+Erro da Rede: 0.0177781
+
+Step1066: Input : 1 0 
+Output: 0.00867235 
+Target: 0 
+Erro da Rede: 0.0176879
+
+Step1067: Input : 1 0 
+Output: 0.00189192 
+Target: 0 
+Erro da Rede: 0.0175315
+
+Step1068: Input : 0 0 
+Output: -0.00246302 
+Target: 0 
+Erro da Rede: 0.0173823
+
+Step1069: Input : 1 0 
+Output: -0.00434435 
+Target: 0 
+Erro da Rede: 0.0172533
+
+Step1070: Input : 1 0 
+Output: -0.001205 
+Target: 0 
+Erro da Rede: 0.0170944
+
+Step1071: Input : 1 1 
+Output: 0.957026 
+Target: 1 
+Erro da Rede: 0.0173506
+
+Step1072: Input : 1 1 
+Output: 0.957369 
+Target: 1 
+Erro da Rede: 0.0176009
+
+Step1073: Input : 0 1 
+Output: 0.0134314 
+Target: 0 
+Erro da Rede: 0.0175596
+
+Step1074: Input : 1 0 
+Output: 0.00812673 
+Target: 0 
+Erro da Rede: 0.0174662
+
+Step1075: Input : 1 0 
+Output: 0.000914869 
+Target: 0 
+Erro da Rede: 0.0173023
+
+Step1076: Input : 1 1 
+Output: 0.956404 
+Target: 1 
+Erro da Rede: 0.0175627
+
+Step1077: Input : 0 1 
+Output: -0.00616276 
+Target: 0 
+Erro da Rede: 0.0174498
+
+Step1078: Input : 0 1 
+Output: -0.000510781 
+Target: 0 
+Erro da Rede: 0.0172821
+
+Step1079: Input : 1 0 
+Output: -0.00196204 
+Target: 0 
+Erro da Rede: 0.0171304
+
+Step1080: Input : 0 1 
+Output: 0.00473353 
+Target: 0 
+Erro da Rede: 0.0170077
+
+Step1081: Input : 0 0 
+Output: -0.0025522 
+Target: 0 
+Erro da Rede: 0.0168645
+
+Step1082: Input : 1 0 
+Output: 0.00167096 
+Target: 0 
+Erro da Rede: 0.0167141
+
+Step1083: Input : 0 0 
+Output: -0.00151981 
+Target: 0 
+Erro da Rede: 0.0165637
+
+Step1084: Input : 1 0 
+Output: 0.0013898 
+Target: 0 
+Erro da Rede: 0.0164134
+
+Step1085: Input : 1 1 
+Output: 0.957074 
+Target: 1 
+Erro da Rede: 0.0166759
+
+Step1086: Input : 0 0 
+Output: 0.000982245 
+Target: 0 
+Erro da Rede: 0.0165206
+
+Step1087: Input : 0 1 
+Output: 0.00394009 
+Target: 0 
+Erro da Rede: 0.016396
+
+Step1088: Input : 1 0 
+Output: 0.00173724 
+Target: 0 
+Erro da Rede: 0.0162509
+
+Step1089: Input : 0 0 
+Output: -0.00267964 
+Target: 0 
+Erro da Rede: 0.0161165
+
+Step1090: Input : 1 0 
+Output: 0.00050495 
+Target: 0 
+Erro da Rede: 0.0159619
+
+Step1091: Input : 1 0 
+Output: 0.000333754 
+Target: 0 
+Erro da Rede: 0.0158072
+
+Step1092: Input : 1 1 
+Output: 0.957083 
+Target: 1 
+Erro da Rede: 0.0160756
+
+Step1093: Input : 0 0 
+Output: 0.000477211 
+Target: 0 
+Erro da Rede: 0.0159212
+
+Step1094: Input : 1 1 
+Output: 0.957443 
+Target: 1 
+Erro da Rede: 0.0161849
+
+Step1095: Input : 0 1 
+Output: 0.00464805 
+Target: 0 
+Erro da Rede: 0.0160707
+
+Step1096: Input : 0 1 
+Output: 0.00176846 
+Target: 0 
+Erro da Rede: 0.0159291
+
+Step1097: Input : 0 1 
+Output: -0.00123188 
+Target: 0 
+Erro da Rede: 0.0157835
+
+Step1098: Input : 1 0 
+Output: 0.00539528 
+Target: 0 
+Erro da Rede: 0.0156807
+
+Step1099: Input : 0 1 
+Output: -0.00275355 
+Target: 0 
+Erro da Rede: 0.0155527
+
+Step1100: Input : 1 1 
+Output: 0.957311 
+Target: 1 
+Erro da Rede: 0.0158214
+
+Step1101: Input : 0 1 
+Output: 0.00211646 
+Target: 0 
+Erro da Rede: 0.0156857
+
+Step1102: Input : 1 0 
+Output: 0.000320517 
+Target: 0 
+Erro da Rede: 0.0155335
+
+Step1103: Input : 0 1 
+Output: 0.00150774 
+Target: 0 
+Erro da Rede: 0.0153947
+
+Step1104: Input : 1 1 
+Output: 0.957528 
+Target: 1 
+Erro da Rede: 0.0156628
+
+Step1105: Input : 0 0 
+Output: -0.00127902 
+Target: 0 
+Erro da Rede: 0.0155204
+
+Step1106: Input : 1 1 
+Output: 0.957908 
+Target: 1 
+Erro da Rede: 0.0157834
+
+Step1107: Input : 1 1 
+Output: 0.958237 
+Target: 1 
+Erro da Rede: 0.0160407
+
+Step1108: Input : 0 1 
+Output: 0.00859099 
+Target: 0 
+Erro da Rede: 0.0159669
+
+Step1109: Input : 1 1 
+Output: 0.958443 
+Target: 1 
+Erro da Rede: 0.0162203
+
+Step1110: Input : 0 0 
+Output: 0.00337341 
+Target: 0 
+Erro da Rede: 0.0160931
+
+Step1111: Input : 1 1 
+Output: 0.958517 
+Target: 1 
+Erro da Rede: 0.0163445
+
+Step1112: Input : 1 0 
+Output: 0.0125504 
+Target: 0 
+Erro da Rede: 0.0163069
+
+Step1113: Input : 1 1 
+Output: 0.95824 
+Target: 1 
+Erro da Rede: 0.0165589
+
+Step1114: Input : 0 1 
+Output: -0.000213551 
+Target: 0 
+Erro da Rede: 0.0163971
+
+Step1115: Input : 0 0 
+Output: -0.00724495 
+Target: 0 
+Erro da Rede: 0.0163065
+
+Step1116: Input : 1 1 
+Output: 0.958548 
+Target: 1 
+Erro da Rede: 0.0165554
+
+Step1117: Input : 1 0 
+Output: 0.00438946 
+Target: 0 
+Erro da Rede: 0.016435
+
+Step1118: Input : 0 0 
+Output: 0.00211756 
+Target: 0 
+Erro da Rede: 0.0162932
+
+Step1119: Input : 0 1 
+Output: 0.00917917 
+Target: 0 
+Erro da Rede: 0.0162228
+
+Step1120: Input : 1 0 
+Output: -0.00245576 
+Target: 0 
+Erro da Rede: 0.0160865
+
+Step1121: Input : 1 1 
+Output: 0.95823 
+Target: 1 
+Erro da Rede: 0.0163408
+
+Step1122: Input : 1 0 
+Output: 0.000745092 
+Target: 0 
+Erro da Rede: 0.0161863
+
+Step1123: Input : 0 0 
+Output: -0.0052566 
+Target: 0 
+Erro da Rede: 0.0160781
+
+Step1124: Input : 0 1 
+Output: -0.000367236 
+Target: 0 
+Erro da Rede: 0.0159226
+
+Step1125: Input : 0 1 
+Output: 0.00122781 
+Target: 0 
+Erro da Rede: 0.0157771
+
+Step1126: Input : 1 0 
+Output: 0.00651071 
+Target: 0 
+Erro da Rede: 0.0156853
+
+Step1127: Input : 0 1 
+Output: -0.000296499 
+Target: 0 
+Erro da Rede: 0.015533
+
+Step1128: Input : 0 1 
+Output: -0.000651396 
+Target: 0 
+Erro da Rede: 0.0153856
+
+Step1129: Input : 1 1 
+Output: 0.958381 
+Target: 1 
+Erro da Rede: 0.0156454
+
+Step1130: Input : 1 0 
+Output: -0.00133383 
+Target: 0 
+Erro da Rede: 0.0155037
+
+Step1131: Input : 1 0 
+Output: 0.000499605 
+Target: 0 
+Erro da Rede: 0.0153551
+
+Step1132: Input : 1 0 
+Output: 0.00098266 
+Target: 0 
+Erro da Rede: 0.0152128
+
+Step1133: Input : 1 1 
+Output: 0.958826 
+Target: 1 
+Erro da Rede: 0.0154699
+
+Step1134: Input : 1 1 
+Output: 0.959053 
+Target: 1 
+Erro da Rede: 0.0157221
+
+Step1135: Input : 1 1 
+Output: 0.959396 
+Target: 1 
+Erro da Rede: 0.0159685
+
+Step1136: Input : 0 1 
+Output: 0.0120936 
+Target: 0 
+Erro da Rede: 0.0159301
+
+Step1137: Input : 0 0 
+Output: 0.00170757 
+Target: 0 
+Erro da Rede: 0.0157893
+
+Step1138: Input : 0 0 
+Output: -0.00189128 
+Target: 0 
+Erro da Rede: 0.0156517
+
+Step1139: Input : 1 0 
+Output: 0.00678961 
+Target: 0 
+Erro da Rede: 0.0155639
+
+Step1140: Input : 0 1 
+Output: -0.00613826 
+Target: 0 
+Erro da Rede: 0.0154706
+
+Step1141: Input : 1 0 
+Output: -0.000707221 
+Target: 0 
+Erro da Rede: 0.0153244
+
+Step1142: Input : 1 1 
+Output: 0.959003 
+Target: 1 
+Erro da Rede: 0.0155786
+
+Step1143: Input : 1 1 
+Output: 0.959279 
+Target: 1 
+Erro da Rede: 0.0158276
+
+Step1144: Input : 1 1 
+Output: 0.959643 
+Target: 1 
+Erro da Rede: 0.0160704
+
+Step1145: Input : 1 1 
+Output: 0.960043 
+Target: 1 
+Erro da Rede: 0.0163069
+
+Step1146: Input : 1 0 
+Output: 0.0101319 
+Target: 0 
+Erro da Rede: 0.0162458
+
+Step1147: Input : 1 0 
+Output: 0.00300364 
+Target: 0 
+Erro da Rede: 0.0161147
+
+Step1148: Input : 0 1 
+Output: 0.013918 
+Target: 0 
+Erro da Rede: 0.0160929
+
+Step1149: Input : 0 0 
+Output: -0.00931494 
+Target: 0 
+Erro da Rede: 0.0160258
+
+Step1150: Input : 1 1 
+Output: 0.959149 
+Target: 1 
+Erro da Rede: 0.0162716
+
+Step1151: Input : 1 1 
+Output: 0.959368 
+Target: 1 
+Erro da Rede: 0.0165128
+
+Step1152: Input : 0 1 
+Output: 0.00301617 
+Target: 0 
+Erro da Rede: 0.0163792
+
+Step1153: Input : 0 0 
+Output: -0.000112247 
+Target: 0 
+Erro da Rede: 0.0162181
+
+Step1154: Input : 0 1 
+Output: 0.000844996 
+Target: 0 
+Erro da Rede: 0.0160659
+
+Step1155: Input : 1 1 
+Output: 0.959719 
+Target: 1 
+Erro da Rede: 0.0163057
+
+Step1156: Input : 0 0 
+Output: 0.00105833 
+Target: 0 
+Erro da Rede: 0.0161547
+
+Step1157: Input : 1 0 
+Output: 0.00434303 
+Target: 0 
+Erro da Rede: 0.0160377
+
+Step1158: Input : 0 1 
+Output: 0.00051426 
+Target: 0 
+Erro da Rede: 0.015884
+
+Step1159: Input : 0 1 
+Output: -0.000274356 
+Target: 0 
+Erro da Rede: 0.0157295
+
+Step1160: Input : 0 1 
+Output: -0.000424796 
+Target: 0 
+Erro da Rede: 0.015578
+
+Step1161: Input : 0 1 
+Output: -0.000122421 
+Target: 0 
+Erro da Rede: 0.0154249
+
+Step1162: Input : 1 0 
+Output: -0.00255622 
+Target: 0 
+Erro da Rede: 0.0152975
+
+Step1163: Input : 0 0 
+Output: -0.00214791 
+Target: 0 
+Erro da Rede: 0.0151673
+
+Step1164: Input : 0 1 
+Output: 0.00202983 
+Target: 0 
+Erro da Rede: 0.0150373
+
+Step1165: Input : 1 1 
+Output: 0.959916 
+Target: 1 
+Erro da Rede: 0.0152852
+
+Step1166: Input : 1 0 
+Output: 0.00476493 
+Target: 0 
+Erro da Rede: 0.0151811
+
+Step1167: Input : 1 1 
+Output: 0.96001 
+Target: 1 
+Erro da Rede: 0.0154267
+
+Step1168: Input : 1 1 
+Output: 0.960169 
+Target: 1 
+Erro da Rede: 0.0156683
+
+Step1169: Input : 0 0 
+Output: 0.00288484 
+Target: 0 
+Erro da Rede: 0.0155418
+
+Step1170: Input : 0 1 
+Output: 0.0063094 
+Target: 0 
+Erro da Rede: 0.0154504
+
+Step1171: Input : 1 1 
+Output: 0.96023 
+Target: 1 
+Erro da Rede: 0.0156912
+
+Step1172: Input : 0 0 
+Output: -0.00251898 
+Target: 0 
+Erro da Rede: 0.0155607
+
+Step1173: Input : 0 0 
+Output: -0.000735986 
+Target: 0 
+Erro da Rede: 0.015414
+
+Step1174: Input : 0 1 
+Output: 0.00107161 
+Target: 0 
+Erro da Rede: 0.015272
+
+Step1175: Input : 0 0 
+Output: 0.000931437 
+Target: 0 
+Erro da Rede: 0.01513
+
+Step1176: Input : 0 0 
+Output: 0.000309598 
+Target: 0 
+Erro da Rede: 0.0149832
+
+Step1177: Input : 0 0 
+Output: -0.000241941 
+Target: 0 
+Erro da Rede: 0.0148373
+
+Step1178: Input : 1 1 
+Output: 0.960469 
+Target: 1 
+Erro da Rede: 0.0150818
+
+Step1179: Input : 1 1 
+Output: 0.960674 
+Target: 1 
+Erro da Rede: 0.0153218
+
+Step1180: Input : 0 0 
+Output: 0.00336735 
+Target: 0 
+Erro da Rede: 0.0152034
+
+Step1181: Input : 0 1 
+Output: 0.00302433 
+Target: 0 
+Erro da Rede: 0.0150829
+
+Step1182: Input : 1 1 
+Output: 0.960886 
+Target: 1 
+Erro da Rede: 0.0153208
+
+Step1183: Input : 1 0 
+Output: 0.010871 
+Target: 0 
+Erro da Rede: 0.0152767
+
+Step1184: Input : 1 0 
+Output: 0.0020446 
+Target: 0 
+Erro da Rede: 0.0151457
+
+Step1185: Input : 0 0 
+Output: -0.00950207 
+Target: 0 
+Erro da Rede: 0.0150898
+
+Step1186: Input : 0 0 
+Output: -0.0040463 
+Target: 0 
+Erro da Rede: 0.0149805
+
+Step1187: Input : 1 0 
+Output: 0.000919147 
+Target: 0 
+Erro da Rede: 0.0148413
+
+Step1188: Input : 1 0 
+Output: 0.00167825 
+Target: 0 
+Erro da Rede: 0.014711
+
+Step1189: Input : 0 1 
+Output: 0.00826689 
+Target: 0 
+Erro da Rede: 0.0146472
+
+Step1190: Input : 1 0 
+Output: -0.00133689 
+Target: 0 
+Erro da Rede: 0.0145154
+
+Step1191: Input : 0 0 
+Output: -0.000538899 
+Target: 0 
+Erro da Rede: 0.014377
+
+Step1192: Input : 1 1 
+Output: 0.960281 
+Target: 1 
+Erro da Rede: 0.0146279
+
+Step1193: Input : 1 0 
+Output: 0.00123796 
+Target: 0 
+Erro da Rede: 0.0144953
+
+Step1194: Input : 0 0 
+Output: 0.000741548 
+Target: 0 
+Erro da Rede: 0.0143592
+
+Step1195: Input : 0 1 
+Output: -0.00220361 
+Target: 0 
+Erro da Rede: 0.0142388
+
+Step1196: Input : 1 1 
+Output: 0.960594 
+Target: 1 
+Erro da Rede: 0.014488
+
+Step1197: Input : 1 0 
+Output: 0.00269382 
+Target: 0 
+Erro da Rede: 0.0143712
+
+Step1198: Input : 1 0 
+Output: 0.00125612 
+Target: 0 
+Erro da Rede: 0.0142414
+
+Step1199: Input : 1 0 
+Output: -0.000561213 
+Target: 0 
+Erro da Rede: 0.0141059
+
+Step1200: Input : 1 0 
+Output: -0.000979166 
+Target: 0 
+Erro da Rede: 0.0139759
+
+Step1201: Input : 0 1 
+Output: 0.00399766 
+Target: 0 
+Erro da Rede: 0.0138772
+
+Step1202: Input : 0 0 
+Output: 7.02503e-05 
+Target: 0 
+Erro da Rede: 0.0137404
+
+Step1203: Input : 1 1 
+Output: 0.960604 
+Target: 1 
+Erro da Rede: 0.0139945
+
+Step1204: Input : 0 1 
+Output: -0.000288177 
+Target: 0 
+Erro da Rede: 0.0138588
+
+Step1205: Input : 1 0 
+Output: 0.00164502 
+Target: 0 
+Erro da Rede: 0.0137378
+
+Step1206: Input : 0 1 
+Output: 0.000493946 
+Target: 0 
+Erro da Rede: 0.0136067
+
+Step1207: Input : 0 1 
+Output: 9.185e-05 
+Target: 0 
+Erro da Rede: 0.0134729
+
+Step1208: Input : 0 1 
+Output: -0.000191138 
+Target: 0 
+Erro da Rede: 0.0133414
+
+Step1209: Input : 0 0 
+Output: -0.000576804 
+Target: 0 
+Erro da Rede: 0.013215
+
+Step1210: Input : 0 1 
+Output: 0.000136731 
+Target: 0 
+Erro da Rede: 0.0130855
+
+Step1211: Input : 0 0 
+Output: -1.3049e-05 
+Target: 0 
+Erro da Rede: 0.0129561
+
+Step1212: Input : 0 1 
+Output: 0.000184325 
+Target: 0 
+Erro da Rede: 0.0128296
+
+Step1213: Input : 1 1 
+Output: 0.960803 
+Target: 1 
+Erro da Rede: 0.0130907
+
+Step1214: Input : 0 0 
+Output: 0.00148259 
+Target: 0 
+Erro da Rede: 0.0129758
+
+Step1215: Input : 0 1 
+Output: 0.00181327 
+Target: 0 
+Erro da Rede: 0.0128652
+
+Step1216: Input : 1 1 
+Output: 0.960989 
+Target: 1 
+Erro da Rede: 0.0131241
+
+Step1217: Input : 0 1 
+Output: 0.00120315 
+Target: 0 
+Erro da Rede: 0.0130061
+
+Step1218: Input : 1 1 
+Output: 0.961193 
+Target: 1 
+Erro da Rede: 0.0132615
+
+Step1219: Input : 1 0 
+Output: 0.00580099 
+Target: 0 
+Erro da Rede: 0.0131877
+
+Step1220: Input : 1 0 
+Output: 0.00172354 
+Target: 0 
+Erro da Rede: 0.0130742
+
+Step1221: Input : 1 1 
+Output: 0.961109 
+Target: 1 
+Erro da Rede: 0.0133298
+
+Step1222: Input : 0 1 
+Output: 0.00286522 
+Target: 0 
+Erro da Rede: 0.0132262
+
+Step1223: Input : 1 0 
+Output: -0.00238637 
+Target: 0 
+Erro da Rede: 0.0131188
+
+Step1224: Input : 1 0 
+Output: -0.000550299 
+Target: 0 
+Erro da Rede: 0.0129944
+
+Step1225: Input : 1 0 
+Output: 0.000849844 
+Target: 0 
+Erro da Rede: 0.0128741
+
+Step1226: Input : 1 1 
+Output: 0.961295 
+Target: 1 
+Erro da Rede: 0.0131299
+
+Step1227: Input : 1 0 
+Output: 0.00248617 
+Target: 0 
+Erro da Rede: 0.0130245
+
+Step1228: Input : 0 0 
+Output: -0.00126415 
+Target: 0 
+Erro da Rede: 0.0129081
+
+Step1229: Input : 0 0 
+Output: -0.000592957 
+Target: 0 
+Erro da Rede: 0.0127861
+
+Step1230: Input : 1 0 
+Output: 0.00146881 
+Target: 0 
+Erro da Rede: 0.0126741
+
+Step1231: Input : 1 0 
+Output: 0.000340061 
+Target: 0 
+Erro da Rede: 0.012552
+
+Step1232: Input : 0 0 
+Output: -0.000549583 
+Target: 0 
+Erro da Rede: 0.0124331
+
+Step1233: Input : 0 1 
+Output: 0.0040546 
+Target: 0 
+Erro da Rede: 0.0123502
+
+Step1234: Input : 1 0 
+Output: -0.00140924 
+Target: 0 
+Erro da Rede: 0.0122419
+
+Step1235: Input : 0 1 
+Output: -0.000945322 
+Target: 0 
+Erro da Rede: 0.01213
+
+Step1236: Input : 1 1 
+Output: 0.961305 
+Target: 1 
+Erro da Rede: 0.012393
+
+Step1237: Input : 1 1 
+Output: 0.961516 
+Target: 1 
+Erro da Rede: 0.0126514
+
+Step1238: Input : 1 0 
+Output: 0.0047193 
+Target: 0 
+Erro da Rede: 0.0125728
+
+Step1239: Input : 1 1 
+Output: 0.961757 
+Target: 1 
+Erro da Rede: 0.012827
+
+Step1240: Input : 1 1 
+Output: 0.961919 
+Target: 1 
+Erro da Rede: 0.013077
+
+Step1241: Input : 0 1 
+Output: 0.00850962 
+Target: 0 
+Erro da Rede: 0.0130318
+
+Step1242: Input : 0 1 
+Output: 0.0021976 
+Target: 0 
+Erro da Rede: 0.0129245
+
+Step1243: Input : 1 1 
+Output: 0.961736 
+Target: 1 
+Erro da Rede: 0.0131754
+
+Step1244: Input : 0 0 
+Output: -0.00302812 
+Target: 0 
+Erro da Rede: 0.013075
+
+Step1245: Input : 0 1 
+Output: -0.00275365 
+Target: 0 
+Erro da Rede: 0.0129728
+
+Step1246: Input : 0 0 
+Output: 0.00192281 
+Target: 0 
+Erro da Rede: 0.0128634
+
+Step1247: Input : 0 1 
+Output: 0.000783583 
+Target: 0 
+Erro da Rede: 0.0127438
+
+Step1248: Input : 0 1 
+Output: 0.000354621 
+Target: 0 
+Erro da Rede: 0.0126211
+
+Step1249: Input : 0 1 
+Output: -0.000177366 
+Target: 0 
+Erro da Rede: 0.0124979
+
+Step1250: Input : 0 1 
+Output: -0.000284556 
+Target: 0 
+Erro da Rede: 0.012377
+
+Step1251: Input : 1 1 
+Output: 0.962154 
+Target: 1 
+Erro da Rede: 0.0126291
+
+Step1252: Input : 1 0 
+Output: 0.00898705 
+Target: 0 
+Erro da Rede: 0.0125931
+
+Step1253: Input : 0 0 
+Output: -0.00192472 
+Target: 0 
+Erro da Rede: 0.0124874
+
+Step1254: Input : 1 0 
+Output: -0.000603493 
+Target: 0 
+Erro da Rede: 0.0123698
+
+Step1255: Input : 0 0 
+Output: -0.00240226 
+Target: 0 
+Erro da Rede: 0.0122711
+
+Step1256: Input : 1 0 
+Output: -0.000411908 
+Target: 0 
+Erro da Rede: 0.0121537
+
+Step1257: Input : 1 0 
+Output: 0.00040879 
+Target: 0 
+Erro da Rede: 0.0120374
+
+Step1258: Input : 1 1 
+Output: 0.962116 
+Target: 1 
+Erro da Rede: 0.0122933
+
+Step1259: Input : 1 0 
+Output: 0.00212084 
+Target: 0 
+Erro da Rede: 0.0121926
+
+Step1260: Input : 1 1 
+Output: 0.962311 
+Target: 1 
+Erro da Rede: 0.012445
+
+Step1261: Input : 1 0 
+Output: 0.00218972 
+Target: 0 
+Erro da Rede: 0.0123435
+
+Step1262: Input : 1 0 
+Output: 0.000815702 
+Target: 0 
+Erro da Rede: 0.0122293
+
+Step1263: Input : 1 1 
+Output: 0.962458 
+Target: 1 
+Erro da Rede: 0.01248
+
+Step1264: Input : 0 0 
+Output: 0.00321788 
+Target: 0 
+Erro da Rede: 0.0123883
+
+Step1265: Input : 1 0 
+Output: -0.000948903 
+Target: 0 
+Erro da Rede: 0.012275
+
+Step1266: Input : 0 0 
+Output: 0.00069869 
+Target: 0 
+Erro da Rede: 0.0121604
+
+Step1267: Input : 1 1 
+Output: 0.962593 
+Target: 1 
+Erro da Rede: 0.0124103
+
+Step1268: Input : 1 0 
+Output: 0.000441208 
+Target: 0 
+Erro da Rede: 0.0122918
+
+Step1269: Input : 0 0 
+Output: 0.00110266 
+Target: 0 
+Erro da Rede: 0.0121811
+
+Step1270: Input : 1 1 
+Output: 0.962824 
+Target: 1 
+Erro da Rede: 0.0124285
+
+Step1271: Input : 0 1 
+Output: 0.0130302 
+Target: 0 
+Erro da Rede: 0.0124345
+
+Step1272: Input : 1 0 
+Output: 0.000229833 
+Target: 0 
+Erro da Rede: 0.0123136
+
+Step1273: Input : 1 1 
+Output: 0.962278 
+Target: 1 
+Erro da Rede: 0.0125652
+
+Step1274: Input : 0 0 
+Output: -0.00791903 
+Target: 0 
+Erro da Rede: 0.0125192
+
+Step1275: Input : 1 0 
+Output: 0.00522115 
+Target: 0 
+Erro da Rede: 0.012447
+
+Step1276: Input : 0 1 
+Output: -0.000424602 
+Target: 0 
+Erro da Rede: 0.0123279
+
+Step1277: Input : 1 0 
+Output: 0.0019996 
+Target: 0 
+Erro da Rede: 0.0122257
+
+Step1278: Input : 0 1 
+Output: 0.000414368 
+Target: 0 
+Erro da Rede: 0.0121087
+
+Step1279: Input : 1 0 
+Output: -0.00147871 
+Target: 0 
+Erro da Rede: 0.0120035
+
+Step1280: Input : 0 1 
+Output: 0.000146503 
+Target: 0 
+Erro da Rede: 0.0118861
+
+Step1281: Input : 0 0 
+Output: -0.00207958 
+Target: 0 
+Erro da Rede: 0.011789
+
+Step1282: Input : 0 0 
+Output: -0.000367479 
+Target: 0 
+Erro da Rede: 0.0116759
+
+Step1283: Input : 0 1 
+Output: 0.00170918 
+Target: 0 
+Erro da Rede: 0.0115772
+
+Step1284: Input : 1 0 
+Output: 0.00177852 
+Target: 0 
+Erro da Rede: 0.0114802
+
+Step1285: Input : 1 0 
+Output: 0.000278623 
+Target: 0 
+Erro da Rede: 0.0113693
+
+Step1286: Input : 1 0 
+Output: -0.000716322 
+Target: 0 
+Erro da Rede: 0.0112638
+
+Step1287: Input : 1 1 
+Output: 0.962386 
+Target: 1 
+Erro da Rede: 0.0115247
+
+Step1288: Input : 1 0 
+Output: 0.00109674 
+Target: 0 
+Erro da Rede: 0.0114215
+
+Step1289: Input : 0 1 
+Output: 0.00114899 
+Target: 0 
+Erro da Rede: 0.0113198
+
+Step1290: Input : 1 0 
+Output: 0.000717125 
+Target: 0 
+Erro da Rede: 0.0112148
+
+Step1291: Input : 0 1 
+Output: -7.0851e-05 
+Target: 0 
+Erro da Rede: 0.0111044
+
+Step1292: Input : 0 1 
+Output: -0.000250623 
+Target: 0 
+Erro da Rede: 0.010997
+
+Step1293: Input : 0 0 
+Output: -0.00119007 
+Target: 0 
+Erro da Rede: 0.0108999
+
+Step1294: Input : 1 0 
+Output: 1.41732e-05 
+Target: 0 
+Erro da Rede: 0.0107921
+
+Step1295: Input : 0 1 
+Output: 0.000867234 
+Target: 0 
+Erro da Rede: 0.0106938
+
+Step1296: Input : 1 1 
+Output: 0.96256 
+Target: 1 
+Erro da Rede: 0.0109586
+
+Step1297: Input : 0 0 
+Output: 0.00125053 
+Target: 0 
+Erro da Rede: 0.0108625
+
+Step1298: Input : 1 0 
+Output: 0.00199768 
+Target: 0 
+Erro da Rede: 0.0107748
+
+Step1299: Input : 1 0 
+Output: 0.000303518 
+Target: 0 
+Erro da Rede: 0.0106711
+
+Step1300: Input : 1 1 
+Output: 0.962651 
+Target: 1 
+Erro da Rede: 0.0109352
+
+Step1301: Input : 1 0 
+Output: 0.000224837 
+Target: 0 
+Erro da Rede: 0.0108292
+
+Step1302: Input : 0 0 
+Output: 0.000200455 
+Target: 0 
+Erro da Rede: 0.0107239
+
+Step1303: Input : 0 1 
+Output: 0.00351705 
+Target: 0 
+Erro da Rede: 0.0106526
+
+Step1304: Input : 1 1 
+Output: 0.962763 
+Target: 1 
+Erro da Rede: 0.0109158
+
+Step1305: Input : 1 0 
+Output: 0.00133614 
+Target: 0 
+Erro da Rede: 0.010821
+
+Step1306: Input : 1 1 
+Output: 0.962868 
+Target: 1 
+Erro da Rede: 0.0110815
+
+Step1307: Input : 0 0 
+Output: -0.000391684 
+Target: 0 
+Erro da Rede: 0.0109756
+
+Step1308: Input : 1 0 
+Output: 0.00298742 
+Target: 0 
+Erro da Rede: 0.0108965
+
+Step1309: Input : 0 1 
+Output: 0.0027762 
+Target: 0 
+Erro da Rede: 0.0108161
+
+Step1310: Input : 0 0 
+Output: -0.00265805 
+Target: 0 
+Erro da Rede: 0.0107353
+
+Step1311: Input : 0 0 
+Output: -0.00154693 
+Target: 0 
+Erro da Rede: 0.0106444
+
+Step1312: Input : 0 0 
+Output: 0.000225348 
+Target: 0 
+Erro da Rede: 0.0105412
+
+Step1313: Input : 1 1 
+Output: 0.963017 
+Target: 1 
+Erro da Rede: 0.010803
+
+Step1314: Input : 1 1 
+Output: 0.963202 
+Target: 1 
+Erro da Rede: 0.0110604
+
+Step1315: Input : 0 0 
+Output: 0.00477901 
+Target: 0 
+Erro da Rede: 0.0109982
+
+Step1316: Input : 0 1 
+Output: 0.00437849 
+Target: 0 
+Erro da Rede: 0.0109327
+
+Step1317: Input : 1 1 
+Output: 0.96322 
+Target: 1 
+Erro da Rede: 0.0111886
+
+Step1318: Input : 1 1 
+Output: 0.963288 
+Target: 1 
+Erro da Rede: 0.0114413
+
+Step1319: Input : 0 1 
+Output: 0.000352673 
+Target: 0 
+Erro da Rede: 0.0113315
+
+Step1320: Input : 0 0 
+Output: -0.00039225 
+Target: 0 
+Erro da Rede: 0.0112232
+
+Step1321: Input : 0 0 
+Output: 0.000102036 
+Target: 0 
+Erro da Rede: 0.0111131
+
+Step1322: Input : 0 0 
+Output: 0.00026879 
+Target: 0 
+Erro da Rede: 0.0110057
+
+Step1323: Input : 0 0 
+Output: 0.000140375 
+Target: 0 
+Erro da Rede: 0.0108981
+
+Step1324: Input : 1 1 
+Output: 0.963658 
+Target: 1 
+Erro da Rede: 0.01115
+
+Step1325: Input : 1 0 
+Output: 0.00902801 
+Target: 0 
+Erro da Rede: 0.011129
+
+Step1326: Input : 0 0 
+Output: -0.00307171 
+Target: 0 
+Erro da Rede: 0.0110493
+
+Step1327: Input : 1 0 
+Output: -0.000187194 
+Target: 0 
+Erro da Rede: 0.0109417
+
+Step1328: Input : 1 0 
+Output: -0.00100956 
+Target: 0 
+Erro da Rede: 0.0108434
+
+Step1329: Input : 1 0 
+Output: -0.000529599 
+Target: 0 
+Erro da Rede: 0.0107413
+
+Step1330: Input : 1 1 
+Output: 0.963553 
+Target: 1 
+Erro da Rede: 0.0109958
+
+Step1331: Input : 0 0 
+Output: 0.000367476 
+Target: 0 
+Erro da Rede: 0.0108905
+
+Step1332: Input : 1 0 
+Output: 0.0027929 
+Target: 0 
+Erro da Rede: 0.0108104
+
+Step1333: Input : 1 1 
+Output: 0.963743 
+Target: 1 
+Erro da Rede: 0.0110623
+
+Step1334: Input : 1 0 
+Output: 0.00115223 
+Target: 0 
+Erro da Rede: 0.0109642
+
+Step1335: Input : 0 0 
+Output: 9.2346e-06 
+Target: 0 
+Erro da Rede: 0.0108557
+
+Step1336: Input : 0 0 
+Output: -0.000142034 
+Target: 0 
+Erro da Rede: 0.0107496
+
+Step1337: Input : 1 1 
+Output: 0.963899 
+Target: 1 
+Erro da Rede: 0.0110007
+
+Step1338: Input : 1 0 
+Output: 0.00126977 
+Target: 0 
+Erro da Rede: 0.0109043
+
+Step1339: Input : 1 1 
+Output: 0.964094 
+Target: 1 
+Erro da Rede: 0.0111518
+
+Step1340: Input : 1 0 
+Output: 0.00213679 
+Target: 0 
+Erro da Rede: 0.0110626
+
+Step1341: Input : 0 1 
+Output: 0.0132528 
+Target: 0 
+Erro da Rede: 0.0110843
+
+Step1342: Input : 1 1 
+Output: 0.963717 
+Target: 1 
+Erro da Rede: 0.0113338
+
+Step1343: Input : 1 0 
+Output: -0.00188853 
+Target: 0 
+Erro da Rede: 0.0112403
+
+Step1344: Input : 0 1 
+Output: -0.00461201 
+Target: 0 
+Erro da Rede: 0.0111746
+
+Step1345: Input : 0 0 
+Output: -0.0049422 
+Target: 0 
+Erro da Rede: 0.0111129
+
+Step1346: Input : 1 1 
+Output: 0.964103 
+Target: 1 
+Erro da Rede: 0.0113583
+
+Step1347: Input : 0 0 
+Output: 0.00386399 
+Target: 0 
+Erro da Rede: 0.0112841
+
+Step1348: Input : 0 0 
+Output: 0.00269863 
+Target: 0 
+Erro da Rede: 0.0111991
+
+Step1349: Input : 1 1 
+Output: 0.964323 
+Target: 1 
+Erro da Rede: 0.0114415
+
+Step1350: Input : 0 0 
+Output: -0.000134406 
+Target: 0 
+Erro da Rede: 0.0113295
+
+Step1351: Input : 0 1 
+Output: 0.00583383 
+Target: 0 
+Erro da Rede: 0.0112751
+
+Step1352: Input : 0 0 
+Output: -0.00296573 
+Target: 0 
+Erro da Rede: 0.0111928
+
+Step1353: Input : 0 1 
+Output: -0.000254375 
+Target: 0 
+Erro da Rede: 0.0110845
+
+Step1354: Input : 0 0 
+Output: -0.00148134 
+Target: 0 
+Erro da Rede: 0.0109894
+
+Step1355: Input : 0 0 
+Output: -2.07633e-05 
+Target: 0 
+Erro da Rede: 0.0108808
+
+Step1356: Input : 0 0 
+Output: 0.000725893 
+Target: 0 
+Erro da Rede: 0.0107803
+
+Step1357: Input : 1 1 
+Output: 0.964368 
+Target: 1 
+Erro da Rede: 0.0110264
+
+Step1358: Input : 0 1 
+Output: 0.00149944 
+Target: 0 
+Erro da Rede: 0.010932
+
+Step1359: Input : 0 0 
+Output: 0.00148352 
+Target: 0 
+Erro da Rede: 0.0108385
+
+Step1360: Input : 1 0 
+Output: 0.0108757 
+Target: 0 
+Erro da Rede: 0.0108388
+
+Step1361: Input : 0 1 
+Output: -0.00261359 
+Target: 0 
+Erro da Rede: 0.0107574
+
+Step1362: Input : 0 1 
+Output: -0.00144085 
+Target: 0 
+Erro da Rede: 0.0106652
+
+Step1363: Input : 0 0 
+Output: -0.00842756 
+Target: 0 
+Erro da Rede: 0.010643
+
+Step1364: Input : 1 0 
+Output: -0.00206452 
+Target: 0 
+Erro da Rede: 0.0105581
+
+Step1365: Input : 0 0 
+Output: 0.00248978 
+Target: 0 
+Erro da Rede: 0.0104782
+
+Step1366: Input : 0 1 
+Output: 0.00870962 
+Target: 0 
+Erro da Rede: 0.0104607
+
+Step1367: Input : 1 0 
+Output: 0.000740142 
+Target: 0 
+Erro da Rede: 0.0103644
+
+Step1368: Input : 1 0 
+Output: -0.000532244 
+Target: 0 
+Erro da Rede: 0.0102671
+
+Step1369: Input : 0 0 
+Output: -0.00498895 
+Target: 0 
+Erro da Rede: 0.0102148
+
+Step1370: Input : 0 1 
+Output: -0.00342967 
+Target: 0 
+Erro da Rede: 0.0101477
+
+Step1371: Input : 0 1 
+Output: 0.000425555 
+Target: 0 
+Erro da Rede: 0.0100514
+
+Step1372: Input : 1 0 
+Output: 0.00462876 
+Target: 0 
+Erro da Rede: 0.0099977
+
+Step1373: Input : 1 0 
+Output: 0.000963784 
+Target: 0 
+Erro da Rede: 0.00990826
+
+Step1374: Input : 1 1 
+Output: 0.96398 
+Target: 1 
+Erro da Rede: 0.0101668
+
+Step1375: Input : 0 1 
+Output: 0.00321455 
+Target: 0 
+Erro da Rede: 0.010098
+
+Step1376: Input : 0 1 
+Output: 0.0010204 
+Target: 0 
+Erro da Rede: 0.0100081
+
+Step1377: Input : 0 1 
+Output: -0.000997163 
+Target: 0 
+Erro da Rede: 0.00991887
+
+Step1378: Input : 0 0 
+Output: -0.00168487 
+Target: 0 
+Erro da Rede: 0.00983734
+
+Step1379: Input : 1 0 
+Output: -0.00159564 
+Target: 0 
+Erro da Rede: 0.00975574
+
+Step1380: Input : 0 0 
+Output: 0.00110478 
+Target: 0 
+Erro da Rede: 0.00967009
+
+Step1381: Input : 0 1 
+Output: 0.000115628 
+Target: 0 
+Erro da Rede: 0.00957549
+
+Step1382: Input : 0 0 
+Output: 0.000862247 
+Target: 0 
+Erro da Rede: 0.00948922
+
+Step1383: Input : 1 1 
+Output: 0.964051 
+Target: 1 
+Erro da Rede: 0.00975119
+
+Step1384: Input : 1 0 
+Output: 0.00164153 
+Target: 0 
+Erro da Rede: 0.0096709
+
+Step1385: Input : 1 1 
+Output: 0.964201 
+Target: 1 
+Erro da Rede: 0.0099296
+
+Step1386: Input : 1 0 
+Output: 0.00189762 
+Target: 0 
+Erro da Rede: 0.00985007
+
+Step1387: Input : 1 0 
+Output: 0.000749739 
+Target: 0 
+Erro da Rede: 0.00975997
+
+Step1388: Input : 0 0 
+Output: 0.000452056 
+Target: 0 
+Erro da Rede: 0.00966781
+
+Step1389: Input : 0 0 
+Output: -0.000232475 
+Target: 0 
+Erro da Rede: 0.00957439
+
+Step1390: Input : 0 1 
+Output: 0.00307638 
+Target: 0 
+Erro da Rede: 0.00951006
+
+Step1391: Input : 1 1 
+Output: 0.964165 
+Target: 1 
+Erro da Rede: 0.0097707
+
+Step1392: Input : 1 1 
+Output: 0.964258 
+Target: 1 
+Erro da Rede: 0.0100278
+
+Step1393: Input : 0 0 
+Output: -8.10617e-05 
+Target: 0 
+Erro da Rede: 0.00992936
+
+Step1394: Input : 0 0 
+Output: 0.000718638 
+Target: 0 
+Erro da Rede: 0.00983816
+
+Step1395: Input : 0 1 
+Output: 0.00279039 
+Target: 0 
+Erro da Rede: 0.00976838
+
+Step1396: Input : 0 1 
+Output: 0.000290973 
+Target: 0 
+Erro da Rede: 0.00967455
+
+Step1397: Input : 0 0 
+Output: -0.00180592 
+Target: 0 
+Erro da Rede: 0.00959664
+
+Step1398: Input : 0 1 
+Output: -0.00107871 
+Target: 0 
+Erro da Rede: 0.00951231
+
+Step1399: Input : 0 1 
+Output: -3.3041e-05 
+Target: 0 
+Erro da Rede: 0.00941845
+
+Step1400: Input : 1 0 
+Output: 0.00317264 
+Target: 0 
+Erro da Rede: 0.00935661
+
+Step1401: Input : 1 1 
+Output: 0.964438 
+Target: 1 
+Erro da Rede: 0.00961607
+
+Step1402: Input : 0 1 
+Output: 0.0015958 
+Target: 0 
+Erro da Rede: 0.00953666
+
+Step1403: Input : 1 0 
+Output: 0.000430664 
+Target: 0 
+Erro da Rede: 0.0094465
+
+Step1404: Input : 0 0 
+Output: -0.00120998 
+Target: 0 
+Erro da Rede: 0.00936495
+
+Step1405: Input : 0 0 
+Output: -0.00050104 
+Target: 0 
+Erro da Rede: 0.00927719
+
+Step1406: Input : 0 0 
+Output: 0.000250389 
+Target: 0 
+Erro da Rede: 0.00918782
+
+Step1407: Input : 0 1 
+Output: 0.00126059 
+Target: 0 
+Erro da Rede: 0.00910933
+
+Step1408: Input : 0 0 
+Output: -0.00011111 
+Target: 0 
+Erro da Rede: 0.00902024
+
+Step1409: Input : 0 0 
+Output: -0.000292522 
+Target: 0 
+Erro da Rede: 0.00893383
+
+Step1410: Input : 0 0 
+Output: -0.000151478 
+Target: 0 
+Erro da Rede: 0.00884687
+
+Step1411: Input : 1 1 
+Output: 0.964499 
+Target: 1 
+Erro da Rede: 0.00911077
+
+Step1412: Input : 0 0 
+Output: 0.00136451 
+Target: 0 
+Erro da Rede: 0.00903408
+
+Step1413: Input : 0 1 
+Output: 0.00112612 
+Target: 0 
+Erro da Rede: 0.00895578
+
+Step1414: Input : 0 1 
+Output: 0.000135698 
+Target: 0 
+Erro da Rede: 0.00886845
+
+Step1415: Input : 1 0 
+Output: 0.00231753 
+Target: 0 
+Erro da Rede: 0.00880359
+
+Step1416: Input : 1 1 
+Output: 0.964531 
+Target: 1 
+Erro da Rede: 0.00906761
+
+Step1417: Input : 1 0 
+Output: 0.000597704 
+Target: 0 
+Erro da Rede: 0.00898375
+
+Step1418: Input : 0 0 
+Output: -0.00132908 
+Target: 0 
+Erro da Rede: 0.00890796
+
+Step1419: Input : 1 0 
+Output: 0.000809073 
+Target: 0 
+Erro da Rede: 0.00882777
+
+Step1420: Input : 1 0 
+Output: 0.000364673 
+Target: 0 
+Erro da Rede: 0.00874398
+
+Step1421: Input : 1 0 
+Output: -0.000180952 
+Target: 0 
+Erro da Rede: 0.00865919
+
+Step1422: Input : 0 1 
+Output: 0.00174293 
+Target: 0 
+Erro da Rede: 0.00859072
+
+Step1423: Input : 0 0 
+Output: -0.00123945 
+Target: 0 
+Erro da Rede: 0.00851793
+
+Step1424: Input : 0 0 
+Output: -0.000686237 
+Target: 0 
+Erro da Rede: 0.00844039
+
+Step1425: Input : 1 1 
+Output: 0.96466 
+Target: 1 
+Erro da Rede: 0.00870673
+
+Step1426: Input : 1 1 
+Output: 0.964825 
+Target: 1 
+Erro da Rede: 0.00896879
+
+Step1427: Input : 0 1 
+Output: 0.00411444 
+Target: 0 
+Erro da Rede: 0.00892073
+
+Step1428: Input : 1 1 
+Output: 0.965006 
+Target: 1 
+Erro da Rede: 0.00917887
+
+Step1429: Input : 1 1 
+Output: 0.965129 
+Target: 1 
+Erro da Rede: 0.00943326
+
+Step1430: Input : 0 0 
+Output: 0.00494878 
+Target: 0 
+Erro da Rede: 0.00938885
+
+Step1431: Input : 1 0 
+Output: 0.00725208 
+Target: 0 
+Erro da Rede: 0.0093677
+
+Step1432: Input : 1 0 
+Output: 3.34782e-05 
+Target: 0 
+Erro da Rede: 0.00927528
+
+Step1433: Input : 0 0 
+Output: -0.00645873 
+Target: 0 
+Erro da Rede: 0.00924739
+
+Step1434: Input : 1 1 
+Output: 0.964923 
+Target: 1 
+Erro da Rede: 0.00950314
+
+Step1435: Input : 0 0 
+Output: 0.000369597 
+Target: 0 
+Erro da Rede: 0.0094127
+
+Step1436: Input : 1 0 
+Output: 0.00121416 
+Target: 0 
+Erro da Rede: 0.00933153
+
+Step1437: Input : 0 1 
+Output: 0.00525883 
+Target: 0 
+Erro da Rede: 0.00929121
+
+Step1438: Input : 0 1 
+Output: 0.000693339 
+Target: 0 
+Erro da Rede: 0.00920608
+
+Step1439: Input : 0 0 
+Output: -0.00271721 
+Target: 0 
+Erro da Rede: 0.00914183
+
+Step1440: Input : 1 1 
+Output: 0.964914 
+Target: 1 
+Erro da Rede: 0.0093987
+
+Step1441: Input : 1 0 
+Output: 0.00176556 
+Target: 0 
+Erro da Rede: 0.00932313
+
+Step1442: Input : 0 0 
+Output: 0.000459345 
+Target: 0 
+Erro da Rede: 0.00923537
+
+Step1443: Input : 0 1 
+Output: -0.000584666 
+Target: 0 
+Erro da Rede: 0.00914972
+
+Step1444: Input : 1 1 
+Output: 0.965093 
+Target: 1 
+Erro da Rede: 0.00940474
+
+Step1445: Input : 0 0 
+Output: 0.00143473 
+Target: 0 
+Erro da Rede: 0.00932582
+
+Step1446: Input : 1 0 
+Output: 0.00167378 
+Target: 0 
+Erro da Rede: 0.00925006
+
+Step1447: Input : 0 1 
+Output: 0.00149081 
+Target: 0 
+Erro da Rede: 0.00917324
+
+Step1448: Input : 0 0 
+Output: -0.00156671 
+Target: 0 
+Erro da Rede: 0.00909793
+
+Step1449: Input : 1 1 
+Output: 0.96515 
+Target: 1 
+Erro da Rede: 0.0093529
+
+Step1450: Input : 0 0 
+Output: 0.000496251 
+Target: 0 
+Erro da Rede: 0.00926521
+
+Step1451: Input : 0 0 
+Output: 0.000841392 
+Target: 0 
+Erro da Rede: 0.00918181
+
+Step1452: Input : 1 1 
+Output: 0.96536 
+Target: 1 
+Erro da Rede: 0.00943387
+
+Step1453: Input : 1 1 
+Output: 0.965504 
+Target: 1 
+Erro da Rede: 0.00968201
+
+Step1454: Input : 0 0 
+Output: 0.00289467 
+Target: 0 
+Erro da Rede: 0.0096148
+
+Step1455: Input : 0 1 
+Output: 0.00468701 
+Target: 0 
+Erro da Rede: 0.00956601
+
+Step1456: Input : 1 1 
+Output: 0.965545 
+Target: 1 
+Erro da Rede: 0.00981244
+
+Step1457: Input : 1 0 
+Output: 0.00383769 
+Target: 0 
+Erro da Rede: 0.00975329
+
+Step1458: Input : 0 1 
+Output: -0.00171093 
+Target: 0 
+Erro da Rede: 0.00967366
+
+Step1459: Input : 0 0 
+Output: -0.0045959 
+Target: 0 
+Erro da Rede: 0.00962339
+
+Step1460: Input : 1 1 
+Output: 0.96563 
+Target: 1 
+Erro da Rede: 0.00986841
+
+Step1461: Input : 0 1 
+Output: 0.00487526 
+Target: 0 
+Erro da Rede: 0.00981897
+
+Step1462: Input : 1 1 
+Output: 0.965764 
+Target: 1 
+Erro da Rede: 0.0100607
+
+Step1463: Input : 0 1 
+Output: 0.0016747 
+Target: 0 
+Erro da Rede: 0.0099777
+
+Step1464: Input : 0 0 
+Output: 0.00101517 
+Target: 0 
+Erro da Rede: 0.00988896
+
+Step1465: Input : 1 0 
+Output: 0.00580362 
+Target: 0 
+Erro da Rede: 0.00984851
+
+Step1466: Input : 0 1 
+Output: -0.00286207 
+Target: 0 
+Erro da Rede: 0.00977934
+
+Step1467: Input : 0 1 
+Output: -0.0010813 
+Target: 0 
+Erro da Rede: 0.00969322
+
+Step1468: Input : 0 0 
+Output: -0.00376582 
+Target: 0 
+Erro da Rede: 0.00963453
+
+Step1469: Input : 1 0 
+Output: -0.00103281 
+Target: 0 
+Erro da Rede: 0.00954936
+
+Step1470: Input : 0 1 
+Output: 0.00518807 
+Target: 0 
+Erro da Rede: 0.00950618
+
+Step1471: Input : 1 0 
+Output: 0.000655419 
+Target: 0 
+Erro da Rede: 0.00941855
+
+Step1472: Input : 1 1 
+Output: 0.965581 
+Target: 1 
+Erro da Rede: 0.00966608
+
+Step1473: Input : 1 1 
+Output: 0.965672 
+Target: 1 
+Erro da Rede: 0.00991026
+
+Step1474: Input : 1 0 
+Output: 0.00302471 
+Target: 0 
+Erro da Rede: 0.00984209
+
+Step1475: Input : 0 0 
+Output: 6.57061e-05 
+Target: 0 
+Erro da Rede: 0.00974529
+
+Step1476: Input : 1 0 
+Output: 0.000367885 
+Target: 0 
+Erro da Rede: 0.00965245
+
+Step1477: Input : 0 0 
+Output: -0.000888336 
+Target: 0 
+Erro da Rede: 0.00956567
+
+Step1478: Input : 1 1 
+Output: 0.965811 
+Target: 1 
+Erro da Rede: 0.00980947
+
+Step1479: Input : 0 0 
+Output: 0.000980071 
+Target: 0 
+Erro da Rede: 0.00972205
+
+Step1480: Input : 1 1 
+Output: 0.965999 
+Target: 1 
+Erro da Rede: 0.00996244
+
+Step1481: Input : 0 0 
+Output: 0.00197813 
+Target: 0 
+Erro da Rede: 0.00988339
+
+Step1482: Input : 1 1 
+Output: 0.966168 
+Target: 1 
+Erro da Rede: 0.0101205
+
+Step1483: Input : 0 1 
+Output: 0.00618292 
+Target: 0 
+Erro da Rede: 0.0100815
+
+Step1484: Input : 1 1 
+Output: 0.966136 
+Target: 1 
+Erro da Rede: 0.010317
+
+Step1485: Input : 0 0 
+Output: -0.00151806 
+Target: 0 
+Erro da Rede: 0.0102299
+
+Step1486: Input : 0 0 
+Output: -0.000443243 
+Target: 0 
+Erro da Rede: 0.010133
+
+Step1487: Input : 1 0 
+Output: 0.00633756 
+Target: 0 
+Erro da Rede: 0.0100954
+
+Step1488: Input : 1 1 
+Output: 0.966089 
+Target: 1 
+Erro da Rede: 0.0103312
+
+Step1489: Input : 0 1 
+Output: 0.00043195 
+Target: 0 
+Erro da Rede: 0.0102332
+
+Step1490: Input : 1 0 
+Output: -0.000832844 
+Target: 0 
+Erro da Rede: 0.0101401
+
+Step1491: Input : 1 1 
+Output: 0.966139 
+Target: 1 
+Erro da Rede: 0.010375
+
+Step1492: Input : 1 0 
+Output: 0.00107486 
+Target: 0 
+Erro da Rede: 0.0102829
+
+Step1493: Input : 1 1 
+Output: 0.966322 
+Target: 1 
+Erro da Rede: 0.0105145
+
+Step1494: Input : 1 0 
+Output: 0.00208575 
+Target: 0 
+Erro da Rede: 0.0104311
+
+Step1495: Input : 1 1 
+Output: 0.966464 
+Target: 1 
+Erro da Rede: 0.0106598
+
+Step1496: Input : 0 1 
+Output: 0.00613117 
+Target: 0 
+Erro da Rede: 0.010615
+
+Step1497: Input : 1 1 
+Output: 0.966417 
+Target: 1 
+Erro da Rede: 0.0108424
+
+Step1498: Input : 1 1 
+Output: 0.966461 
+Target: 1 
+Erro da Rede: 0.0110671
+
+Step1499: Input : 1 1 
+Output: 0.966614 
+Target: 1 
+Erro da Rede: 0.0112881
+
+Step1500: Input : 1 1 
+Output: 0.966819 
+Target: 1 
+Erro da Rede: 0.0115049
+
+Step1501: Input : 0 0 
+Output: 0.00121848 
+Target: 0 
+Erro da Rede: 0.011403
+
+Step1502: Input : 1 0 
+Output: 0.00859979 
+Target: 0 
+Erro da Rede: 0.0113753
+
+Step1503: Input : 0 0 
+Output: -0.00348882 
+Target: 0 
+Erro da Rede: 0.0112972
+
+Step1504: Input : 1 0 
+Output: -0.000661153 
+Target: 0 
+Erro da Rede: 0.0111919
+
+Step1505: Input : 1 1 
+Output: 0.966806 
+Target: 1 
+Erro da Rede: 0.0114097
+
+Step1506: Input : 1 1 
+Output: 0.966938 
+Target: 1 
+Erro da Rede: 0.0116241
+
+Step1507: Input : 0 0 
+Output: 0.000686714 
+Target: 0 
+Erro da Rede: 0.0115158
+
+Step1508: Input : 0 0 
+Output: 0.00101538 
+Target: 0 
+Erro da Rede: 0.0114118
+
+Step1509: Input : 1 1 
+Output: 0.967206 
+Target: 1 
+Erro da Rede: 0.0116236
+
+Step1510: Input : 0 0 
+Output: 0.00109483 
+Target: 0 
+Erro da Rede: 0.0115193
+
+Step1511: Input : 0 1 
+Output: 0.0112624 
+Target: 0 
+Erro da Rede: 0.0115168
+
+Step1512: Input : 0 0 
+Output: -0.00532075 
+Target: 0 
+Erro da Rede: 0.0114554
+
+Step1513: Input : 0 1 
+Output: -0.00145576 
+Target: 0 
+Erro da Rede: 0.0113564
+
+Step1514: Input : 1 0 
+Output: 0.00447854 
+Target: 0 
+Erro da Rede: 0.0112883
+
+Step1515: Input : 0 0 
+Output: -0.00434948 
+Target: 0 
+Erro da Rede: 0.0112196
+
+Step1516: Input : 1 1 
+Output: 0.966851 
+Target: 1 
+Erro da Rede: 0.0114367
+
+Step1517: Input : 0 0 
+Output: 0.000661474 
+Target: 0 
+Erro da Rede: 0.0113301
+
+Step1518: Input : 1 1 
+Output: 0.967067 
+Target: 1 
+Erro da Rede: 0.0115439
+
+Step1519: Input : 1 0 
+Output: 0.00523382 
+Target: 0 
+Erro da Rede: 0.0114815
+
+Step1520: Input : 0 1 
+Output: 0.00430795 
+Target: 0 
+Erro da Rede: 0.0114104
+
+Step1521: Input : 0 1 
+Output: 0.000349197 
+Target: 0 
+Erro da Rede: 0.0113009
+
+Step1522: Input : 0 0 
+Output: -0.00442651 
+Target: 0 
+Erro da Rede: 0.0112329
+
+Step1523: Input : 1 1 
+Output: 0.966823 
+Target: 1 
+Erro da Rede: 0.0114501
+
+Step1524: Input : 0 1 
+Output: 0.000938838 
+Target: 0 
+Erro da Rede: 0.0113461
+
+Step1525: Input : 0 1 
+Output: 0.000991374 
+Target: 0 
+Erro da Rede: 0.0112435
+
+Step1526: Input : 0 1 
+Output: 0.000113438 
+Target: 0 
+Erro da Rede: 0.0111333
+
+Step1527: Input : 1 1 
+Output: 0.967011 
+Target: 1 
+Erro da Rede: 0.0113497
+
+Step1528: Input : 1 0 
+Output: 0.00361942 
+Target: 0 
+Erro da Rede: 0.0112732
+
+Step1529: Input : 1 1 
+Output: 0.967052 
+Target: 1 
+Erro da Rede: 0.0114878
+
+Step1530: Input : 0 0 
+Output: 0.00100809 
+Target: 0 
+Erro da Rede: 0.011384
+
+Step1531: Input : 1 1 
+Output: 0.967148 
+Target: 1 
+Erro da Rede: 0.0115966
+
+Step1532: Input : 1 0 
+Output: 0.00141474 
+Target: 0 
+Erro da Rede: 0.0114958
+
+Step1533: Input : 1 0 
+Output: 0.00063241 
+Target: 0 
+Erro da Rede: 0.0113882
+
+Step1534: Input : 0 1 
+Output: 0.00359244 
+Target: 0 
+Erro da Rede: 0.011311
+
+Step1535: Input : 1 0 
+Output: -0.00140844 
+Target: 0 
+Erro da Rede: 0.011213
+
+Step1536: Input : 0 1 
+Output: -0.00101398 
+Target: 0 
+Erro da Rede: 0.011112
+
+Step1537: Input : 1 1 
+Output: 0.96713 
+Target: 1 
+Erro da Rede: 0.0113274
+
+Step1538: Input : 1 1 
+Output: 0.967268 
+Target: 1 
+Erro da Rede: 0.0115394
+
+Step1539: Input : 0 0 
+Output: 0.00111677 
+Target: 0 
+Erro da Rede: 0.0114362
+
+Step1540: Input : 1 1 
+Output: 0.967519 
+Target: 1 
+Erro da Rede: 0.0116445
+
+Step1541: Input : 0 1 
+Output: 0.00438477 
+Target: 0 
+Erro da Rede: 0.0115727
+
+Step1542: Input : 0 1 
+Output: 0.00109577 
+Target: 0 
+Erro da Rede: 0.0114689
+
+Step1543: Input : 0 0 
+Output: -0.00103593 
+Target: 0 
+Erro da Rede: 0.0113656
+
+Step1544: Input : 1 0 
+Output: 0.0054105 
+Target: 0 
+Erro da Rede: 0.0113067
+
+Step1545: Input : 1 1 
+Output: 0.967268 
+Target: 1 
+Erro da Rede: 0.0115188
+
+Step1546: Input : 0 1 
+Output: -0.00306936 
+Target: 0 
+Erro da Rede: 0.0114351
+
+Step1547: Input : 1 1 
+Output: 0.967411 
+Target: 1 
+Erro da Rede: 0.0116446
+
+Step1548: Input : 0 1 
+Output: 0.00282074 
+Target: 0 
+Erro da Rede: 0.0115572
+
+Step1549: Input : 1 0 
+Output: 0.00106505 
+Target: 0 
+Erro da Rede: 0.0114533
+
+Step1550: Input : 0 0 
+Output: -0.00249002 
+Target: 0 
+Erro da Rede: 0.0113646
+
+Step1551: Input : 0 1 
+Output: 0.00173201 
+Target: 0 
+Erro da Rede: 0.0112692
+
+Step1552: Input : 1 1 
+Output: 0.967549 
+Target: 1 
+Erro da Rede: 0.0114789
+
+Step1553: Input : 0 1 
+Output: 0.00123558 
+Target: 0 
+Erro da Rede: 0.0113775
+
+Step1554: Input : 1 1 
+Output: 0.967653 
+Target: 1 
+Erro da Rede: 0.0115851
+
+Step1555: Input : 1 0 
+Output: 0.00442531 
+Target: 0 
+Erro da Rede: 0.0115142
+
+Step1556: Input : 0 0 
+Output: -0.00107829 
+Target: 0 
+Erro da Rede: 0.0114109
+
+Step1557: Input : 0 1 
+Output: 0.00129289 
+Target: 0 
+Erro da Rede: 0.0113107
+
+Step1558: Input : 1 1 
+Output: 0.96759 
+Target: 1 
+Erro da Rede: 0.0115197
+
+Step1559: Input : 1 1 
+Output: 0.967679 
+Target: 1 
+Erro da Rede: 0.0117256
+
+Step1560: Input : 1 0 
+Output: 0.00187747 
+Target: 0 
+Erro da Rede: 0.0116281
+
+Step1561: Input : 1 1 
+Output: 0.967853 
+Target: 1 
+Erro da Rede: 0.0118313
+
+Step1562: Input : 1 0 
+Output: 0.00177764 
+Target: 0 
+Erro da Rede: 0.0117317
+
+Step1563: Input : 0 1 
+Output: 0.00495806 
+Target: 0 
+Erro da Rede: 0.0116646
+
+Step1564: Input : 1 1 
+Output: 0.96778 
+Target: 1 
+Erro da Rede: 0.0118682
+
+Step1565: Input : 1 0 
+Output: -0.000392271 
+Target: 0 
+Erro da Rede: 0.0117545
+
+Step1566: Input : 0 0 
+Output: -0.00292476 
+Target: 0 
+Erro da Rede: 0.0116671
+
+Step1567: Input : 1 1 
+Output: 0.967934 
+Target: 1 
+Erro da Rede: 0.0118691
+
+Step1568: Input : 1 0 
+Output: 0.00422151 
+Target: 0 
+Erro da Rede: 0.0117934
+
+Step1569: Input : 1 1 
+Output: 0.968028 
+Target: 1 
+Erro da Rede: 0.0119931
+
+Step1570: Input : 1 1 
+Output: 0.968106 
+Target: 1 
+Erro da Rede: 0.0121902
+
+Step1571: Input : 1 0 
+Output: 0.00241512 
+Target: 0 
+Erro da Rede: 0.0120934
+
+Step1572: Input : 1 1 
+Output: 0.968245 
+Target: 1 
+Erro da Rede: 0.0122881
+
+Step1573: Input : 1 0 
+Output: 0.0011512 
+Target: 0 
+Erro da Rede: 0.0121778
+
+Step1574: Input : 1 0 
+Output: 0.000296033 
+Target: 0 
+Erro da Rede: 0.0120602
+
+Step1575: Input : 0 0 
+Output: 0.00137171 
+Target: 0 
+Erro da Rede: 0.0119543
+
+Step1576: Input : 1 1 
+Output: 0.96831 
+Target: 1 
+Erro da Rede: 0.0121497
+
+Step1577: Input : 1 0 
+Output: -0.000867048 
+Target: 0 
+Erro da Rede: 0.012038
+
+Step1578: Input : 1 1 
+Output: 0.968475 
+Target: 1 
+Erro da Rede: 0.012231
+
+Step1579: Input : 0 1 
+Output: 0.0107438 
+Target: 0 
+Erro da Rede: 0.0122162
+
+Step1580: Input : 1 1 
+Output: 0.968299 
+Target: 1 
+Erro da Rede: 0.0124092
+
+Step1581: Input : 1 1 
+Output: 0.968249 
+Target: 1 
+Erro da Rede: 0.0126007
+
+Step1582: Input : 1 1 
+Output: 0.968336 
+Target: 1 
+Erro da Rede: 0.0127894
+
+Step1583: Input : 1 1 
+Output: 0.96849 
+Target: 1 
+Erro da Rede: 0.0129748
+
+Step1584: Input : 1 1 
+Output: 0.968676 
+Target: 1 
+Erro da Rede: 0.0131564
+
+Step1585: Input : 0 1 
+Output: 0.00221966 
+Target: 0 
+Erro da Rede: 0.0130482
+
+Step1586: Input : 0 0 
+Output: 0.000720593 
+Target: 0 
+Erro da Rede: 0.0129261
+
+Step1587: Input : 1 1 
+Output: 0.968883 
+Target: 1 
+Erro da Rede: 0.0131062
+
+Step1588: Input : 0 1 
+Output: 0.000962179 
+Target: 0 
+Erro da Rede: 0.012986
+
+Step1589: Input : 0 1 
+Output: 0.000423924 
+Target: 0 
+Erro da Rede: 0.0128616
+
+Step1590: Input : 1 0 
+Output: 0.0117415 
+Target: 0 
+Erro da Rede: 0.0128505
+
+Step1591: Input : 1 0 
+Output: 0.00121846 
+Target: 0 
+Erro da Rede: 0.0127353
+
+Step1592: Input : 1 1 
+Output: 0.968294 
+Target: 1 
+Erro da Rede: 0.0129232
+
+Step1593: Input : 1 0 
+Output: -0.00714273 
+Target: 0 
+Erro da Rede: 0.0128659
+
+Step1594: Input : 0 1 
+Output: -0.00195991 
+Target: 0 
+Erro da Rede: 0.012758
+
+Step1595: Input : 0 0 
+Output: -0.00524958 
+Target: 0 
+Erro da Rede: 0.0126836
+
+Step1596: Input : 1 0 
+Output: 0.00570153 
+Target: 0 
+Erro da Rede: 0.0126145
+
+Step1597: Input : 0 1 
+Output: 0.00546314 
+Target: 0 
+Erro da Rede: 0.0125437
+
+Step1598: Input : 1 0 
+Output: 0.00035166 
+Target: 0 
+Erro da Rede: 0.012423
+
+Step1599: Input : 1 1 
+Output: 0.968534 
+Target: 1 
+Erro da Rede: 0.0126115
+
+Step1600: Input : 1 0 
+Output: -0.000767588 
+Target: 0 
+Erro da Rede: 0.0124942
+
+Step1601: Input : 1 1 
+Output: 0.968627 
+Target: 1 
+Erro da Rede: 0.0126812
+
+Step1602: Input : 0 0 
+Output: -0.00265334 
+Target: 0 
+Erro da Rede: 0.0125819
+
+Step1603: Input : 0 1 
+Output: 0.00191998 
+Target: 0 
+Erro da Rede: 0.0124763
+
+Step1604: Input : 0 1 
+Output: 0.00113014 
+Target: 0 
+Erro da Rede: 0.012364
+
+Step1605: Input : 0 1 
+Output: -0.000302645 
+Target: 0 
+Erro da Rede: 0.0122446
+
+Step1606: Input : 1 0 
+Output: 0.00510911 
+Target: 0 
+Erro da Rede: 0.0121739
+
+Step1607: Input : 0 0 
+Output: -0.00267503 
+Target: 0 
+Erro da Rede: 0.0120799
+
+Step1608: Input : 1 1 
+Output: 0.96866 
+Target: 1 
+Erro da Rede: 0.0122706
+
+Step1609: Input : 1 0 
+Output: 0.000509816 
+Target: 0 
+Erro da Rede: 0.0121541
+
+Step1610: Input : 1 1 
+Output: 0.968794 
+Target: 1 
+Erro da Rede: 0.0123428
+
+Step1611: Input : 1 0 
+Output: 0.00150995 
+Target: 0 
+Erro da Rede: 0.0122355
+
+Step1612: Input : 0 1 
+Output: 0.00321185 
+Target: 0 
+Erro da Rede: 0.0121462
+
+Step1613: Input : 1 1 
+Output: 0.968809 
+Target: 1 
+Erro da Rede: 0.0123347
+
+Step1614: Input : 0 1 
+Output: 0.000293584 
+Target: 0 
+Erro da Rede: 0.0122155
+
+Step1615: Input : 1 1 
+Output: 0.968873 
+Target: 1 
+Erro da Rede: 0.0124027
+
+Step1616: Input : 1 1 
+Output: 0.968986 
+Target: 1 
+Erro da Rede: 0.012587
+
+Step1617: Input : 1 0 
+Output: 0.00370918 
+Target: 0 
+Erro da Rede: 0.0124991
+
+Step1618: Input : 0 0 
+Output: -1.41265e-05 
+Target: 0 
+Erro da Rede: 0.0123755
+
+Step1619: Input : 1 0 
+Output: 1.30332e-05 
+Target: 0 
+Erro da Rede: 0.0122531
+
+Step1620: Input : 1 0 
+Output: -0.000612165 
+Target: 0 
+Erro da Rede: 0.0121378
+
+Step1621: Input : 1 0 
+Output: -0.00037246 
+Target: 0 
+Erro da Rede: 0.0120214
+
+Step1622: Input : 0 1 
+Output: 0.00303964 
+Target: 0 
+Erro da Rede: 0.0119324
+
+Step1623: Input : 0 0 
+Output: -0.00192962 
+Target: 0 
+Erro da Rede: 0.0118334
+
+Step1624: Input : 1 0 
+Output: 0.000706411 
+Target: 0 
+Erro da Rede: 0.0117232
+
+Step1625: Input : 1 0 
+Output: 0.000522912 
+Target: 0 
+Erro da Rede: 0.0116123
+
+Step1626: Input : 0 0 
+Output: -0.00127013 
+Target: 0 
+Erro da Rede: 0.0115099
+
+Step1627: Input : 1 0 
+Output: 0.000368729 
+Target: 0 
+Erro da Rede: 0.0113996
+
+Step1628: Input : 0 0 
+Output: -0.000121459 
+Target: 0 
+Erro da Rede: 0.011288
+
+Step1629: Input : 0 0 
+Output: 0.000101517 
+Target: 0 
+Erro da Rede: 0.0111772
+
+Step1630: Input : 1 1 
+Output: 0.968973 
+Target: 1 
+Erro da Rede: 0.0113737
+
+Step1631: Input : 1 1 
+Output: 0.969077 
+Target: 1 
+Erro da Rede: 0.0115673
+
+Step1632: Input : 1 0 
+Output: 0.00294747 
+Target: 0 
+Erro da Rede: 0.0114819
+
+Step1633: Input : 1 1 
+Output: 0.969205 
+Target: 1 
+Erro da Rede: 0.0116732
+
+Step1634: Input : 1 0 
+Output: 0.00130969 
+Target: 0 
+Erro da Rede: 0.0115706
+
+Step1635: Input : 1 0 
+Output: 0.000222842 
+Target: 0 
+Erro da Rede: 0.0114582
+
+Step1636: Input : 0 0 
+Output: 0.00128776 
+Target: 0 
+Erro da Rede: 0.0113575
+
+Step1637: Input : 0 1 
+Output: 0.00476984 
+Target: 0 
+Erro da Rede: 0.0112923
+
+Step1638: Input : 0 1 
+Output: 9.92332e-05 
+Target: 0 
+Erro da Rede: 0.0111815
+
+Step1639: Input : 1 0 
+Output: -0.0036237 
+Target: 0 
+Erro da Rede: 0.0111066
+
+Step1640: Input : 1 0 
+Output: -0.000698063 
+Target: 0 
+Erro da Rede: 0.0110036
+
+Step1641: Input : 0 1 
+Output: -0.00311279 
+Target: 0 
+Erro da Rede: 0.0109254
+
+Step1642: Input : 0 1 
+Output: -0.000342743 
+Target: 0 
+Erro da Rede: 0.0108207
+
+Step1643: Input : 1 0 
+Output: 0.00381001 
+Target: 0 
+Erro da Rede: 0.0107513
+
+Step1644: Input : 0 0 
+Output: -0.000557164 
+Target: 0 
+Erro da Rede: 0.0106503
+
+Step1645: Input : 1 0 
+Output: -0.00041558 
+Target: 0 
+Erro da Rede: 0.010549
+
+Step1646: Input : 0 0 
+Output: -0.00075862 
+Target: 0 
+Erro da Rede: 0.0104521
+
+Step1647: Input : 1 1 
+Output: 0.969215 
+Target: 1 
+Erro da Rede: 0.0106534
+
+Step1648: Input : 1 0 
+Output: 0.000911347 
+Target: 0 
+Erro da Rede: 0.0105569
+
+Step1649: Input : 0 0 
+Output: 0.00129599 
+Target: 0 
+Erro da Rede: 0.0104652
+
+Step1650: Input : 1 1 
+Output: 0.969326 
+Target: 1 
+Erro da Rede: 0.0106653
+
+Step1651: Input : 0 0 
+Output: 0.000747465 
+Target: 0 
+Erro da Rede: 0.0105671
+
+Step1652: Input : 0 1 
+Output: 0.00522977 
+Target: 0 
+Erro da Rede: 0.0105143
+
+Step1653: Input : 1 1 
+Output: 0.969258 
+Target: 1 
+Erro da Rede: 0.0107145
+
+Step1654: Input : 0 0 
+Output: -0.00296187 
+Target: 0 
+Erro da Rede: 0.0106378
+
+Step1655: Input : 1 0 
+Output: 0.00222316 
+Target: 0 
+Erro da Rede: 0.0105545
+
+Step1656: Input : 1 0 
+Output: 0.0011829 
+Target: 0 
+Erro da Rede: 0.0104617
+
+Step1657: Input : 0 0 
+Output: -0.00163988 
+Target: 0 
+Erro da Rede: 0.0103743
+
+Step1658: Input : 0 1 
+Output: 0.000655331 
+Target: 0 
+Erro da Rede: 0.0102781
+
+Step1659: Input : 1 1 
+Output: 0.969286 
+Target: 1 
+Erro da Rede: 0.0104804
+
+Step1660: Input : 0 0 
+Output: 0.000503053 
+Target: 0 
+Erro da Rede: 0.0103817
+
+Step1661: Input : 0 0 
+Output: 0.000599226 
+Target: 0 
+Erro da Rede: 0.0102848
+
+Step1662: Input : 0 1 
+Output: 0.00147652 
+Target: 0 
+Erro da Rede: 0.0101976
+
+Step1663: Input : 1 0 
+Output: 0.000421977 
+Target: 0 
+Erro da Rede: 0.0101008
+
+Step1664: Input : 0 1 
+Output: -0.000769723 
+Target: 0 
+Erro da Rede: 0.0100084
+
+Step1665: Input : 1 0 
+Output: -0.000280261 
+Target: 0 
+Erro da Rede: 0.0099121
+
+Step1666: Input : 0 0 
+Output: -0.00131472 
+Target: 0 
+Erro da Rede: 0.00982698
+
+Step1667: Input : 0 1 
+Output: 0.000508139 
+Target: 0 
+Erro da Rede: 0.00973471
+
+Step1668: Input : 1 1 
+Output: 0.969387 
+Target: 1 
+Erro da Rede: 0.00994143
+
+Step1669: Input : 0 0 
+Output: 0.00124048 
+Target: 0 
+Erro da Rede: 0.00985528
+
+Step1670: Input : 0 1 
+Output: 0.00138524 
+Target: 0 
+Erro da Rede: 0.00977142
+
+Step1671: Input : 0 1 
+Output: 6.11835e-05 
+Target: 0 
+Erro da Rede: 0.00967528
+
+Step1672: Input : 0 0 
+Output: -0.000654078 
+Target: 0 
+Erro da Rede: 0.00958596
+
+Step1673: Input : 1 0 
+Output: 0.00211506 
+Target: 0 
+Erro da Rede: 0.00951199
+
+Step1674: Input : 0 1 
+Output: -0.00105714 
+Target: 0 
+Erro da Rede: 0.00942828
+
+Step1675: Input : 0 0 
+Output: -0.00135406 
+Target: 0 
+Erro da Rede: 0.00934834
+
+Step1676: Input : 1 0 
+Output: 2.53621e-05 
+Target: 0 
+Erro da Rede: 0.00925603
+
+Step1677: Input : 0 0 
+Output: 0.000302815 
+Target: 0 
+Erro da Rede: 0.00916739
+
+Step1678: Input : 0 0 
+Output: 0.000328424 
+Target: 0 
+Erro da Rede: 0.00907987
+
+Step1679: Input : 0 0 
+Output: 7.45198e-05 
+Target: 0 
+Erro da Rede: 0.00899071
+
+Step1680: Input : 1 0 
+Output: -0.000254691 
+Target: 0 
+Erro da Rede: 0.00890421
+
+Step1681: Input : 1 0 
+Output: -9.95865e-05 
+Target: 0 
+Erro da Rede: 0.00881704
+
+Step1682: Input : 0 1 
+Output: 0.00126863 
+Target: 0 
+Erro da Rede: 0.0087423
+
+Step1683: Input : 1 0 
+Output: -6.21859e-05 
+Target: 0 
+Erro da Rede: 0.00865636
+
+Step1684: Input : 1 1 
+Output: 0.969374 
+Target: 1 
+Erro da Rede: 0.00887388
+
+Step1685: Input : 0 1 
+Output: 0.000356262 
+Target: 0 
+Erro da Rede: 0.00878955
+
+Step1686: Input : 1 1 
+Output: 0.969499 
+Target: 1 
+Erro da Rede: 0.00900452
+
+Step1687: Input : 1 1 
+Output: 0.969615 
+Target: 1 
+Erro da Rede: 0.0092162
+
+Step1688: Input : 0 1 
+Output: 0.0032254 
+Target: 0 
+Erro da Rede: 0.00915689
+
+Step1689: Input : 0 1 
+Output: 0.00107926 
+Target: 0 
+Erro da Rede: 0.00907691
+
+Step1690: Input : 0 0 
+Output: 0.000672221 
+Target: 0 
+Erro da Rede: 0.00899369
+
+Step1691: Input : 0 1 
+Output: -0.00236151 
+Target: 0 
+Erro da Rede: 0.00892803
+
+Step1692: Input : 0 1 
+Output: -0.000872951 
+Target: 0 
+Erro da Rede: 0.00884828
+
+Step1693: Input : 1 0 
+Output: 0.00497566 
+Target: 0 
+Erro da Rede: 0.00880993
+
+Step1694: Input : 1 0 
+Output: 0.000599703 
+Target: 0 
+Erro da Rede: 0.00872864
+
+Step1695: Input : 1 0 
+Output: -0.00213015 
+Target: 0 
+Erro da Rede: 0.00866331
+
+Step1696: Input : 0 0 
+Output: -0.00233143 
+Target: 0 
+Erro da Rede: 0.00860062
+
+Step1697: Input : 1 1 
+Output: 0.969624 
+Target: 1 
+Erro da Rede: 0.00881622
+
+Step1698: Input : 0 0 
+Output: 0.00173385 
+Target: 0 
+Erro da Rede: 0.0087461
+
+Step1699: Input : 1 1 
+Output: 0.969783 
+Target: 1 
+Erro da Rede: 0.00895869
+
+Step1700: Input : 1 0 
+Output: 0.00287761 
+Target: 0 
+Erro da Rede: 0.00889848
+
+Step1701: Input : 0 1 
+Output: 0.00496141 
+Target: 0 
+Erro da Rede: 0.0088595
+
+Step1702: Input : 0 1 
+Output: 0.000411133 
+Target: 0 
+Erro da Rede: 0.00877585
+
+Step1703: Input : 0 0 
+Output: -0.00412413 
+Target: 0 
+Erro da Rede: 0.00872979
+
+Step1704: Input : 0 0 
+Output: -0.00165338 
+Target: 0 
+Erro da Rede: 0.00865973
+
+Step1705: Input : 0 1 
+Output: -0.000270835 
+Target: 0 
+Erro da Rede: 0.00857667
+
+Step1706: Input : 1 0 
+Output: 0.00237242 
+Target: 0 
+Erro da Rede: 0.00851524
+
+Step1707: Input : 0 1 
+Output: 0.00061428 
+Target: 0 
+Erro da Rede: 0.00843701
+
+Step1708: Input : 1 0 
+Output: -0.000251549 
+Target: 0 
+Erro da Rede: 0.00835597
+
+Step1709: Input : 0 1 
+Output: -0.000171502 
+Target: 0 
+Erro da Rede: 0.00827494
+
+Step1710: Input : 0 0 
+Output: 0.00101415 
+Target: 0 
+Erro da Rede: 0.00820305
+
+Step1711: Input : 0 1 
+Output: -0.000622016 
+Target: 0 
+Erro da Rede: 0.00812799
+
+Step1712: Input : 1 1 
+Output: 0.969569 
+Target: 1 
+Erro da Rede: 0.0083488
+
+Step1713: Input : 1 1 
+Output: 0.969672 
+Target: 1 
+Erro da Rede: 0.00856642
+
+Step1714: Input : 0 0 
+Output: 0.00230189 
+Target: 0 
+Erro da Rede: 0.00850439
+
+Step1715: Input : 0 0 
+Output: 0.00110011 
+Target: 0 
+Erro da Rede: 0.00843108
+
+Step1716: Input : 1 1 
+Output: 0.969798 
+Target: 1 
+Erro da Rede: 0.00864664
+
+Step1717: Input : 1 1 
+Output: 0.96988 
+Target: 1 
+Erro da Rede: 0.00885924
+
+Step1718: Input : 1 1 
+Output: 0.970018 
+Target: 1 
+Erro da Rede: 0.00906838
+
+Step1719: Input : 0 0 
+Output: 0.00210012 
+Target: 0 
+Erro da Rede: 0.00899938
+
+Step1720: Input : 0 1 
+Output: 0.00539452 
+Target: 0 
+Erro da Rede: 0.00896369
+
+Step1721: Input : 1 0 
+Output: 0.00232221 
+Target: 0 
+Erro da Rede: 0.00889794
+
+Step1722: Input : 1 0 
+Output: -0.000305617 
+Target: 0 
+Erro da Rede: 0.00881286
+
+Step1723: Input : 0 1 
+Output: -0.00401032 
+Target: 0 
+Erro da Rede: 0.00876531
+
+Step1724: Input : 0 0 
+Output: -0.00494154 
+Target: 0 
+Erro da Rede: 0.00872745
+
+Step1725: Input : 1 0 
+Output: 0.0015916 
+Target: 0 
+Erro da Rede: 0.0086568
+
+Step1726: Input : 1 1 
+Output: 0.970119 
+Target: 1 
+Erro da Rede: 0.00886694
+
+Step1727: Input : 0 0 
+Output: 0.00289632 
+Target: 0 
+Erro da Rede: 0.00880783
+
+Step1728: Input : 1 1 
+Output: 0.970208 
+Target: 1 
+Erro da Rede: 0.00901559
+
+Step1729: Input : 1 1 
+Output: 0.970287 
+Target: 1 
+Erro da Rede: 0.00922052
+
+Step1730: Input : 0 0 
+Output: 0.00237628 
+Target: 0 
+Erro da Rede: 0.00915275
+
+Step1731: Input : 1 1 
+Output: 0.970417 
+Target: 1 
+Erro da Rede: 0.00935504
+
+Step1732: Input : 0 0 
+Output: 0.0010267 
+Target: 0 
+Erro da Rede: 0.00927258
+
+Step1733: Input : 1 0 
+Output: 0.00310212 
+Target: 0 
+Erro da Rede: 0.00921148
+
+Step1734: Input : 0 0 
+Output: -0.00183028 
+Target: 0 
+Erro da Rede: 0.0091384
+
+Step1735: Input : 0 1 
+Output: 0.00857497 
+Target: 0 
+Erro da Rede: 0.00913282
+
+Step1736: Input : 1 0 
+Output: -0.00195838 
+Target: 0 
+Erro da Rede: 0.00906179
+
+Step1737: Input : 1 1 
+Output: 0.970044 
+Target: 1 
+Erro da Rede: 0.00926866
+
+Step1738: Input : 0 0 
+Output: -0.00609134 
+Target: 0 
+Erro da Rede: 0.0092372
+
+Step1739: Input : 1 1 
+Output: 0.970304 
+Target: 1 
+Erro da Rede: 0.00943976
+
+Step1740: Input : 0 0 
+Output: 0.00252715 
+Target: 0 
+Erro da Rede: 0.00937132
+
+Step1741: Input : 1 1 
+Output: 0.970523 
+Target: 1 
+Erro da Rede: 0.00957039
+
+Step1742: Input : 0 0 
+Output: 0.00288307 
+Target: 0 
+Erro da Rede: 0.00950418
+
+Step1743: Input : 0 1 
+Output: 0.00192191 
+Target: 0 
+Erro da Rede: 0.00942911
+
+Step1744: Input : 1 0 
+Output: 0.00704812 
+Target: 0 
+Erro da Rede: 0.00940553
+
+Step1745: Input : 1 1 
+Output: 0.970223 
+Target: 1 
+Erro da Rede: 0.00960723
+
+Step1746: Input : 0 0 
+Output: -0.00748518 
+Target: 0 
+Erro da Rede: 0.00958622
+
+Step1747: Input : 1 1 
+Output: 0.970367 
+Target: 1 
+Erro da Rede: 0.00978471
+
+Step1748: Input : 1 1 
+Output: 0.970555 
+Target: 1 
+Erro da Rede: 0.00997936
+
+Step1749: Input : 1 0 
+Output: 0.005509 
+Target: 0 
+Erro da Rede: 0.0099351
+
+Step1750: Input : 1 0 
+Output: 0.00163368 
+Target: 0 
+Erro da Rede: 0.00985291
+
+Step1751: Input : 1 1 
+Output: 0.970537 
+Target: 1 
+Erro da Rede: 0.0100471
+
+Step1752: Input : 1 1 
+Output: 0.970574 
+Target: 1 
+Erro da Rede: 0.0102389
+
+Step1753: Input : 1 0 
+Output: -0.00180932 
+Target: 0 
+Erro da Rede: 0.0101555
+
+Step1754: Input : 1 1 
+Output: 0.9708 
+Target: 1 
+Erro da Rede: 0.010344
+
+Step1755: Input : 1 0 
+Output: 0.00215899 
+Target: 0 
+Erro da Rede: 0.010263
+
+Step1756: Input : 1 1 
+Output: 0.970945 
+Target: 1 
+Erro da Rede: 0.010449
+
+Step1757: Input : 0 0 
+Output: 0.00459209 
+Target: 0 
+Erro da Rede: 0.0103911
+
+Step1758: Input : 1 1 
+Output: 0.970944 
+Target: 1 
+Erro da Rede: 0.0105759
+
+Step1759: Input : 0 0 
+Output: 0.00026972 
+Target: 0 
+Erro da Rede: 0.0104738
+
+Step1760: Input : 1 1 
+Output: 0.971 
+Target: 1 
+Erro da Rede: 0.0106572
+
+Step1761: Input : 0 0 
+Output: 0.000105482 
+Target: 0 
+Erro da Rede: 0.0105528
+
+Step1762: Input : 0 0 
+Output: 0.000268728 
+Target: 0 
+Erro da Rede: 0.010451
+
+Step1763: Input : 1 1 
+Output: 0.971151 
+Target: 1 
+Erro da Rede: 0.0106331
+
+Step1764: Input : 1 1 
+Output: 0.971243 
+Target: 1 
+Erro da Rede: 0.0108126
+
+Step1765: Input : 1 1 
+Output: 0.971374 
+Target: 1 
+Erro da Rede: 0.0109889
+
+Step1766: Input : 0 1 
+Output: 0.0171999 
+Target: 0 
+Erro da Rede: 0.0110504
+
+Step1767: Input : 1 1 
+Output: 0.971011 
+Target: 1 
+Erro da Rede: 0.011228
+
+Step1768: Input : 1 0 
+Output: 0.00244615 
+Target: 0 
+Erro da Rede: 0.0111411
+
+Step1769: Input : 0 1 
+Output: -0.00814375 
+Target: 0 
+Erro da Rede: 0.0111114
+
+Step1770: Input : 0 1 
+Output: -0.00245447 
+Target: 0 
+Erro da Rede: 0.0110257
+
+Step1771: Input : 0 0 
+Output: -0.00542798 
+Target: 0 
+Erro da Rede: 0.0109703
+
+Step1772: Input : 0 1 
+Output: 0.00797978 
+Target: 0 
+Erro da Rede: 0.0109407
+
+Step1773: Input : 0 0 
+Output: -0.000877062 
+Target: 0 
+Erro da Rede: 0.010841
+
+Step1774: Input : 0 0 
+Output: -0.000750867 
+Target: 0 
+Erro da Rede: 0.0107411
+
+Step1775: Input : 1 1 
+Output: 0.971088 
+Target: 1 
+Erro da Rede: 0.010921
+
+Step1776: Input : 0 0 
+Output: 0.00109211 
+Target: 0 
+Erro da Rede: 0.0108237
+
+Step1777: Input : 1 0 
+Output: 0.00725222 
+Target: 0 
+Erro da Rede: 0.0107884
+
+Step1778: Input : 0 1 
+Output: -0.000106889 
+Target: 0 
+Erro da Rede: 0.0106826
+
+Step1779: Input : 0 0 
+Output: -0.00535674 
+Target: 0 
+Erro da Rede: 0.0106299
+
+Step1780: Input : 0 0 
+Output: -0.00197366 
+Target: 0 
+Erro da Rede: 0.0105442
+
+Step1781: Input : 1 1 
+Output: 0.971024 
+Target: 1 
+Erro da Rede: 0.0107267
+
+Step1782: Input : 0 1 
+Output: 0.00608237 
+Target: 0 
+Erro da Rede: 0.0106807
+
+Step1783: Input : 0 1 
+Output: 0.00149323 
+Target: 0 
+Erro da Rede: 0.0105897
+
+Step1784: Input : 0 1 
+Output: -0.00218447 
+Target: 0 
+Erro da Rede: 0.0105065
+
+Step1785: Input : 1 0 
+Output: 0.00211936 
+Target: 0 
+Erro da Rede: 0.0104234
+
+Step1786: Input : 0 0 
+Output: -0.000465715 
+Target: 0 
+Erro da Rede: 0.0103249
+
+Step1787: Input : 0 1 
+Output: -0.00216168 
+Target: 0 
+Erro da Rede: 0.010244
+
+Step1788: Input : 1 1 
+Output: 0.970897 
+Target: 1 
+Erro da Rede: 0.0104308
+
+Step1789: Input : 1 1 
+Output: 0.971017 
+Target: 1 
+Erro da Rede: 0.0106144
+
+Step1790: Input : 1 0 
+Output: 0.00219044 
+Target: 0 
+Erro da Rede: 0.010531
+
+Step1791: Input : 1 0 
+Output: 0.000943386 
+Target: 0 
+Erro da Rede: 0.0104361
+
+Step1792: Input : 0 1 
+Output: 0.00472258 
+Target: 0 
+Erro da Rede: 0.0103795
+
+Step1793: Input : 0 1 
+Output: 0.000421321 
+Target: 0 
+Erro da Rede: 0.0102809
+
+Step1794: Input : 0 0 
+Output: -0.00225506 
+Target: 0 
+Erro da Rede: 0.0102015
+
+Step1795: Input : 1 1 
+Output: 0.970859 
+Target: 1 
+Erro da Rede: 0.010389
+
+Step1796: Input : 0 1 
+Output: -0.00130319 
+Target: 0 
+Erro da Rede: 0.010299
+
+Step1797: Input : 0 1 
+Output: 0.000375851 
+Target: 0 
+Erro da Rede: 0.0102008
+
+Step1798: Input : 0 1 
+Output: 0.000866991 
+Target: 0 
+Erro da Rede: 0.0101084
+
+Step1799: Input : 0 1 
+Output: 0.000308635 
+Target: 0 
+Erro da Rede: 0.0100114
+
+Step1800: Input : 0 0 
+Output: 0.00152934 
+Target: 0 
+Erro da Rede: 0.00992737
+
+Step1801: Input : 1 1 
+Output: 0.970995 
+Target: 1 
+Erro da Rede: 0.0101163
+
+Step1802: Input : 0 0 
+Output: 0.000290383 
+Target: 0 
+Erro da Rede: 0.010019
+
+Step1803: Input : 0 0 
+Output: 0.000123549 
+Target: 0 
+Erro da Rede: 0.009921
+
+Step1804: Input : 1 0 
+Output: 0.000478253 
+Target: 0 
+Erro da Rede: 0.0098275
+
+Step1805: Input : 0 1 
+Output: -0.000873774 
+Target: 0 
+Erro da Rede: 0.00973885
+
+Step1806: Input : 1 1 
+Output: 0.971096 
+Target: 1 
+Erro da Rede: 0.0099286
+
+Step1807: Input : 1 0 
+Output: 0.00091434 
+Target: 0 
+Erro da Rede: 0.00983935
+
+Step1808: Input : 0 0 
+Output: 0.00079039 
+Target: 0 
+Erro da Rede: 0.00974976
+
+Step1809: Input : 1 1 
+Output: 0.971198 
+Target: 1 
+Erro da Rede: 0.00993839
+
+Step1810: Input : 0 1 
+Output: 0.00257278 
+Target: 0 
+Erro da Rede: 0.00986547
+
+Step1811: Input : 0 1 
+Output: 0.000642619 
+Target: 0 
+Erro da Rede: 0.00977415
+
+Step1812: Input : 0 0 
+Output: -0.00129329 
+Target: 0 
+Erro da Rede: 0.00969018
+
+Step1813: Input : 1 1 
+Output: 0.971195 
+Target: 1 
+Erro da Rede: 0.00987943
+
+Step1814: Input : 1 1 
+Output: 0.971287 
+Target: 1 
+Erro da Rede: 0.0100659
+
+Step1815: Input : 0 0 
+Output: 0.00186225 
+Target: 0 
+Erro da Rede: 0.00998468
+
+Step1816: Input : 0 0 
+Output: 0.00102714 
+Target: 0 
+Erro da Rede: 0.00989599
+
+Step1817: Input : 1 1 
+Output: 0.971406 
+Target: 1 
+Erro da Rede: 0.0100811
+
+Step1818: Input : 0 1 
+Output: 0.00110384 
+Target: 0 
+Erro da Rede: 0.00999223
+
+Step1819: Input : 1 0 
+Output: 0.00375736 
+Target: 0 
+Erro da Rede: 0.0099305
+
+Step1820: Input : 1 1 
+Output: 0.97135 
+Target: 1 
+Erro da Rede: 0.0101158
+
+Step1821: Input : 1 1 
+Output: 0.97137 
+Target: 1 
+Erro da Rede: 0.0102992
+
+Step1822: Input : 0 0 
+Output: -0.00251261 
+Target: 0 
+Erro da Rede: 0.0102221
+
+Step1823: Input : 1 1 
+Output: 0.971581 
+Target: 1 
+Erro da Rede: 0.0104022
+
+Step1824: Input : 0 0 
+Output: 0.00186609 
+Target: 0 
+Erro da Rede: 0.0103177
+
+Step1825: Input : 0 1 
+Output: 0.00489482 
+Target: 0 
+Erro da Rede: 0.010264
+
+Step1826: Input : 1 0 
+Output: 0.00274066 
+Target: 0 
+Erro da Rede: 0.0101895
+
+Step1827: Input : 1 0 
+Output: -0.000205502 
+Target: 0 
+Erro da Rede: 0.0100907
+
+Step1828: Input : 1 0 
+Output: -0.00149089 
+Target: 0 
+Erro da Rede: 0.0100055
+
+Step1829: Input : 0 1 
+Output: -0.00413894 
+Target: 0 
+Erro da Rede: 0.00994745
+
+Step1830: Input : 0 1 
+Output: -0.000504645 
+Target: 0 
+Erro da Rede: 0.00985396
+
+Step1831: Input : 1 1 
+Output: 0.97158 
+Target: 1 
+Erro da Rede: 0.0100378
+
+Step1832: Input : 1 0 
+Output: 0.00215628 
+Target: 0 
+Erro da Rede: 0.00995974
+
+Step1833: Input : 0 0 
+Output: -0.000932219 
+Target: 0 
+Erro da Rede: 0.00987036
+
+Step1834: Input : 0 1 
+Output: 0.00538554 
+Target: 0 
+Erro da Rede: 0.00982596
+
+Step1835: Input : 0 0 
+Output: -0.00285639 
+Target: 0 
+Erro da Rede: 0.00975695
+
+Step1836: Input : 1 0 
+Output: 0.000741686 
+Target: 0 
+Erro da Rede: 0.00966769
+
+Step1837: Input : 1 0 
+Output: 0.000601169 
+Target: 0 
+Erro da Rede: 0.00957792
+
+Step1838: Input : 0 0 
+Output: -0.00184689 
+Target: 0 
+Erro da Rede: 0.00950138
+
+Step1839: Input : 1 1 
+Output: 0.971518 
+Target: 1 
+Erro da Rede: 0.00968931
+
+Step1840: Input : 1 0 
+Output: 0.00199355 
+Target: 0 
+Erro da Rede: 0.00961311
+
+Step1841: Input : 1 1 
+Output: 0.971601 
+Target: 1 
+Erro da Rede: 0.00979911
+
+Step1842: Input : 1 1 
+Output: 0.971675 
+Target: 1 
+Erro da Rede: 0.00998253
+
+Step1843: Input : 1 0 
+Output: 0.00232365 
+Target: 0 
+Erro da Rede: 0.0099067
+
+Step1844: Input : 0 1 
+Output: 0.0044353 
+Target: 0 
+Erro da Rede: 0.00985253
+
+Step1845: Input : 0 0 
+Output: -0.00090424 
+Target: 0 
+Erro da Rede: 0.00976394
+
+Step1846: Input : 0 1 
+Output: -0.00101861 
+Target: 0 
+Erro da Rede: 0.00967735
+
+Step1847: Input : 0 0 
+Output: -0.00123362 
+Target: 0 
+Erro da Rede: 0.00959375
+
+Step1848: Input : 0 0 
+Output: -0.000101553 
+Target: 0 
+Erro da Rede: 0.00949976
+
+Step1849: Input : 1 1 
+Output: 0.971629 
+Target: 1 
+Erro da Rede: 0.00968661
+
+Step1850: Input : 0 1 
+Output: 0.00146957 
+Target: 0 
+Erro da Rede: 0.00960525
+
+Step1851: Input : 1 0 
+Output: 0.00158447 
+Target: 0 
+Erro da Rede: 0.00952584
+
+Step1852: Input : 1 0 
+Output: 0.000301374 
+Target: 0 
+Erro da Rede: 0.00943451
+
+Step1853: Input : 0 0 
+Output: -0.000124968 
+Target: 0 
+Erro da Rede: 0.00934233
+
+Step1854: Input : 1 0 
+Output: -0.00100485 
+Target: 0 
+Erro da Rede: 0.00925978
+
+Step1855: Input : 0 0 
+Output: 9.55444e-05 
+Target: 0 
+Erro da Rede: 0.00916905
+
+Step1856: Input : 0 1 
+Output: -0.000374299 
+Target: 0 
+Erro da Rede: 0.00908197
+
+Step1857: Input : 1 1 
+Output: 0.971665 
+Target: 1 
+Erro da Rede: 0.00927259
+
+Step1858: Input : 1 1 
+Output: 0.971755 
+Target: 1 
+Erro da Rede: 0.00946044
+
+Step1859: Input : 0 1 
+Output: 0.00261438 
+Target: 0 
+Erro da Rede: 0.00939265
+
+Step1860: Input : 1 0 
+Output: 0.00305727 
+Target: 0 
+Erro da Rede: 0.00932993
+
+Step1861: Input : 0 0 
+Output: -5.35516e-05 
+Target: 0 
+Erro da Rede: 0.00923808
+
+Step1862: Input : 0 0 
+Output: -0.0010247 
+Target: 0 
+Erro da Rede: 0.00915676
+
+Step1863: Input : 0 1 
+Output: -0.000872105 
+Target: 0 
+Erro da Rede: 0.00907474
+
+Step1864: Input : 1 1 
+Output: 0.971716 
+Target: 1 
+Erro da Rede: 0.00926492
+
+Step1865: Input : 0 0 
+Output: 0.00105969 
+Target: 0 
+Erro da Rede: 0.00918368
+
+Step1866: Input : 1 1 
+Output: 0.97183 
+Target: 1 
+Erro da Rede: 0.00937166
+
+Step1867: Input : 0 1 
+Output: 0.00262744 
+Target: 0 
+Erro da Rede: 0.00930489
+
+Step1868: Input : 0 0 
+Output: 0.000343508 
+Target: 0 
+Erro da Rede: 0.00921616
+
+Step1869: Input : 0 0 
+Output: -0.000451169 
+Target: 0 
+Erro da Rede: 0.00912938
+
+Step1870: Input : 0 0 
+Output: -0.000477137 
+Target: 0 
+Erro da Rede: 0.00904372
+
+Step1871: Input : 0 0 
+Output: -9.7338e-05 
+Target: 0 
+Erro da Rede: 0.00895514
+
+Step1872: Input : 0 0 
+Output: 0.000172686 
+Target: 0 
+Erro da Rede: 0.00886818
+
+Step1873: Input : 0 0 
+Output: 0.000165546 
+Target: 0 
+Erro da Rede: 0.00878202
+
+Step1874: Input : 0 1 
+Output: -0.000781815 
+Target: 0 
+Erro da Rede: 0.00870281
+
+Step1875: Input : 1 1 
+Output: 0.97188 
+Target: 1 
+Erro da Rede: 0.00889506
+
+Step1876: Input : 0 1 
+Output: 0.00116804 
+Target: 0 
+Erro da Rede: 0.00881855
+
+Step1877: Input : 0 0 
+Output: 0.00118123 
+Target: 0 
+Erro da Rede: 0.00874294
+
+Step1878: Input : 0 0 
+Output: 0.000148454 
+Target: 0 
+Erro da Rede: 0.00865784
+
+Step1879: Input : 1 1 
+Output: 0.971929 
+Target: 1 
+Erro da Rede: 0.00885005
+
+Step1880: Input : 0 1 
+Output: 9.69041e-05 
+Target: 0 
+Erro da Rede: 0.00876338
+
+Step1881: Input : 1 0 
+Output: 0.00305868 
+Target: 0 
+Erro da Rede: 0.0087069
+
+Step1882: Input : 1 1 
+Output: 0.971945 
+Target: 1 
+Erro da Rede: 0.00889846
+
+Step1883: Input : 0 1 
+Output: 0.000702813 
+Target: 0 
+Erro da Rede: 0.00881732
+
+Step1884: Input : 0 0 
+Output: -0.00181548 
+Target: 0 
+Erro da Rede: 0.00874799
+
+Step1885: Input : 1 0 
+Output: 0.000602088 
+Target: 0 
+Erro da Rede: 0.00866734
+
+Step1886: Input : 1 0 
+Output: 0.000473474 
+Target: 0 
+Erro da Rede: 0.00858621
+
+Step1887: Input : 1 0 
+Output: -2.363e-05 
+Target: 0 
+Erro da Rede: 0.00850144
+
+Step1888: Input : 1 0 
+Output: -0.000250578 
+Target: 0 
+Erro da Rede: 0.00841974
+
+Step1889: Input : 0 0 
+Output: -0.000189413 
+Target: 0 
+Erro da Rede: 0.00833826
+
+Step1890: Input : 1 0 
+Output: 2.68457e-05 
+Target: 0 
+Erro da Rede: 0.00825597
+
+Step1891: Input : 0 1 
+Output: 0.00183679 
+Target: 0 
+Erro da Rede: 0.00819241
+
+Step1892: Input : 0 0 
+Output: -0.000768692 
+Target: 0 
+Erro da Rede: 0.00811891
+
+Step1893: Input : 0 0 
+Output: -0.000579695 
+Target: 0 
+Erro da Rede: 0.00804426
+
+Step1894: Input : 1 1 
+Output: 0.971968 
+Target: 1 
+Erro da Rede: 0.00824216
+
+Step1895: Input : 0 0 
+Output: 0.00105787 
+Target: 0 
+Erro da Rede: 0.00817103
+
+Step1896: Input : 1 0 
+Output: 0.00169404 
+Target: 0 
+Erro da Rede: 0.0081069
+
+Step1897: Input : 0 0 
+Output: -0.000381141 
+Target: 0 
+Erro da Rede: 0.0080304
+
+Step1898: Input : 0 0 
+Output: -0.000617296 
+Target: 0 
+Erro da Rede: 0.00795701
+
+Step1899: Input : 0 0 
+Output: -0.000226727 
+Target: 0 
+Erro da Rede: 0.00788047
+
+Step1900: Input : 1 0 
+Output: -0.000212807 
+Target: 0 
+Erro da Rede: 0.00780455
+
+Step1901: Input : 1 0 
+Output: 5.8122e-05 
+Target: 0 
+Erro da Rede: 0.00772785
+
+Step1902: Input : 1 0 
+Output: 0.000140455 
+Target: 0 
+Erro da Rede: 0.00765273
+
+Step1903: Input : 1 1 
+Output: 0.972038 
+Target: 1 
+Erro da Rede: 0.00785381
+
+Step1904: Input : 0 1 
+Output: 0.0022386 
+Target: 0 
+Erro da Rede: 0.00779821
+
+Step1905: Input : 1 0 
+Output: 0.000992664 
+Target: 0 
+Erro da Rede: 0.00773083
+
+Step1906: Input : 1 0 
+Output: 0.000115305 
+Target: 0 
+Erro da Rede: 0.00765543
+
+Step1907: Input : 0 1 
+Output: -0.000861679 
+Target: 0 
+Erro da Rede: 0.00758817
+
+Step1908: Input : 0 0 
+Output: -0.000692213 
+Target: 0 
+Erro da Rede: 0.00751989
+
+Step1909: Input : 0 1 
+Output: 0.00031342 
+Target: 0 
+Erro da Rede: 0.00744854
+
+Step1910: Input : 1 0 
+Output: -0.000132129 
+Target: 0 
+Erro da Rede: 0.0073761
+
+Step1911: Input : 1 1 
+Output: 0.972048 
+Target: 1 
+Erro da Rede: 0.00757982
+
+Step1912: Input : 0 0 
+Output: 0.00114743 
+Target: 0 
+Erro da Rede: 0.00751613
+
+Step1913: Input : 0 0 
+Output: 0.000628736 
+Target: 0 
+Erro da Rede: 0.00744794
+
+Step1914: Input : 1 1 
+Output: 0.972125 
+Target: 1 
+Erro da Rede: 0.00765019
+
+Step1915: Input : 1 0 
+Output: 0.00122794 
+Target: 0 
+Erro da Rede: 0.0075866
+
+Step1916: Input : 1 0 
+Output: 0.000461016 
+Target: 0 
+Erro da Rede: 0.00751605
+
+Step1917: Input : 1 1 
+Output: 0.972173 
+Target: 1 
+Erro da Rede: 0.00771714
+
+Step1918: Input : 1 0 
+Output: 0.000167395 
+Target: 0 
+Erro da Rede: 0.00764239
+
+Step1919: Input : 1 0 
+Output: 0.000270053 
+Target: 0 
+Erro da Rede: 0.0075694
+
+Step1920: Input : 1 1 
+Output: 0.972276 
+Target: 1 
+Erro da Rede: 0.00776895
+
+Step1921: Input : 0 1 
+Output: 0.0042466 
+Target: 0 
+Erro da Rede: 0.00773408
+
+Step1922: Input : 1 0 
+Output: 0.00056965 
+Target: 0 
+Erro da Rede: 0.00766314
+
+Step1923: Input : 1 1 
+Output: 0.972185 
+Target: 1 
+Erro da Rede: 0.00786266
+
+Step1924: Input : 0 1 
+Output: -0.00103097 
+Target: 0 
+Erro da Rede: 0.00779502
+
+Step1925: Input : 1 0 
+Output: 0.000927237 
+Target: 0 
+Erro da Rede: 0.00772703
+
+Step1926: Input : 1 0 
+Output: 0.000309455 
+Target: 0 
+Erro da Rede: 0.00765358
+
+Step1927: Input : 0 0 
+Output: -0.00211674 
+Target: 0 
+Erro da Rede: 0.00759876
+
+Step1928: Input : 1 0 
+Output: 0.000585534 
+Target: 0 
+Erro da Rede: 0.00752933
+
+Step1929: Input : 1 0 
+Output: 0.000483696 
+Target: 0 
+Erro da Rede: 0.00745957
+
+Step1930: Input : 1 1 
+Output: 0.972316 
+Target: 1 
+Erro da Rede: 0.00765981
+
+Step1931: Input : 0 1 
+Output: 0.00310989 
+Target: 0 
+Erro da Rede: 0.00761476
+
+Step1932: Input : 1 1 
+Output: 0.972318 
+Target: 1 
+Erro da Rede: 0.00781344
+
+Step1933: Input : 1 0 
+Output: 0.00125732 
+Target: 0 
+Erro da Rede: 0.00774853
+
+Step1934: Input : 1 0 
+Output: 0.000509361 
+Target: 0 
+Erro da Rede: 0.00767686
+
+Step1935: Input : 1 1 
+Output: 0.972314 
+Target: 1 
+Erro da Rede: 0.00787496
+
+Step1936: Input : 1 1 
+Output: 0.972377 
+Target: 1 
+Erro da Rede: 0.00807049
+
+Step1937: Input : 0 0 
+Output: -9.85976e-05 
+Target: 0 
+Erro da Rede: 0.00799156
+
+Step1938: Input : 0 1 
+Output: 0.00256505 
+Target: 0 
+Erro da Rede: 0.00793783
+
+Step1939: Input : 0 1 
+Output: 0.000521775 
+Target: 0 
+Erro da Rede: 0.00786441
+
+Step1940: Input : 1 1 
+Output: 0.972438 
+Target: 1 
+Erro da Rede: 0.00805943
+
+Step1941: Input : 0 1 
+Output: -0.000836062 
+Target: 0 
+Erro da Rede: 0.00798791
+
+Step1942: Input : 0 0 
+Output: -0.000341164 
+Target: 0 
+Erro da Rede: 0.0079122
+
+Step1943: Input : 1 1 
+Output: 0.97258 
+Target: 1 
+Erro da Rede: 0.00810535
+
+Step1944: Input : 1 1 
+Output: 0.972672 
+Target: 1 
+Erro da Rede: 0.00829567
+
+Step1945: Input : 0 1 
+Output: 0.00330365 
+Target: 0 
+Erro da Rede: 0.00824624
+
+Step1946: Input : 0 0 
+Output: 0.00149081 
+Target: 0 
+Erro da Rede: 0.00817936
+
+Step1947: Input : 1 1 
+Output: 0.972679 
+Target: 1 
+Erro da Rede: 0.00836888
+
+Step1948: Input : 0 0 
+Output: -0.00040831 
+Target: 0 
+Erro da Rede: 0.00829007
+
+Step1949: Input : 0 0 
+Output: -0.00014034 
+Target: 0 
+Erro da Rede: 0.00820938
+
+Step1950: Input : 1 1 
+Output: 0.97277 
+Target: 1 
+Erro da Rede: 0.00839769
+
+Step1951: Input : 1 1 
+Output: 0.972853 
+Target: 1 
+Erro da Rede: 0.00858334
+
+Step1952: Input : 1 0 
+Output: 0.0092162 
+Target: 0 
+Erro da Rede: 0.0085896
+
+Step1953: Input : 0 0 
+Output: -0.00236338 
+Target: 0 
+Erro da Rede: 0.00852796
+
+Step1954: Input : 0 0 
+Output: -0.00265741 
+Target: 0 
+Erro da Rede: 0.00846983
+
+Step1955: Input : 1 1 
+Output: 0.972713 
+Target: 1 
+Erro da Rede: 0.00865614
+
+Step1956: Input : 0 0 
+Output: 0.00115866 
+Target: 0 
+Erro da Rede: 0.00858191
+
+Step1957: Input : 1 1 
+Output: 0.972823 
+Target: 1 
+Erro da Rede: 0.00876602
+
+Step1958: Input : 0 0 
+Output: 0.00177852 
+Target: 0 
+Erro da Rede: 0.00869684
+
+Step1959: Input : 1 0 
+Output: 7.62227e-05 
+Target: 0 
+Erro da Rede: 0.00861148
+
+Step1960: Input : 0 1 
+Output: 0.00568119 
+Target: 0 
+Erro da Rede: 0.00858247
+
+Step1961: Input : 0 0 
+Output: -0.00315066 
+Target: 0 
+Erro da Rede: 0.00852869
+
+Step1962: Input : 0 1 
+Output: -0.000832026 
+Target: 0 
+Erro da Rede: 0.00845249
+
+Step1963: Input : 0 1 
+Output: -0.000604496 
+Target: 0 
+Erro da Rede: 0.00837478
+
+Step1964: Input : 0 1 
+Output: 7.37644e-05 
+Target: 0 
+Erro da Rede: 0.00829259
+
+Step1965: Input : 1 0 
+Output: 0.00114214 
+Target: 0 
+Erro da Rede: 0.0082218
+
+Step1966: Input : 1 1 
+Output: 0.972729 
+Target: 1 
+Erro da Rede: 0.0084104
+
+Step1967: Input : 1 0 
+Output: 0.000615243 
+Target: 0 
+Erro da Rede: 0.00833322
+
+Step1968: Input : 0 0 
+Output: -0.000122495 
+Target: 0 
+Erro da Rede: 0.00825193
+
+Step1969: Input : 1 1 
+Output: 0.972804 
+Target: 1 
+Erro da Rede: 0.0084395
+
+Step1970: Input : 0 1 
+Output: 0.00268605 
+Target: 0 
+Erro da Rede: 0.00838253
+
+Step1971: Input : 1 1 
+Output: 0.972831 
+Target: 1 
+Erro da Rede: 0.00856854
+
+Step1972: Input : 1 0 
+Output: 0.00176916 
+Target: 0 
+Erro da Rede: 0.00850122
+
+Step1973: Input : 0 0 
+Output: -0.000903316 
+Target: 0 
+Erro da Rede: 0.00842599
+
+Step1974: Input : 0 1 
+Output: 0.000463066 
+Target: 0 
+Erro da Rede: 0.00834715
+
+Step1975: Input : 0 0 
+Output: -0.000659477 
+Target: 0 
+Erro da Rede: 0.00827104
+
+Step1976: Input : 0 0 
+Output: -0.000151609 
+Target: 0 
+Erro da Rede: 0.00819064
+
+Step1977: Input : 1 1 
+Output: 0.972865 
+Target: 1 
+Erro da Rede: 0.00837822
+
+Step1978: Input : 0 1 
+Output: 0.0014973 
+Target: 0 
+Erro da Rede: 0.00831009
+
+Step1979: Input : 0 0 
+Output: 0.000845585 
+Target: 0 
+Erro da Rede: 0.00823618
+
+Step1980: Input : 0 1 
+Output: -0.000310483 
+Target: 0 
+Erro da Rede: 0.00815771
+
+Step1981: Input : 0 1 
+Output: -0.000465543 
+Target: 0 
+Erro da Rede: 0.00808155
+
+Step1982: Input : 1 0 
+Output: 0.00165346 
+Target: 0 
+Erro da Rede: 0.00801791
+
+Step1983: Input : 0 1 
+Output: -0.000209496 
+Target: 0 
+Erro da Rede: 0.0079406
+
+Step1984: Input : 0 1 
+Output: -6.44823e-05 
+Target: 0 
+Erro da Rede: 0.00786261
+
+Step1985: Input : 1 1 
+Output: 0.972844 
+Target: 1 
+Erro da Rede: 0.00805364
+
+Step1986: Input : 0 0 
+Output: -0.000811813 
+Target: 0 
+Erro da Rede: 0.00798194
+
+Step1987: Input : 0 1 
+Output: 0.00190186 
+Target: 0 
+Erro da Rede: 0.00792174
+
+Step1988: Input : 0 0 
+Output: -0.000272743 
+Target: 0 
+Erro da Rede: 0.00784601
+
+Step1989: Input : 0 1 
+Output: 3.98111e-05 
+Target: 0 
+Erro da Rede: 0.00776872
+
+Step1990: Input : 0 0 
+Output: -0.000305158 
+Target: 0 
+Erro da Rede: 0.00769482
+
+Step1991: Input : 0 1 
+Output: -0.000256005 
+Target: 0 
+Erro da Rede: 0.00762117
+
+Step1992: Input : 1 1 
+Output: 0.972936 
+Target: 1 
+Erro da Rede: 0.00781367
+
+Step1993: Input : 0 1 
+Output: 0.000980575 
+Target: 0 
+Erro da Rede: 0.00774601
+
+Step1994: Input : 1 1 
+Output: 0.97302 
+Target: 1 
+Erro da Rede: 0.00793645
+
+Step1995: Input : 1 1 
+Output: 0.973094 
+Target: 1 
+Erro da Rede: 0.00812427
+
+Step1996: Input : 1 0 
+Output: 0.00491315 
+Target: 0 
+Erro da Rede: 0.00809248
+
+Step1997: Input : 1 0 
+Output: 0.00108062 
+Target: 0 
+Erro da Rede: 0.00802306
+
+Step1998: Input : 1 1 
+Output: 0.973011 
+Target: 1 
+Erro da Rede: 0.00821084
+
+Step1999: Input : 0 1 
+Output: 0.0025926 
+Target: 0 
+Erro da Rede: 0.00815521
+
+Step2000: Input : 1 1 
+Output: 0.972969 
+Target: 1 
+Erro da Rede: 0.0083421
+
+Step2001: Input : 0 0 
+Output: -0.00261665 
+Target: 0 
+Erro da Rede: 0.00828541
+
+Step2002
+Fim
