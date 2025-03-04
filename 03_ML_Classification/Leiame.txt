@@ -1,0 +1,11 @@
+# Leiame do Projeto 1
+
+1- Cria sua conta no Reddit
+2- Crie a app de desenvolvedor
+3- Instale os pacotes praw e config
+4- Execute o projeto executando: python Projeto1.py
+
+# Instalação dos pacotes:
+
+pip install config
+pip install praw
