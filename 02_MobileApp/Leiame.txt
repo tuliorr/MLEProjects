@@ -1,0 +1,9 @@
+Para executar a app:
+
+1- Descompacte o arquivo zip disponível ao final do capítulo em uma pasta no seu computador.
+
+2- Abra o terminal ou prompt de comando e execute: yarn install
+
+3- Na sequência, ainda no terminal ou prompt de comando, execute: npm install
+
+4- Inicie a app executando: yarn start
