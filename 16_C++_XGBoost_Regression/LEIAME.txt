@@ -1,0 +1,28 @@
+# Para executar o modelo em Python:
+
+1- Abra o terminal ou prompt de comando.
+
+2- Navegue até a pasta onde está o conteúdo do Projeto 8. Acesse a pasta src_python.
+
+3- Execute: python executa_modelo.py --modelo ../modelos/modelo.xgb --dados ../dados/dataset.csv --resultado ../resultados/previsoes_python.csv
+
+
+
+
+# Para executar o modelo em C++:
+
+1- Abra o terminal ou prompt de comando.
+
+2- Navegue até a pasta onde está o conteúdo do Projeto 8. Acesse a pasta src_cpp.
+
+3- Execute (certifique-se de ter o CMake instalado no seu SO): 
+
+mkdir build
+cd build
+cmake ../comp/
+cmake --build .
+cmake --build predict 
+
+./predict/predict --model ../../modelos/modelo.xgb --data ../../dados/dataset.csv --result ../../resultados/previsoes_cpp.txt
+
+
